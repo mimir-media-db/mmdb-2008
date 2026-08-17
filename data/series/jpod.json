@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jpod",
+  "title": "JPod",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6108785",
+    "imdb": "tt1024701",
+    "tmdb": 15133
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

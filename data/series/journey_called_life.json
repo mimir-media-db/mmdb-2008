@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_journey_called_life",
+  "title": "A Journey Called Life",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q986583",
+    "tmdb": 15630
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

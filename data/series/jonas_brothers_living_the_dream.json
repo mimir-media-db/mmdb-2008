@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jonas_brothers_living_the_dream",
+  "title": "Jonas Brothers: Living the Dream",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1145145",
+    "imdb": "tt1223620",
+    "tmdb": 7176
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 27
+}
