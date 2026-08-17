@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_especes_despeces_2008",
+  "title": "Espèces d'espèces",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3058573",
+    "imdb": "tt1537761",
+    "tmdb": 70523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

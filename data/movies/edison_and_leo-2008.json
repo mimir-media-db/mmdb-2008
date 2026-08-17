@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edison_and_leo_2008",
+  "title": "Edison and Leo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5338444",
+    "imdb": "tt0907678",
+    "tmdb": 45097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 79
+}

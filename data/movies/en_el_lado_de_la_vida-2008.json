@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_el_lado_de_la_vida_2008",
+  "title": "En el lado de la vida",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5412264",
+    "imdb": "tt1345822",
+    "tmdb": 786171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 13
+}

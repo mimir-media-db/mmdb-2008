@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_episode_iii_enjoy_poverty_2008",
+  "title": "Episode III: Enjoy Poverty",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q517406",
+    "imdb": "tt1444307",
+    "tmdb": 58877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

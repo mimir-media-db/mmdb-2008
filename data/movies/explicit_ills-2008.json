@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_explicit_ills_2008",
+  "title": "Explicit Ills",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5421258",
+    "imdb": "tt1095001",
+    "tmdb": 20161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 87
+}

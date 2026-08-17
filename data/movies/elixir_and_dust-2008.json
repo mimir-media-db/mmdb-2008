@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elixir_and_dust_2008",
+  "title": "Elixir and Dust",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5886156",
+    "imdb": "tt2246675",
+    "tmdb": 872065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

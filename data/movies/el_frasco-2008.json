@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_frasco_2008",
+  "title": "El frasco",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5681618",
+    "imdb": "tt1278055",
+    "tmdb": 102377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 93
+}

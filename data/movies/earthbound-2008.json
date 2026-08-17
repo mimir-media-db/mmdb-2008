@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_earthbound_2008",
+  "title": "Earthbound",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5926294",
+    "imdb": "tt1431261",
+    "tmdb": 444938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
