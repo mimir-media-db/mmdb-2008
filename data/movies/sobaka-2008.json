@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sobaka_2008",
+  "title": "Sobaka",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131539835",
+    "imdb": "tt1337542",
+    "tmdb": 479642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

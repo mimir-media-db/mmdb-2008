@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_same_to_you_boss_2008",
+  "title": "Same to You, Boss!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104895068",
+    "imdb": "tt0997109",
+    "tmdb": 223098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 92
+}

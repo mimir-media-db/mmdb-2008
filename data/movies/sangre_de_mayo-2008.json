@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sangre_de_mayo_2008",
+  "title": "Sangre de Mayo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7418121",
+    "imdb": "tt1114715",
+    "tmdb": 189365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-03",
+  "runtime_minutes": 152
+}

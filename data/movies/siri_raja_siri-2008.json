@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_siri_raja_siri_2008",
+  "title": "Siri Raja Siri",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30594361",
+    "imdb": "tt1396224"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-06",
+  "runtime_minutes": 88
+}

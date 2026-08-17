@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_and_the_city_2008",
+  "title": "Sex and the City",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q381751",
+    "imdb": "tt1000774",
+    "tmdb": 4564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-12",
+  "runtime_minutes": 145
+}

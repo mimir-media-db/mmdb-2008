@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_solange_on_love_2008",
+  "title": "Solange on love",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20496454",
+    "imdb": "tt1489241"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 49
+}

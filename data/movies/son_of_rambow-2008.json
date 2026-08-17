@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_son_of_rambow_2008",
+  "title": "Son of Rambow",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q708831",
+    "imdb": "tt0845046",
+    "tmdb": 13258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-04",
+  "runtime_minutes": 96
+}

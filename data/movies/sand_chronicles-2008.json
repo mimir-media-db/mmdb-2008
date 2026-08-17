@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sand_chronicles_2008",
+  "title": "Sand Chronicles",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16690016",
+    "imdb": "tt1155735",
+    "tmdb": 277619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

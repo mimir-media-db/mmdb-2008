@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_semipro_2008",
+  "title": "Semi-Pro",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q747803",
+    "imdb": "tt0839980",
+    "tmdb": 13260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-19",
+  "runtime_minutes": 91
+}

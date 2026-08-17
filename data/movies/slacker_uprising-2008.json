@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slacker_uprising_2008",
+  "title": "Slacker Uprising",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1393195",
+    "imdb": "tt0850669",
+    "tmdb": 13516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-23",
+  "runtime_minutes": 97
+}

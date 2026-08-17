@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scenery_to_remember_2008",
+  "title": "Scenery to Remember",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32859482",
+    "imdb": "tt1313148",
+    "tmdb": 143940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

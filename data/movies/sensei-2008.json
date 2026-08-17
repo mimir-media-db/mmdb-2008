@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sensei_2008",
+  "title": "The Sensei",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7763294",
+    "imdb": "tt0454941",
+    "tmdb": 35081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

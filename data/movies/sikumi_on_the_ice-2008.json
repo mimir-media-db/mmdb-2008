@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sikumi_on_the_ice_2008",
+  "title": "Sikumi (On the Ice)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72881731",
+    "imdb": "tt1152712",
+    "tmdb": 69915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 15
+}

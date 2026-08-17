@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_senior_skip_day_2008",
+  "title": "Senior Skip Day",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4129111",
+    "imdb": "tt0849470",
+    "tmdb": 20066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-06",
+  "runtime_minutes": 92
+}

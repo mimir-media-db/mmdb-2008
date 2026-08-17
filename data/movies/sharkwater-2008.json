@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sharkwater_2008",
+  "title": "Sharkwater",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1751720",
+    "imdb": "tt0856008",
+    "tmdb": 13894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-10",
+  "runtime_minutes": 89
+}

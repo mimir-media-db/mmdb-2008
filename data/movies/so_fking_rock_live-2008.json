@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_fking_rock_live_2008",
+  "title": "So F**king Rock Live",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7549144",
+    "imdb": "tt5286440",
+    "tmdb": 43413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 127
+}

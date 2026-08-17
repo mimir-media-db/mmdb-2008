@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_salvation_2008",
+  "title": "Salvation",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7406587",
+    "imdb": "tt1297299",
+    "tmdb": 254865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-12"
+}

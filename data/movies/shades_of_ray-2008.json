@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shades_of_ray_2008",
+  "title": "Shades of Ray",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7460335",
+    "imdb": "tt0886531",
+    "tmdb": 79519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

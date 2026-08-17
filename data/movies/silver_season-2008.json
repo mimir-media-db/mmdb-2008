@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silver_season_2008",
+  "title": "The Silver Season",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11650115",
+    "imdb": "tt1167839",
+    "tmdb": 138763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_substitute_2008",
+  "title": "The Substitute",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q195920",
+    "imdb": "tt0478394",
+    "tmdb": 12416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-14",
+  "runtime_minutes": 93
+}

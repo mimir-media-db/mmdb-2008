@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorry_dokdo_2008",
+  "title": "Sorry, Dokdo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738211",
+    "imdb": "tt6449026",
+    "tmdb": 417209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}

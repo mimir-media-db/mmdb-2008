@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_of_sand_2008",
+  "title": "Shadow of Sand",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11587373",
+    "imdb": "tt2971358",
+    "tmdb": 545442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spike_2008",
+  "title": "Spike",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7577170",
+    "imdb": "tt0970453",
+    "tmdb": 110530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_speedy_delivery_2008",
+  "title": "Speedy Delivery",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12127850",
+    "imdb": "tt1305872",
+    "tmdb": 256792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_2008",
+  "title": "Sons",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23794616",
+    "imdb": "tt1054514",
+    "tmdb": 461019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-01"
+}

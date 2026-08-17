@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sold_out_a_threevening_with_kevin_smith_2008",
+  "title": "Sold Out: A Threevening with Kevin Smith",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12127568",
+    "imdb": "tt1083858",
+    "tmdb": 17041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 122
+}

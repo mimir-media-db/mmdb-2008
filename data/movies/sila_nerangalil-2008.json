@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sila_nerangalil_2008",
+  "title": "Sila Nerangalil",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7514014",
+    "imdb": "tt2856508"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

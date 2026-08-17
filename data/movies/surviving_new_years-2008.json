@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_surviving_new_years_2008",
+  "title": "Surviving New Year's",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24038210",
+    "imdb": "tt1295916"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

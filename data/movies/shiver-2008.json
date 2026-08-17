@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shiver_2008",
+  "title": "Shiver",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3482397",
+    "imdb": "tt0896927",
+    "tmdb": 30713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-18",
+  "runtime_minutes": 91
+}

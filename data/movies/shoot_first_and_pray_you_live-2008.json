@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shoot_first_and_pray_you_live_2008",
+  "title": "Shoot First and Pray You Live",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27942950",
+    "imdb": "tt0818226",
+    "tmdb": 82313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-04"
+}

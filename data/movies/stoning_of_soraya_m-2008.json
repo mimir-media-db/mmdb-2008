@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stoning_of_soraya_m_2008",
+  "title": "The Stoning of Soraya M.",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1021571",
+    "imdb": "tt1277737",
+    "tmdb": 33409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-07",
+  "runtime_minutes": 109
+}

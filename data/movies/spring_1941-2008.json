@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spring_1941_2008",
+  "title": "Spring 1941",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18673197",
+    "imdb": "tt1252616",
+    "tmdb": 53604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-01",
+  "runtime_minutes": 120
+}

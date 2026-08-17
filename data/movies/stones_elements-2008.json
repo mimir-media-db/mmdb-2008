@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stones_elements_2008",
+  "title": "Stones (Elements)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56379705",
+    "imdb": "tt2359556",
+    "tmdb": 473201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-04",
+  "runtime_minutes": 20
+}
