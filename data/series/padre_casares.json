@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_padre_casares",
+  "title": "Padre Casares",
+  "start_year": 2008,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q9054200",
+    "imdb": "tt1205836",
+    "tmdb": 65452
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 232
+}

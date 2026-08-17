@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pinoy_idol",
+  "title": "Pinoy Idol",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3234687",
+    "imdb": "tt1213004",
+    "tmdb": 14643
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 37
+}

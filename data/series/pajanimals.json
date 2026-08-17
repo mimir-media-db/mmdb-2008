@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pajanimals",
+  "title": "Pajanimals",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6195573",
+    "imdb": "tt1419888",
+    "tmdb": 20411
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}
