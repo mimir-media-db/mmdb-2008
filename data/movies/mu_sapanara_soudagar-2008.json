@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mu_sapanara_soudagar_2008",
+  "title": "Mu Sapanara Soudagar",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6930622",
+    "imdb": "tt1399054",
+    "tmdb": 452281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

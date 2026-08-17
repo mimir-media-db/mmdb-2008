@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_minghags_the_movie_2008",
+  "title": "Minghags: The Movie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6864718",
+    "imdb": "tt1022877",
+    "tmdb": 19074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

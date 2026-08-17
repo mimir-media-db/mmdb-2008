@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mysteries_of_pittsburgh_2008",
+  "title": "The Mysteries of Pittsburgh",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q782059",
+    "imdb": "tt0768218",
+    "tmdb": 20471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

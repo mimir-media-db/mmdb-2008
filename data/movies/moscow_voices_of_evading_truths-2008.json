@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moscow_voices_of_evading_truths_2008",
+  "title": "Moscow. Voices of evading truths",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4303705",
+    "imdb": "tt13309350",
+    "tmdb": 1280881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

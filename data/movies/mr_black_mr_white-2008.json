@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_black_mr_white_2008",
+  "title": "Mr. Black Mr. White",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6928445",
+    "imdb": "tt1228726",
+    "tmdb": 46411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

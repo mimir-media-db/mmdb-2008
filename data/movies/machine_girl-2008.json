@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machine_girl_2008",
+  "title": "The Machine Girl",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1999568",
+    "imdb": "tt1050160",
+    "tmdb": 13964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

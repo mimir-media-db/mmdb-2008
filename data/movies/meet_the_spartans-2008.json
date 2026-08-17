@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_the_spartans_2008",
+  "title": "Meet the Spartans",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q741257",
+    "imdb": "tt1073498",
+    "tmdb": 7278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 83
+}

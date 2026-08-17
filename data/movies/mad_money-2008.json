@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_money_2008",
+  "title": "Mad Money",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q969425",
+    "imdb": "tt0951216",
+    "tmdb": 12085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 104
+}

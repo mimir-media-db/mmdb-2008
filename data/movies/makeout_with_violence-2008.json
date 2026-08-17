@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_makeout_with_violence_2008",
+  "title": "Make-out with Violence",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6738869",
+    "imdb": "tt1284485",
+    "tmdb": 51122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 105
+}

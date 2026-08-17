@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_only_sunshine_2008",
+  "title": "My Only Sunshine",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6097325",
+    "imdb": "tt1370212",
+    "tmdb": 37573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

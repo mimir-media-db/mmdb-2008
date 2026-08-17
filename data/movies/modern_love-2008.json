@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_modern_love_2008",
+  "title": "Modern Love",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3317870",
+    "imdb": "tt0996962",
+    "tmdb": 13737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

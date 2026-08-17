@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_meat_train_2008",
+  "title": "The Midnight Meat Train",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2030471",
+    "imdb": "tt0805570",
+    "tmdb": 10185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

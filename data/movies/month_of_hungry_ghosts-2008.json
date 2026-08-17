@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_month_of_hungry_ghosts_2008",
+  "title": "A Month of Hungry Ghosts",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658350",
+    "imdb": "tt1274737",
+    "tmdb": 943827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_x_strikes_backattack_the_g8_summit_2008",
+  "title": "The Monster X Strikes Back/Attack the G8 Summit",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2361034",
+    "imdb": "tt1190867",
+    "tmdb": 70798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}
