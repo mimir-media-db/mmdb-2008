@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_u2_3d_2008",
+  "title": "U2 3D",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1935237",
+    "imdb": "tt0892375",
+    "tmdb": 37003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

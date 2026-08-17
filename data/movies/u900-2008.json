@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_u900_2008",
+  "title": "U-900",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2465659",
+    "imdb": "tt1151831",
+    "tmdb": 16193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

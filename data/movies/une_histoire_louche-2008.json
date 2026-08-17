@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_une_histoire_louche_2008",
+  "title": "Une histoire louche",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549556",
+    "tmdb": 486765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

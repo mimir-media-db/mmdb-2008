@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ultimi_della_classe_2008",
+  "title": "Ultimi della classe",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4003218",
+    "imdb": "tt1236403",
+    "tmdb": 60455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}
