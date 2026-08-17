@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_italy_2008",
+  "title": "I.T.A.L.Y.",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5967907",
+    "imdb": "tt1196944",
+    "tmdb": 58332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

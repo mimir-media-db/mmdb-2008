@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_cosmo_sul_como_2008",
+  "title": "Il cosmo sul comò",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3793674",
+    "imdb": "tt1288637",
+    "tmdb": 24169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

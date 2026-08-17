@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_because_we_are_2008",
+  "title": "I Am Because We Are",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2662913",
+    "imdb": "tt1138006",
+    "tmdb": 210733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

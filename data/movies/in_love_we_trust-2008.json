@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_love_we_trust_2008",
+  "title": "In Love We Trust",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1660633",
+    "imdb": "tt1018102",
+    "tmdb": 31205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 118
+}

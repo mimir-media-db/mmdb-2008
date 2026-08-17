@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_cavaliere_sole_2008",
+  "title": "Il cavaliere Sole",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3793372",
+    "imdb": "tt1706390",
+    "tmdb": 502812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

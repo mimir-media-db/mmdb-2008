@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_peso_dellaria_2008",
+  "title": "Il peso dell'aria",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3795109",
+    "imdb": "tt1439233",
+    "tmdb": 616085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

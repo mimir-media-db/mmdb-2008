@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_people_2008",
+  "title": "Ice People",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5985330",
+    "imdb": "tt1234433",
+    "tmdb": 78066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

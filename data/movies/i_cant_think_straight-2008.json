@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_cant_think_straight_2008",
+  "title": "I Can't Think Straight",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2983171",
+    "imdb": "tt0830570",
+    "tmdb": 31216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 80
+}

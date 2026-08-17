@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_a_dream_2008",
+  "title": "In a Dream",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6011337",
+    "imdb": "tt1185251",
+    "tmdb": 67985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_search_of_lovecraft_2008",
+  "title": "In Search of Lovecraft",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6010673",
+    "imdb": "tt0494237",
+    "tmdb": 54606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}
