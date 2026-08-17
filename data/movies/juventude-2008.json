@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_juventude_2008",
+  "title": "Juventude",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10313226",
+    "imdb": "tt1405775",
+    "tmdb": 327513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-10",
+  "runtime_minutes": 85
+}

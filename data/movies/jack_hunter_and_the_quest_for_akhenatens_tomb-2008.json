@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_hunter_and_the_quest_for_akhenatens_tomb_2008",
+  "title": "Jack Hunter and the Quest for Akhenaten's Tomb",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11715743",
+    "imdb": "tt1412093",
+    "tmdb": 32895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

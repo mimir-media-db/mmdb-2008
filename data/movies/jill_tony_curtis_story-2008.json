@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jill_tony_curtis_story_2008",
+  "title": "The Jill & Tony Curtis Story",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7743261",
+    "imdb": "tt1253579",
+    "tmdb": 276093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-27"
+}

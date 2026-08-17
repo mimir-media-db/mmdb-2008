@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jesus_christ_savior_2008",
+  "title": "Jesus Christ Savior",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q571554",
+    "imdb": "tt1183143",
+    "tmdb": 10667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-11",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jada_2008",
+  "title": "Jada",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251980",
+    "imdb": "tt1087457",
+    "tmdb": 216656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

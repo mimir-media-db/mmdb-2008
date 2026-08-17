@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jumper_2008",
+  "title": "Jumper",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q541079",
+    "imdb": "tt0489099",
+    "tmdb": 8247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-06",
+  "runtime_minutes": 89
+}

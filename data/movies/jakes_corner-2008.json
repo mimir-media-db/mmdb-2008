@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jakes_corner_2008",
+  "title": "Jake's Corner",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55614840",
+    "imdb": "tt1024746",
+    "tmdb": 42578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

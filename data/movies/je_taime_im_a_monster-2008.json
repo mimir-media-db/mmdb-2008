@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_je_taime_im_a_monster_2008",
+  "title": "Je t'aime – I'm a Monster",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11310338",
+    "imdb": "tt1326989",
+    "tmdb": 255147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
