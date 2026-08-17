@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_120_2008",
+  "title": "120",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3545403",
+    "imdb": "tt1166085",
+    "tmdb": 10821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

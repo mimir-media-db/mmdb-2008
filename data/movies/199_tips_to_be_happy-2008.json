@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_199_tips_to_be_happy_2008",
+  "title": "199 Tips to Be Happy",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5651073",
+    "imdb": "tt1132571",
+    "tmdb": 59492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

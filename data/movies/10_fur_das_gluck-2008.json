@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_fur_das_gluck_2008",
+  "title": "1:0 für das Glück",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q208907",
+    "imdb": "tt1127880",
+    "tmdb": 262291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 88
+}
