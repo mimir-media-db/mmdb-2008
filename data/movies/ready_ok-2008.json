@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ready_ok_2008",
+  "title": "Ready? OK!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7300640",
+    "imdb": "tt1067084",
+    "tmdb": 40692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-17",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reach_for_me_2008",
+  "title": "Reach for Me",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7300190",
+    "imdb": "tt1096986",
+    "tmdb": 19795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revolver_2008",
+  "title": "Revolver",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q583869",
+    "imdb": "tt0365686",
+    "tmdb": 10851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-18",
+  "runtime_minutes": 115
+}

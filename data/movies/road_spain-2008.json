@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_road_spain_2008",
+  "title": "Road Spain",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94556716",
+    "imdb": "tt0807038"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-11",
+  "runtime_minutes": 85
+}

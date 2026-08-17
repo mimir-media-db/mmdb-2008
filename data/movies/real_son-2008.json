@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_real_son_2008",
+  "title": "The Real Son",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7759632",
+    "imdb": "tt1189388",
+    "tmdb": 548198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

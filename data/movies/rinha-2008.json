@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rinha_2008",
+  "title": "Rinha",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10361389",
+    "imdb": "tt1213924",
+    "tmdb": 252540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

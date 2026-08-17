@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_radit_dan_jani_2008",
+  "title": "Radit dan Jani",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12507665",
+    "imdb": "tt1190149",
+    "tmdb": 265239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

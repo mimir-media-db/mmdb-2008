@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resident_evil_degeneration_2008",
+  "title": "Resident Evil: Degeneration",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q284042",
+    "imdb": "tt1174954",
+    "tmdb": 13648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-18",
+  "runtime_minutes": 97
+}

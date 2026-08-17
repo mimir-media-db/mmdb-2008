@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ruins_2008",
+  "title": "The Ruins",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q772260",
+    "imdb": "tt0963794",
+    "tmdb": 11152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-02",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rough_cut_2008",
+  "title": "Rough Cut",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q487263",
+    "imdb": "tt1345734",
+    "tmdb": 17593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-11",
+  "runtime_minutes": 113
+}

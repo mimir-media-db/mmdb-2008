@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rec_2008",
+  "title": "Rec",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q754474",
+    "imdb": "tt1038988",
+    "tmdb": 8329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-28",
+  "runtime_minutes": 75
+}

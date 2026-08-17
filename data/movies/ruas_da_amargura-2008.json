@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ruas_da_amargura_2008",
+  "title": "Ruas da Amargura",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112707076",
+    "imdb": "tt2063765",
+    "tmdb": 700809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

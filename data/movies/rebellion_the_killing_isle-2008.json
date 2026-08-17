@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rebellion_the_killing_isle_2008",
+  "title": "Rebellion: The Killing Isle",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7302091",
+    "imdb": "tt1037133",
+    "tmdb": 45554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 82
+}

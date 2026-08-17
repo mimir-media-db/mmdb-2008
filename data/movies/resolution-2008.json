@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_resolution_2008",
+  "title": "The Resolution",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12058853",
+    "imdb": "tt1289835"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-01",
+  "runtime_minutes": 81
+}

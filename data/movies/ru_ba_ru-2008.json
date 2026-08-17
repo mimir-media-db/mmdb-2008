@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ru_ba_ru_2008",
+  "title": "Ru Ba Ru",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16960845",
+    "imdb": "tt1314367",
+    "tmdb": 88867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

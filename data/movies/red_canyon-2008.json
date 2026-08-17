@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_canyon_2008",
+  "title": "Red Canyon",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7303847",
+    "imdb": "tt1064801",
+    "tmdb": 40599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}

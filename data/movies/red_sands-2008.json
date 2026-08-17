@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_red_sands_2008",
+  "title": "Red Sands",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7304991",
+    "imdb": "tt1322978"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

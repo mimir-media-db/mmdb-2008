@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_renzo_gracie_legacy_2008",
+  "title": "Renzo Gracie: Legacy",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7313623",
+    "imdb": "tt1309599",
+    "tmdb": 170073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

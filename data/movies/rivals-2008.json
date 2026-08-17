@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rivals_2008",
+  "title": "Rivals",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3233538",
+    "imdb": "tt0942379",
+    "tmdb": 8648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-06",
+  "runtime_minutes": 103
+}

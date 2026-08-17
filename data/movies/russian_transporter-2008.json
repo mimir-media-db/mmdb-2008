@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_russian_transporter_2008",
+  "title": "Russian Transporter",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3453525",
+    "imdb": "tt1091989",
+    "tmdb": 29299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-23",
+  "runtime_minutes": 121
+}
