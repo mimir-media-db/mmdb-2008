@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zelyonyy_teatr_v_zemfire_2008",
+  "title": "Zelyonyy teatr v Zemfire",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4190961",
+    "imdb": "tt1224379",
+    "tmdb": 187631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 76
+}
