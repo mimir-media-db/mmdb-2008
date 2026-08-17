@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_iron_ring",
+  "title": "Iron Ring",
+  "start_year": 2008,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6072800",
+    "imdb": "tt1202295"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 14
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_bet_you",
+  "title": "I Bet You",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5976323",
+    "imdb": "tt0963266",
+    "tmdb": 6540
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ifc_media_project",
+  "title": "The IFC Media Project",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7741225",
+    "imdb": "tt1322044"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 6
+}
