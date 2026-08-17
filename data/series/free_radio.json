@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_free_radio",
+  "title": "Free Radio",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5500033",
+    "imdb": "tt1056319",
+    "tmdb": 15524
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

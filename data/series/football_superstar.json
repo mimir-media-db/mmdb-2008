@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_football_superstar",
+  "title": "Football Superstar",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5465907",
+    "imdb": "tt1288423",
+    "tmdb": 7443
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

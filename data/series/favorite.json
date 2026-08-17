@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_favorite",
+  "title": "The Favorite",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q281136",
+    "imdb": "tt1256139",
+    "tmdb": 7448
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 197
+}
