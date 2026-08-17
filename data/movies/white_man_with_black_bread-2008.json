@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_man_with_black_bread_2008",
+  "title": "White Man with Black Bread",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1198012",
+    "imdb": "tt1003074",
+    "tmdb": 8959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-12"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wenn_wir_uns_begegnen_2008",
+  "title": "Wenn wir uns begegnen",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47091914",
+    "imdb": "tt1227539",
+    "tmdb": 295264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

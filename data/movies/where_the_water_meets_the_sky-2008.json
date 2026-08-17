@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_where_the_water_meets_the_sky_2008",
+  "title": "Where the Water Meets the Sky",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9095904",
+    "imdb": "tt1256638",
+    "tmdb": 477595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

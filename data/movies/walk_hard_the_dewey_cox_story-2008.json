@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_hard_the_dewey_cox_story_2008",
+  "title": "Walk Hard: The Dewey Cox Story",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2060077",
+    "imdb": "tt0841046",
+    "tmdb": 6575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-18",
+  "runtime_minutes": 96
+}

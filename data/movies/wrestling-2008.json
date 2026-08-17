@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wrestling_2008",
+  "title": "Wrestling",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12134961",
+    "imdb": "tt0425656",
+    "tmdb": 271932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

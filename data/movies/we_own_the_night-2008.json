@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_own_the_night_2008",
+  "title": "We Own the Night",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q786038",
+    "imdb": "tt0498399",
+    "tmdb": 2001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-21",
+  "runtime_minutes": 117
+}

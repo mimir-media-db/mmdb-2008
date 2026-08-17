@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_on_battle_field_2008",
+  "title": "The Wedding on Battle Field",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20058181",
+    "imdb": "tt1318041",
+    "tmdb": 81935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_love_begins_2008",
+  "title": "When Love Begins",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7992661",
+    "imdb": "tt1217075",
+    "tmdb": 103857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

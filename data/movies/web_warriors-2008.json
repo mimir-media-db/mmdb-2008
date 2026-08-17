@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_web_warriors_2008",
+  "title": "Web Warriors",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26186641",
+    "imdb": "tt2317542",
+    "tmdb": 336146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_like_a_man_2008",
+  "title": "Walk like a Man",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7962074",
+    "imdb": "tt1046237",
+    "tmdb": 507836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

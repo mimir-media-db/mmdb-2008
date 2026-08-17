@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_i_become_silent_2008",
+  "title": "When I Become Silent",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11281825",
+    "imdb": "tt1210847",
+    "tmdb": 476301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-11"
+}

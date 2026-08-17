@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wushu_2008",
+  "title": "Wushu",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9378882",
+    "imdb": "tt0790786",
+    "tmdb": 16687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-10",
+  "runtime_minutes": 104
+}

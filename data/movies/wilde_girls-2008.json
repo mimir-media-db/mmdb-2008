@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wilde_girls_2008",
+  "title": "The Wilde Girls",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1160173",
+    "imdb": "tt0283146",
+    "tmdb": 591569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-15",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wir_sind_schon_mittendrin_2008",
+  "title": "Wir sind schon mittendrin",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101209954",
+    "imdb": "tt1341810",
+    "tmdb": 555611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

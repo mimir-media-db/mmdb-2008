@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waldick_sempre_no_meu_coracao_2008",
+  "title": "Waldick, Sempre no Meu Coração",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10392942",
+    "imdb": "tt1773823",
+    "tmdb": 213533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 58
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_combination_a_portrait_of_arthur_russell_2008",
+  "title": "Wild Combination: A Portrait of Arthur Russell",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8000597",
+    "imdb": "tt1168662",
+    "tmdb": 53743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 71
+}
