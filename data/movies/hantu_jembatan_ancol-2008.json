@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hantu_jembatan_ancol_2008",
+  "title": "Hantu Jembatan Ancol",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12485216",
+    "imdb": "tt1190115",
+    "tmdb": 513999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-31"
+}

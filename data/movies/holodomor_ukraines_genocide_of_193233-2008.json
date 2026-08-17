@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holodomor_ukraines_genocide_of_193233_2008",
+  "title": "Holodomor: Ukraine's Genocide of 1932-33",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20075783",
+    "imdb": "tt1275655",
+    "tmdb": 234159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 22
+}

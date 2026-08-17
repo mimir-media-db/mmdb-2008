@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_he_was_a_quiet_man_2008",
+  "title": "He Was a Quiet Man",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q473824",
+    "imdb": "tt0760311",
+    "tmdb": 10247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-28",
+  "runtime_minutes": 91
+}

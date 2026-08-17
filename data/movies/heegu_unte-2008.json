@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_heegu_unte_2008",
+  "title": "Heegu Unte",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126811434",
+    "imdb": "tt14252674"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-24"
+}

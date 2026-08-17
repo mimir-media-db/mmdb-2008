@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hostage_2008",
+  "title": "The Hostage",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61121470",
+    "imdb": "tt0869959",
+    "tmdb": 577471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-13",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harvesting_the_wasteland_2008",
+  "title": "Harvesting the Wasteland",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139819144",
+    "imdb": "tt2774228",
+    "tmdb": 350031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-03",
+  "runtime_minutes": 58
+}

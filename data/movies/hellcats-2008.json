@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hellcats_2008",
+  "title": "Hellcats",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3129845",
+    "imdb": "tt1233467",
+    "tmdb": 55788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-17"
+}

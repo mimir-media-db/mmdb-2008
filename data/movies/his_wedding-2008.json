@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_his_wedding_2008",
+  "title": "His Wedding",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93736286"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

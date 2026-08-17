@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hey_hey_its_esther_blueburger_2008",
+  "title": "Hey, Hey, It's Esther Blueburger",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5749159",
+    "imdb": "tt0469099",
+    "tmdb": 50700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-09",
+  "runtime_minutes": 103
+}

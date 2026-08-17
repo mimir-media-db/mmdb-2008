@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hr_landshovding_2008",
+  "title": "H:r Landshövding",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18242200",
+    "imdb": "tt1310504",
+    "tmdb": 225901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 87
+}

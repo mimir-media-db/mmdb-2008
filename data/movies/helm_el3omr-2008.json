@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_helm_el3omr_2008",
+  "title": "Helm El3omr",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12208608",
+    "imdb": "tt6450162",
+    "tmdb": 470126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-04"
+}

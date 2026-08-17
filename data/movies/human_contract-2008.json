@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_human_contract_2008",
+  "title": "The Human Contract",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7740847",
+    "imdb": "tt1109477",
+    "tmdb": 22633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_huayao_bride_in_shangrila_2008",
+  "title": "Huayao Bride in Shangrila",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16689764",
+    "imdb": "tt0464660",
+    "tmdb": 76534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-26",
+  "runtime_minutes": 87
+}
