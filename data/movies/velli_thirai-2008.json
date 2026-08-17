@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_velli_thirai_2008",
+  "title": "Velli Thirai",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16313147",
+    "imdb": "tt6447518",
+    "tmdb": 63676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-07"
+}

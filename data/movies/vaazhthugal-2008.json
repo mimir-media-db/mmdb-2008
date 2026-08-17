@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vaazhthugal_2008",
+  "title": "Vaazhthugal",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7907848",
+    "imdb": "tt1509832",
+    "tmdb": 69595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

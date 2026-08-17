@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vineta_2008",
+  "title": "Vineta",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2527039",
+    "imdb": "tt0480051",
+    "tmdb": 220465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-03",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_visitor_2008",
+  "title": "The Visitor",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5402004",
+    "imdb": "tt0969307",
+    "tmdb": 56816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-08",
+  "runtime_minutes": 105
+}

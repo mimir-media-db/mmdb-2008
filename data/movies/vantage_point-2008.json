@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vantage_point_2008",
+  "title": "Vantage Point",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q274887",
+    "imdb": "tt0443274",
+    "tmdb": 7461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-13",
+  "runtime_minutes": 90
+}

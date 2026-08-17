@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veenavaadanam_2008",
+  "title": "Veenavaadanam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29467370",
+    "imdb": "tt7275234",
+    "tmdb": 655750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-20"
+}

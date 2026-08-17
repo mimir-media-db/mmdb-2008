@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_vote_for_change_2004_2008",
+  "title": "Vote for Change? 2004",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7942124"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-31"
+}

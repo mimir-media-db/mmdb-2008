@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vigilante_2008",
+  "title": "Vigilante",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118557772",
+    "imdb": "tt1489264",
+    "tmdb": 238349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

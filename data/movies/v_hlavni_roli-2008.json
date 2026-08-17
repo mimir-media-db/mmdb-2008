@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_v_hlavni_roli_2008",
+  "title": "V hlavní roli",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104895083",
+    "imdb": "tt1156521",
+    "tmdb": 553926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}
