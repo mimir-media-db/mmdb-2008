@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wipeout",
+  "title": "Wipeout",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q52497",
+    "imdb": "tt1156535",
+    "tmdb": 5583
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 148
+}

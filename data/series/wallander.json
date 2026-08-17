@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wallander",
+  "title": "Wallander",
+  "start_year": 2008,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q1041885",
+    "imdb": "tt1178618",
+    "tmdb": 7263
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 12
+}

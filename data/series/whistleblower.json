@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_whistleblower",
+  "title": "Whistleblower",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7994036",
+    "imdb": "tt1239420",
+    "tmdb": 7776
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

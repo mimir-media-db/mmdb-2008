@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_what_to_eat_now",
+  "title": "What to Eat Now",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7991650",
+    "imdb": "tt4882746",
+    "tmdb": 21107
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}
