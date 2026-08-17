@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brass_band_2008",
+  "title": "Brass Band",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88180506",
+    "imdb": "tt1173472",
+    "tmdb": 158476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-15"
+}

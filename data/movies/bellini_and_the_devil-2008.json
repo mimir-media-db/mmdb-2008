@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bellini_and_the_devil_2008",
+  "title": "Bellini and the Devil",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15891845",
+    "imdb": "tt1205903",
+    "tmdb": 73160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

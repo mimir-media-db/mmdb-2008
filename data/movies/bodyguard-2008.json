@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bodyguard_2008",
+  "title": "The Bodyguard",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755615",
+    "imdb": "tt29249691",
+    "tmdb": 1461009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

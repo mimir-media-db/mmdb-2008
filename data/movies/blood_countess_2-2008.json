@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_countess_2_2008",
+  "title": "Blood Countess 2",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48778219",
+    "imdb": "tt1397152",
+    "tmdb": 376416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

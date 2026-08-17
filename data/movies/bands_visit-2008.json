@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bands_visit_2008",
+  "title": "The Band's Visit",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1211239",
+    "imdb": "tt1032856",
+    "tmdb": 5259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-31",
+  "runtime_minutes": 87
+}

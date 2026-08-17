@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_batman_unmasked_the_psychology_of_the_dark_knight_2008",
+  "title": "Batman Unmasked: The Psychology of The Dark Knight",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120702409",
+    "imdb": "tt1265589",
+    "tmdb": 29751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-16"
+}

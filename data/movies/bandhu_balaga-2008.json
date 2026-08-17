@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bandhu_balaga_2008",
+  "title": "Bandhu Balaga",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15719534",
+    "imdb": "tt9054840",
+    "tmdb": 282622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

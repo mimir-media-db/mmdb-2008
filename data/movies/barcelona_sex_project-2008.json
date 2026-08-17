@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barcelona_sex_project_2008",
+  "title": "Barcelona Sex Project",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15785544",
+    "imdb": "tt6047090",
+    "tmdb": 303769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

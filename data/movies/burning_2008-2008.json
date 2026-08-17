@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_2008_2008",
+  "title": "The Burning 2008",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11334782",
+    "imdb": "tt1312954",
+    "tmdb": 39268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 71
+}

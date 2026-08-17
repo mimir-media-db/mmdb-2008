@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bedtime_stories_2008",
+  "title": "Bedtime Stories",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q726464",
+    "imdb": "tt0960731",
+    "tmdb": 10202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-25",
+  "runtime_minutes": 99
+}

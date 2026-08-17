@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bonitinha_mas_ordinaria_2008",
+  "title": "Bonitinha, Mas Ordinária",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16502132",
+    "imdb": "tt2332672",
+    "tmdb": 197759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_mondays_strawberry_pies_2008",
+  "title": "Bloody Mondays & Strawberry Pies",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18010315",
+    "imdb": "tt0961109",
+    "tmdb": 201639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-02",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bundy_an_american_icon_2008",
+  "title": "Bundy: An American Icon",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97599049",
+    "imdb": "tt1235059",
+    "tmdb": 28936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_hunters_2008",
+  "title": "Black Hunters",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q717653",
+    "imdb": "tt1192431",
+    "tmdb": 40709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-21",
+  "runtime_minutes": 115
+}

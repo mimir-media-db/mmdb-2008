@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bastardy_2008",
+  "title": "Bastardy",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120641016",
+    "imdb": "tt1310363",
+    "tmdb": 26526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 83
+}

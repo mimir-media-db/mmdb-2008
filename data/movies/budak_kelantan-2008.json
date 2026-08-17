@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_budak_kelantan_2008",
+  "title": "Budak Kelantan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4984016",
+    "imdb": "tt6422912",
+    "tmdb": 209424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-30"
+}

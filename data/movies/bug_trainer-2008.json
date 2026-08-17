@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bug_trainer_2008",
+  "title": "The Bug Trainer",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12675995",
+    "imdb": "tt1478330",
+    "tmdb": 278906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 53
+}

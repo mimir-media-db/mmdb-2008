@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bricbrac_2008",
+  "title": "Bric-Brac",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29580949",
+    "imdb": "tt1369469",
+    "tmdb": 1615294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 17
+}

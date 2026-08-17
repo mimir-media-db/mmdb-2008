@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_wife_2008",
+  "title": "A Beautiful Wife",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4004295",
+    "imdb": "tt1159231",
+    "tmdb": 52214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-07",
+  "runtime_minutes": 93
+}

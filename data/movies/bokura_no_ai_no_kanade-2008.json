@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bokura_no_ai_no_kanade_2008",
+  "title": "Bokura no Ai no Kanade",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11387579",
+    "imdb": "tt1452838",
+    "tmdb": 276070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 71
+}

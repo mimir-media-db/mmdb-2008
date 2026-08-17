@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_normandy_2008",
+  "title": "Back to Normandy",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q956354",
+    "imdb": "tt0487485",
+    "tmdb": 11150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-26",
+  "runtime_minutes": 113
+}

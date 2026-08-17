@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_devil_knows_youre_dead_2008",
+  "title": "Before the Devil Knows You're Dead",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1321503",
+    "imdb": "tt0292963",
+    "tmdb": 7972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-10",
+  "runtime_minutes": 117
+}

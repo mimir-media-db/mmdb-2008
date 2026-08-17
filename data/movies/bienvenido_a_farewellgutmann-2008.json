@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bienvenido_a_farewellgutmann_2008",
+  "title": "Bienvenido a Farewell-Gutmann",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6554904",
+    "imdb": "tt1002959",
+    "tmdb": 118116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-07",
+  "runtime_minutes": 98
+}

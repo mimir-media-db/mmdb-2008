@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bottle_shock_2008",
+  "title": "Bottle Shock",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q894896",
+    "imdb": "tt0914797",
+    "tmdb": 13996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-18",
+  "runtime_minutes": 110
+}

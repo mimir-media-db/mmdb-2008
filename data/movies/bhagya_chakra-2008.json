@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhagya_chakra_2008",
+  "title": "Bhagya Chakra",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900702",
+    "imdb": "tt1409077",
+    "tmdb": 1011836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-21"
+}

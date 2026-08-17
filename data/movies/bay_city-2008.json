@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bay_city_2008",
+  "title": "Bay City",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20075881",
+    "imdb": "tt1346246",
+    "tmdb": 1248328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
