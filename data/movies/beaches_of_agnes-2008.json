@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beaches_of_agnes_2008",
+  "title": "The Beaches of Agnès",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2709504",
+    "imdb": "tt1129435",
+    "tmdb": 38879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

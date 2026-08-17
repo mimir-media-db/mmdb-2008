@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brothel_2008",
+  "title": "Brothel",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4975435",
+    "imdb": "tt0319115",
+    "tmdb": 46573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

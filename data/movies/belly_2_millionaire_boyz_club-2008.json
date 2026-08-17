@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belly_2_millionaire_boyz_club_2008",
+  "title": "Belly 2: Millionaire Boyz Club",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2143604",
+    "imdb": "tt1276940",
+    "tmdb": 21798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 76
+}

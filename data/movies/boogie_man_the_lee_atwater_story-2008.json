@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boogie_man_the_lee_atwater_story_2008",
+  "title": "Boogie Man: The Lee Atwater Story",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4942860",
+    "imdb": "tt1262863",
+    "tmdb": 18112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

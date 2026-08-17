@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bienvenue_a_bataville_2008",
+  "title": "Bienvenue a Bataville",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2901997",
+    "imdb": "tt0498094",
+    "tmdb": 1360982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

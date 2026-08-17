@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brave_men_2008",
+  "title": "The Brave Men",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3757423",
+    "imdb": "tt1071214",
+    "tmdb": 58171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

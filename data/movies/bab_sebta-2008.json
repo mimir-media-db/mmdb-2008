@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bab_sebta_2008",
+  "title": "Bab Sebta",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2877690",
+    "imdb": "tt1332003",
+    "tmdb": 542077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

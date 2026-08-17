@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bangkok_dangerous_2008",
+  "title": "Bangkok Dangerous",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q748530",
+    "imdb": "tt0814022",
+    "tmdb": 13184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

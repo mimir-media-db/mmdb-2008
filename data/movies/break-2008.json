@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_break_2008",
+  "title": "Break",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4959248",
+    "imdb": "tt1157601",
+    "tmdb": 20750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

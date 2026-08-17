@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bodyguard_a_new_beginning_2008",
+  "title": "Bodyguard – A New Beginning",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q890101",
+    "imdb": "tt1081942",
+    "tmdb": 15923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}

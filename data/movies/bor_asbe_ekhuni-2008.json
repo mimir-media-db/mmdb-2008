@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bor_asbe_ekhuni_2008",
+  "title": "Bor Asbe Ekhuni",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4944233",
+    "imdb": "tt1405493",
+    "tmdb": 482597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

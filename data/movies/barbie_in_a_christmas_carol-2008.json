@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbie_in_a_christmas_carol_2008",
+  "title": "Barbie in 'A Christmas Carol'",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q284162",
+    "imdb": "tt1314715",
+    "tmdb": 13459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 76
+}

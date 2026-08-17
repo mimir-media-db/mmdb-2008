@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballast_2008",
+  "title": "Ballast",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4851535",
+    "imdb": "tt1153690",
+    "tmdb": 25112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

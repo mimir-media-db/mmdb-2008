@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burrowers_2008",
+  "title": "The Burrowers",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2014167",
+    "imdb": "tt0445939",
+    "tmdb": 15846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

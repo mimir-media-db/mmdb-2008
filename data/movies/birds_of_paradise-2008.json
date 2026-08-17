@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birds_of_paradise_2008",
+  "title": "Birds of Paradise",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4389189",
+    "imdb": "tt1327600",
+    "tmdb": 315592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

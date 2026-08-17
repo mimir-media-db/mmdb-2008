@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_live_at_st_anns_warehouse_2008",
+  "title": "Berlin: Live at St. Ann's Warehouse",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2361395",
+    "imdb": "tt1093836",
+    "tmdb": 72303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

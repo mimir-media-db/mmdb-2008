@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baler_2008",
+  "title": "Baler",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4850711",
+    "imdb": "tt1305656",
+    "tmdb": 57931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 116
+}

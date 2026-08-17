@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bindaas_2008",
+  "title": "Bindaas",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4913971",
+    "imdb": "tt5762158",
+    "tmdb": 587468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

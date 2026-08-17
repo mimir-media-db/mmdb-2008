@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_betrayed_2008",
+  "title": "The Betrayed",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4376546",
+    "imdb": "tt1074191",
+    "tmdb": 20055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
