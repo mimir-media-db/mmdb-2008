@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_left_bank_2008",
+  "title": "Left Bank",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2011493",
+    "imdb": "tt0940723",
+    "tmdb": 12135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

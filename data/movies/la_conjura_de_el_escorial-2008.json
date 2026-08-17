@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_conjura_de_el_escorial_2008",
+  "title": "La Conjura de El Escorial",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q621656",
+    "imdb": "tt1100898",
+    "tmdb": 21180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 130
+}

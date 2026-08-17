@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_largo_winch_2008",
+  "title": "Largo Winch",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q927961",
+    "imdb": "tt0808339",
+    "tmdb": 14400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_galicia_2008",
+  "title": "Lost in Galicia",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5818279",
+    "imdb": "tt0353765",
+    "tmdb": 276865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 104
+}

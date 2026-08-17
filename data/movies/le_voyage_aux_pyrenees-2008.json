@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_voyage_aux_pyrenees_2008",
+  "title": "Le voyage aux Pyrénées",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3228247",
+    "imdb": "tt1160027",
+    "tmdb": 15333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

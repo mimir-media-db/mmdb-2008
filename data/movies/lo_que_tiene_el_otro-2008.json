@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_que_tiene_el_otro_2008",
+  "title": "Lo que tiene el otro",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2918812",
+    "imdb": "tt0906609",
+    "tmdb": 343424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_jeune_fille_et_les_loups_2008",
+  "title": "La Jeune Fille et les Loups",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3209846",
+    "imdb": "tt0996952",
+    "tmdb": 18465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

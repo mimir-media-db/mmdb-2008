@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_mort_de_la_gazelle_2008",
+  "title": "La Mort de la gazelle",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3210852",
+    "imdb": "tt1620842"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

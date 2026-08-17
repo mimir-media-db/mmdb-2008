@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_make_money_2008",
+  "title": "Let's Make Money",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q679694",
+    "imdb": "tt1307963",
+    "tmdb": 23368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

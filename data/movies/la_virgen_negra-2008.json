@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_virgen_negra_2008",
+  "title": "La Virgen Negra",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6465840",
+    "imdb": "tt1149610",
+    "tmdb": 74680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letter_for_the_king_2008",
+  "title": "The Letter for the King",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q461769",
+    "imdb": "tt0490377",
+    "tmdb": 13639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 111
+}

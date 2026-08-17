@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lions_den_2008",
+  "title": "Lion's Den",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118114",
+    "imdb": "tt1022606",
+    "tmdb": 8900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 113
+}

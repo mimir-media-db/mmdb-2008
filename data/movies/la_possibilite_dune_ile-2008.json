@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_possibilite_dune_ile_2008",
+  "title": "La Possibilité d'une île",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3211832",
+    "imdb": "tt0926764",
+    "tmdb": 58133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_bruit_des_gens_autour_2008",
+  "title": "Le bruit des gens autour",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3220640",
+    "imdb": "tt1221125",
+    "tmdb": 63332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 107
+}

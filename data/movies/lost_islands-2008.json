@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_islands_2008",
+  "title": "Lost Islands",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3306783",
+    "imdb": "tt1210351",
+    "tmdb": 16019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_live_at_sturgis_2006_2008",
+  "title": "Live at Sturgis 2006",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4178810",
+    "imdb": "tt1103166",
+    "tmdb": 29141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

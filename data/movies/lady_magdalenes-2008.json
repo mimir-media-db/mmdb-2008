@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_magdalenes_2008",
+  "title": "Lady Magdalene's",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6470385",
+    "imdb": "tt0783538",
+    "tmdb": 172911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
