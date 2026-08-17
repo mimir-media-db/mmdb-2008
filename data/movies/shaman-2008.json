@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shaman_2008",
+  "title": "The Shaman",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12521298",
+    "imdb": "tt1236998",
+    "tmdb": 508821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

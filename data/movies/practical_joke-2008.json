@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_practical_joke_2008",
+  "title": "Practical Joke",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4396719",
+    "imdb": "tt1440278",
+    "tmdb": 18761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-22",
+  "runtime_minutes": 84
+}

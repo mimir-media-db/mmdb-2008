@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snezenky_a_machri_po_25_letech_2008",
+  "title": "Sněženky a machři po 25 letech",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7548954",
+    "imdb": "tt1331327",
+    "tmdb": 119250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

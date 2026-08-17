@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cliente_2008",
+  "title": "Cliente",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2979030",
+    "imdb": "tt1091992",
+    "tmdb": 15460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-01",
+  "runtime_minutes": 104
+}

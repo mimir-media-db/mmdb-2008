@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nepali_2008",
+  "title": "Nepali",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6994511",
+    "imdb": "tt6449706",
+    "tmdb": 66223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_l_change_the_world_2008",
+  "title": "L: Change the World",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1370936",
+    "imdb": "tt0912597",
+    "tmdb": 20329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-09",
+  "runtime_minutes": 129
+}

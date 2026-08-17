@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_heart_2008",
+  "title": "Hidden Heart",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44349073",
+    "imdb": "tt1142380"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

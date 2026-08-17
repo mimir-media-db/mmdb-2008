@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beket_2008",
+  "title": "Beket",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16745118",
+    "imdb": "tt1368047",
+    "tmdb": 196357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-09",
+  "runtime_minutes": 80
+}

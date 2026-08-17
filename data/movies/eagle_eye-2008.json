@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eagle_eye_2008",
+  "title": "Eagle Eye",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q158474",
+    "imdb": "tt1059786",
+    "tmdb": 13027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-09",
+  "runtime_minutes": 118
+}

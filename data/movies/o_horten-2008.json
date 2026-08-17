@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_horten_2008",
+  "title": "O' Horten",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1538599",
+    "imdb": "tt0962774",
+    "tmdb": 8933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-18",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nowhere_to_turn_2008",
+  "title": "Nowhere to Turn",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21710041",
+    "imdb": "tt1594943",
+    "tmdb": 41178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-21"
+}

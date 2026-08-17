@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_kill_me_2008",
+  "title": "You Kill Me",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1528457",
+    "imdb": "tt0796375",
+    "tmdb": 8141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-12",
+  "runtime_minutes": 93
+}

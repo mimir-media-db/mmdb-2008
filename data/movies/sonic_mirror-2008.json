@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sonic_mirror_2008",
+  "title": "Sonic Mirror",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14956561",
+    "imdb": "tt0467490",
+    "tmdb": 318841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_usher_2008",
+  "title": "House of Usher",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10298643",
+    "imdb": "tt1017442",
+    "tmdb": 73614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 83
+}

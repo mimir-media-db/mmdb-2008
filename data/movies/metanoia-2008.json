@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_metanoia_2008",
+  "title": "Metanoia",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11777658",
+    "imdb": "tt0484058"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-24"
+}

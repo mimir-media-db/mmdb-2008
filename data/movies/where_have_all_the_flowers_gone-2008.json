@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_where_have_all_the_flowers_gone_2008",
+  "title": "Where Have All the Flowers Gone?",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7993253",
+    "imdb": "tt1278193",
+    "tmdb": 361248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

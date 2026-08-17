@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ankit_pallavi_friends_2008",
+  "title": "Ankit, Pallavi & Friends",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109967611",
+    "imdb": "tt1294135",
+    "tmdb": 530757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beginning_and_ending_2008",
+  "title": "Beginning and Ending",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55238673",
+    "imdb": "tt10016534",
+    "tmdb": 592361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 6
+}

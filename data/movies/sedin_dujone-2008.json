@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sedin_dujone_2008",
+  "title": "Sedin Dujone",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7445319",
+    "imdb": "tt1422749",
+    "tmdb": 941141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

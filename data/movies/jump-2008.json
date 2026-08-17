@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jump_2008",
+  "title": "Jump!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q640201",
+    "imdb": "tt0816544",
+    "tmdb": 11098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-19",
+  "runtime_minutes": 118
+}

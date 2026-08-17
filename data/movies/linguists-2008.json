@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_linguists_2008",
+  "title": "The Linguists",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7747426",
+    "imdb": "tt1172995",
+    "tmdb": 71591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 65
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_super_typhoon_2008",
+  "title": "Super Typhoon",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11636246",
+    "imdb": "tt1313153",
+    "tmdb": 84163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

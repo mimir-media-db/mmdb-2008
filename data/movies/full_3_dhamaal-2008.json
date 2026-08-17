@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_full_3_dhamaal_2008",
+  "title": "Full 3 Dhamaal",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123615986",
+    "imdb": "tt1219340",
+    "tmdb": 1181472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-11",
+  "runtime_minutes": 106
+}

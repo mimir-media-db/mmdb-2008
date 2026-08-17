@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_only_2008",
+  "title": "One Night Only",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7093041",
+    "imdb": "tt1339339",
+    "tmdb": 352614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

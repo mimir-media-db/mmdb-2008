@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bernafas_dalam_lumpur_2008",
+  "title": "Bernafas dalam lumpur",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124316634",
+    "imdb": "tt1306956",
+    "tmdb": 496478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-03"
+}

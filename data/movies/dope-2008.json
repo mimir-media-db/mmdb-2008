@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dope_2008",
+  "title": "D.O.P.E.",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10263469"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 60
+}

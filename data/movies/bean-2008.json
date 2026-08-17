@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bean_2008",
+  "title": "Bean",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q752103",
+    "imdb": "tt0118689",
+    "tmdb": 1281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-03",
+  "runtime_minutes": 95
+}

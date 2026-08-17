@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grandfather_as_a_gift_2008",
+  "title": "Grandfather as a Gift",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16698726",
+    "imdb": "tt1508256",
+    "tmdb": 484100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_whispers_2008",
+  "title": "Summer Whispers",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19349629",
+    "imdb": "tt1606369",
+    "tmdb": 417218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

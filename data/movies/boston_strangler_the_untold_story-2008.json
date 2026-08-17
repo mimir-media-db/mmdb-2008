@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boston_strangler_the_untold_story_2008",
+  "title": "The Boston Strangler: The Untold Story",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22192085",
+    "imdb": "tt1198054",
+    "tmdb": 28937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

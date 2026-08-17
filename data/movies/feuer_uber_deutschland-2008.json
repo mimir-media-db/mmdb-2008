@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_feuer_uber_deutschland_2008",
+  "title": "Feuer über Deutschland",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15809594",
+    "imdb": "tt2796618"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reflections_2008",
+  "title": "Reflections",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11795844",
+    "imdb": "tt1071203",
+    "tmdb": 50714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-24",
+  "runtime_minutes": 95
+}

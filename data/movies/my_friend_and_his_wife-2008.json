@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friend_and_his_wife_2008",
+  "title": "My Friend and His Wife",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17486977",
+    "imdb": "tt0984211",
+    "tmdb": 52582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-27"
+}

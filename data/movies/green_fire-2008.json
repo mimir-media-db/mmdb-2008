@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_green_fire_2008",
+  "title": "The Green Fire",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755578",
+    "imdb": "tt1291107",
+    "tmdb": 485919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

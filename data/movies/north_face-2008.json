@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_north_face_2008",
+  "title": "North Face",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q621735",
+    "imdb": "tt0844457",
+    "tmdb": 16436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-09",
+  "runtime_minutes": 121
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mes_copains_2008",
+  "title": "Mes copains",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427623",
+    "imdb": "tt1235792",
+    "tmdb": 161377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 26
+}

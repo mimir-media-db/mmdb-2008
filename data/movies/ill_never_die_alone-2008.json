@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_never_die_alone_2008",
+  "title": "I'll Never Die Alone",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30911363",
+    "imdb": "tt1278102",
+    "tmdb": 30026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

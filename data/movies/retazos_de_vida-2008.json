@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_retazos_de_vida_2008",
+  "title": "Retazos de vida",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106568130"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

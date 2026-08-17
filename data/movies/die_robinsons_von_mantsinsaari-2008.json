@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_robinsons_von_mantsinsaari_2008",
+  "title": "Die Robinsons von Mantsinsaari",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92186571",
+    "imdb": "tt1493130",
+    "tmdb": 312591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 55
+}

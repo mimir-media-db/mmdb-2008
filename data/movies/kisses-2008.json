@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kisses_2008",
+  "title": "Kisses",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6417178",
+    "imdb": "tt0975684",
+    "tmdb": 34025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-21",
+  "runtime_minutes": 72
+}

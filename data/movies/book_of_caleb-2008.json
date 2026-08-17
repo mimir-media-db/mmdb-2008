@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_caleb_2008",
+  "title": "The Book of Caleb",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7719202",
+    "imdb": "tt0478984",
+    "tmdb": 241733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

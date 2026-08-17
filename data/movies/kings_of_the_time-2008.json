@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_of_the_time_2008",
+  "title": "The Kings of the Time",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12358488",
+    "imdb": "tt1585557",
+    "tmdb": 493239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 72
+}

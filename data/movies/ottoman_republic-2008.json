@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ottoman_republic_2008",
+  "title": "The Ottoman Republic",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7755621",
+    "imdb": "tt1278104",
+    "tmdb": 52139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

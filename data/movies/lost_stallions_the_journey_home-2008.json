@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_stallions_the_journey_home_2008",
+  "title": "Lost Stallions: The Journey Home",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125857",
+    "imdb": "tt1053926",
+    "tmdb": 169380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

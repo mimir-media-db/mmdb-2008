@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thozha_2008",
+  "title": "Thozha",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7797092",
+    "imdb": "tt13570714",
+    "tmdb": 342864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

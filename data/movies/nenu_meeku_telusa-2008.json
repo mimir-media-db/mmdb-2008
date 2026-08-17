@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nenu_meeku_telusa_2008",
+  "title": "Nenu Meeku Telusa...?",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6991671",
+    "imdb": "tt1296409",
+    "tmdb": 82197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

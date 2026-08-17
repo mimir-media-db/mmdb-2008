@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woodstock_villa_2008",
+  "title": "Woodstock Villa",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19815839",
+    "imdb": "tt1043876",
+    "tmdb": 274746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

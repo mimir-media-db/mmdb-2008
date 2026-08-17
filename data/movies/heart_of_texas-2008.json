@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_texas_2008",
+  "title": "The Heart of Texas",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124726",
+    "imdb": "tt1396474",
+    "tmdb": 1704625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

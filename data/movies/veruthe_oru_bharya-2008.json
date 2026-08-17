@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veruthe_oru_bharya_2008",
+  "title": "Veruthe Oru Bharya",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7923001",
+    "imdb": "tt1336017",
+    "tmdb": 300314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-11"
+}

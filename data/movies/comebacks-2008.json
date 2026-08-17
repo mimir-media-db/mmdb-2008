@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comebacks_2008",
+  "title": "The Comebacks",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1558887",
+    "imdb": "tt0790804",
+    "tmdb": 10759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-05",
+  "runtime_minutes": 88
+}

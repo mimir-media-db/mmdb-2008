@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_am1200_2008",
+  "title": "AM1200",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16824958",
+    "imdb": "tt1295053",
+    "tmdb": 39279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-03"
+}

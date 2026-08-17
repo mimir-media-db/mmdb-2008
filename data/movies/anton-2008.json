@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anton_2008",
+  "title": "Anton",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39072155",
+    "imdb": "tt0929730",
+    "tmdb": 48726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

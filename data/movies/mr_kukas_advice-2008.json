@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_kukas_advice_2008",
+  "title": "Mr. Kuka's Advice",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q530802",
+    "imdb": "tt0986232",
+    "tmdb": 36626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-03",
+  "runtime_minutes": 93
+}

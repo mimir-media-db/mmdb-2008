@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gugu_datte_neko_de_aru_2008",
+  "title": "Gu-Gu Datte Neko de Aru",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106606948",
+    "imdb": "tt1255872",
+    "tmdb": 38633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-06"
+}

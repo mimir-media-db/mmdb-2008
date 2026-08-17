@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_imaginationland_the_movie_2008",
+  "title": "Imaginationland: The Movie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47004718"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-01"
+}

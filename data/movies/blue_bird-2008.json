@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_bird_2008",
+  "title": "The Blue Bird",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11661043",
+    "imdb": "tt1313093",
+    "tmdb": 64256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

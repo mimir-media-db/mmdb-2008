@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shakespeare_ma_malayalam_2008",
+  "title": "Shakespeare M.A. Malayalam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7462805",
+    "imdb": "tt1899287",
+    "tmdb": 365573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-19"
+}

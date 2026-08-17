@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_kul_el_arab_2008",
+  "title": "Lady Kul El Arab",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052400",
+    "imdb": "tt1344850",
+    "tmdb": 173343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

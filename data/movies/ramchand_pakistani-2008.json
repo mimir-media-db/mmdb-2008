@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ramchand_pakistani_2008",
+  "title": "Ramchand Pakistani",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4389839",
+    "imdb": "tt1095421",
+    "tmdb": 185345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-01",
+  "runtime_minutes": 103
+}

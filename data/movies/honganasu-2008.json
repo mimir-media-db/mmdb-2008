@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_honganasu_2008",
+  "title": "Honganasu",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248961",
+    "imdb": "tt14189216"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

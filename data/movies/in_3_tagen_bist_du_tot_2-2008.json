@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_3_tagen_bist_du_tot_2_2008",
+  "title": "In 3 Tagen bist du tot 2",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123472204",
+    "imdb": "tt1188993",
+    "tmdb": 35060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 109
+}

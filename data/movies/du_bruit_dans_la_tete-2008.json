@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_du_bruit_dans_la_tete_2008",
+  "title": "Du bruit dans la tête",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41798912",
+    "imdb": "tt1293089",
+    "tmdb": 624715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

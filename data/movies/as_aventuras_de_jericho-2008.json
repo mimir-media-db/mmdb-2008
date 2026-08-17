@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_aventuras_de_jericho_2008",
+  "title": "As Aventuras de Jericho",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28148418",
+    "imdb": "tt1596782",
+    "tmdb": 61637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 82
+}

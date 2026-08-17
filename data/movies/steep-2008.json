@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_steep_2008",
+  "title": "Steep",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7605897",
+    "imdb": "tt1003118",
+    "tmdb": 23524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-25"
+}

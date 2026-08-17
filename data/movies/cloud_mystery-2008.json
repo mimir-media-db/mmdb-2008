@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cloud_mystery_2008",
+  "title": "The Cloud Mystery",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7723495",
+    "imdb": "tt2005265",
+    "tmdb": 311173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 52
+}

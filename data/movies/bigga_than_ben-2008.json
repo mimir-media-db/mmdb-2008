@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bigga_than_ben_2008",
+  "title": "Bigga than Ben",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4091887",
+    "imdb": "tt0831275",
+    "tmdb": 17155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-24",
+  "runtime_minutes": 85
+}

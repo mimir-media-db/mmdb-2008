@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_formidable_2008",
+  "title": "Formidable",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60846489",
+    "imdb": "tt1008911",
+    "tmdb": 613110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_six_reasons_why_2008",
+  "title": "Six Reasons Why",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7532872",
+    "imdb": "tt1202044",
+    "tmdb": 30790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 88
+}

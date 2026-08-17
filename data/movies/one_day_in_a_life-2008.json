@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_day_in_a_life_2008",
+  "title": "One Day in a Life",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4003636",
+    "imdb": "tt1327908",
+    "tmdb": 115096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-01",
+  "runtime_minutes": 82
+}

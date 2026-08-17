@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ah_man_2008",
+  "title": "Ah, Man",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93735715",
+    "imdb": "tt3541904",
+    "tmdb": 1336034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

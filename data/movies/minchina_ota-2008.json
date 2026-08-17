@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_minchina_ota_2008",
+  "title": "Minchina Ota",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6863346",
+    "imdb": "tt4625288"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-10"
+}

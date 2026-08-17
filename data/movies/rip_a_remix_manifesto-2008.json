@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rip_a_remix_manifesto_2008",
+  "title": "RiP!: A Remix Manifesto",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3125063",
+    "imdb": "tt1397511",
+    "tmdb": 23996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-20",
+  "runtime_minutes": 80
+}

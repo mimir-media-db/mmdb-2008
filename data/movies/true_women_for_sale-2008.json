@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_true_women_for_sale_2008",
+  "title": "True Women for Sale",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7847556",
+    "imdb": "tt1347006",
+    "tmdb": 35800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

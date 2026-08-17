@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_open_your_eyes_2008",
+  "title": "Open Your Eyes",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7096299",
+    "imdb": "tt1270780",
+    "tmdb": 285927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

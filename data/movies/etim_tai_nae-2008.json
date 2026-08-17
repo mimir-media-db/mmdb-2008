@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_etim_tai_nae_2008",
+  "title": "E-Tim tai nae",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13024129",
+    "imdb": "tt1372690",
+    "tmdb": 131096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 112
+}

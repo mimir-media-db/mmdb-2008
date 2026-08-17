@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mothers_daughters_2008",
+  "title": "Mothers & Daughters",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674500",
+    "imdb": "tt1264898",
+    "tmdb": 106858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-08"
+}

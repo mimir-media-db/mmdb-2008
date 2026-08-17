@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ridskolan_5_bilskolan_2008",
+  "title": "Ridskolan 5: Bilskolan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132192839",
+    "imdb": "tt1318408",
+    "tmdb": 440082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-01",
+  "runtime_minutes": 1
+}

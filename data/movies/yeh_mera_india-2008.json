@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yeh_mera_india_2008",
+  "title": "Yeh Mera India",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15128693",
+    "imdb": "tt1002963",
+    "tmdb": 21822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

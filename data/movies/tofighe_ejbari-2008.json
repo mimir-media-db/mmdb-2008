@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tofighe_ejbari_2008",
+  "title": "Tofighe Ejbari",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5913667",
+    "imdb": "tt2418328",
+    "tmdb": 567194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-13"
+}

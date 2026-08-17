@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bear_oasis_2008",
+  "title": "Bear Oasis",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104816851",
+    "imdb": "tt1332669",
+    "tmdb": 1247888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-22",
+  "runtime_minutes": 123
+}

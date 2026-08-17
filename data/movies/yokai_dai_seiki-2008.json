@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yokai_dai_seiki_2008",
+  "title": "Yokai Dai Seiki",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11446799",
+    "imdb": "tt12838706",
+    "tmdb": 1117229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

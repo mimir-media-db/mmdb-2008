@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_soldier_2008",
+  "title": "Paper Soldier",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3964226",
+    "imdb": "tt1284576",
+    "tmdb": 12428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-01",
+  "runtime_minutes": 118
+}

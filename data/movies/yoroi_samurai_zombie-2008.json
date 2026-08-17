@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yoroi_samurai_zombie_2008",
+  "title": "Yoroi Samurai Zombie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8055838",
+    "imdb": "tt1037229",
+    "tmdb": 52400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 91
+}

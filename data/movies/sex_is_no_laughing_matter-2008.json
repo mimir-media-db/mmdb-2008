@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_is_no_laughing_matter_2008",
+  "title": "Sex Is No Laughing Matter",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113456326",
+    "imdb": "tt0945550",
+    "tmdb": 81558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-19"
+}

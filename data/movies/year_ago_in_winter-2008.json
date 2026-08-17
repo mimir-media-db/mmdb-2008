@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_year_ago_in_winter_2008",
+  "title": "A Year Ago in Winter",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1659525",
+    "imdb": "tt0452580",
+    "tmdb": 8888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-09",
+  "runtime_minutes": 128
+}

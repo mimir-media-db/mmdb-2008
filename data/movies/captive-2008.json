@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captive_2008",
+  "title": "Captive",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4364844",
+    "imdb": "tt1252512",
+    "tmdb": 55608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-14",
+  "runtime_minutes": 80
+}

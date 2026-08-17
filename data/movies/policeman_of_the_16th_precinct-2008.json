@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_policeman_of_the_16th_precinct_2008",
+  "title": "The Policeman of the 16th Precinct",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23070966",
+    "imdb": "tt1295060",
+    "tmdb": 136339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-27",
+  "runtime_minutes": 100
+}

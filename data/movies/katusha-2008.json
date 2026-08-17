@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katusha_2008",
+  "title": "Katusha",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600863",
+    "imdb": "tt1587190",
+    "tmdb": 1196248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

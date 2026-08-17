@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_watch_out_2008",
+  "title": "Watch Out",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7973063",
+    "imdb": "tt1189914",
+    "tmdb": 74864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

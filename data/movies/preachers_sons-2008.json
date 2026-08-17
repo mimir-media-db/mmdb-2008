@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_preachers_sons_2008",
+  "title": "Preacher's Sons",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7239291",
+    "imdb": "tt1338660",
+    "tmdb": 501427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

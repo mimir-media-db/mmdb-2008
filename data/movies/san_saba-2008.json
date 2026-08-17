@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_san_saba_2008",
+  "title": "San Saba",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7415263",
+    "imdb": "tt0928193",
+    "tmdb": 463434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

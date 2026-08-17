@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_of_boot_2008",
+  "title": "Sound of Boot",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7564754",
+    "imdb": "tt1359589",
+    "tmdb": 331055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

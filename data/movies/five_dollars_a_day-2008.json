@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_dollars_a_day_2008",
+  "title": "Five Dollars a Day",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1421526",
+    "imdb": "tt1024733",
+    "tmdb": 4204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-15",
+  "runtime_minutes": 98
+}

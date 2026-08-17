@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_esp_couple_2008",
+  "title": "The ESP Couple",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12619343",
+    "imdb": "tt1606190",
+    "tmdb": 25162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-27"
+}

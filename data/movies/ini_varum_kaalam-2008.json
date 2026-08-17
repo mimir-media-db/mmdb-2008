@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ini_varum_kaalam_2008",
+  "title": "Ini Varum Kaalam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77890223",
+    "imdb": "tt13570740"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

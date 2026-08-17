@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heinz_und_fred_2008",
+  "title": "Heinz und Fred",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43648008",
+    "imdb": "tt1165287",
+    "tmdb": 149440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-27",
+  "runtime_minutes": 80
+}

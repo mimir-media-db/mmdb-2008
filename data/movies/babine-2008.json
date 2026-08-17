@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babine_2008",
+  "title": "Babine",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2877890",
+    "imdb": "tt1275521",
+    "tmdb": 18380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-05",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poo_2008",
+  "title": "Poo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7228490",
+    "imdb": "tt1476431",
+    "tmdb": 111790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

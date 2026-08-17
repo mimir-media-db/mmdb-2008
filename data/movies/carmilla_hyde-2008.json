@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carmilla_hyde_2008",
+  "title": "Carmilla Hyde",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599800",
+    "imdb": "tt1329323",
+    "tmdb": 372196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 105
+}

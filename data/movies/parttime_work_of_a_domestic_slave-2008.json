@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parttime_work_of_a_domestic_slave_2008",
+  "title": "Part-Time Work of a Domestic Slave",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3284083",
+    "imdb": "tt0070098",
+    "tmdb": 75358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-01",
+  "runtime_minutes": 131
+}

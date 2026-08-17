@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_star_trek_enterprise_der_zeitspiegel_2008",
+  "title": "Star Trek Enterprise: Der Zeitspiegel",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83960419",
+    "imdb": "tt9899346",
+    "tmdb": 744412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 31
+}

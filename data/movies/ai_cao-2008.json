@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ai_cao_2008",
+  "title": "Ai cao",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15915379",
+    "imdb": "tt1405358",
+    "tmdb": 312769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

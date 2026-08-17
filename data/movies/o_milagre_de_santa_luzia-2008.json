@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_milagre_de_santa_luzia_2008",
+  "title": "O Milagre de Santa Luzia",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10339429",
+    "imdb": "tt4733024",
+    "tmdb": 481212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 81
+}

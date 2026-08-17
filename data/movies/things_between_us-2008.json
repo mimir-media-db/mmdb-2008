@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_things_between_us_2008",
+  "title": "The Things Between Us",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11277810",
+    "imdb": "tt1178122",
+    "tmdb": 305176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

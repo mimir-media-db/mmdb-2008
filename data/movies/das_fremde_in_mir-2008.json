@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_fremde_in_mir_2008",
+  "title": "Das Fremde in mir",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15258961",
+    "imdb": "tt1194235",
+    "tmdb": 54315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

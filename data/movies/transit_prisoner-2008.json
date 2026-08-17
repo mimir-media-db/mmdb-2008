@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_transit_prisoner_2008",
+  "title": "Transit Prisoner",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12242874",
+    "imdb": "tt1589484",
+    "tmdb": 76209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-18"
+}

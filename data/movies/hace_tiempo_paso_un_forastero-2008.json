@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hace_tiempo_paso_un_forastero_2008",
+  "title": "Hace tiempo pasó un forastero",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10293496",
+    "imdb": "tt1305121"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 20
+}

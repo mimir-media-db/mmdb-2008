@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_wolf_2008",
+  "title": "Night of the Wolf",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10708996",
+    "imdb": "tt1118649",
+    "tmdb": 20244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-29",
+  "runtime_minutes": 80
+}

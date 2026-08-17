@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nasu_shonenki_2008",
+  "title": "Nasu Shonenki",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11642922",
+    "imdb": "tt8373982",
+    "tmdb": 619569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

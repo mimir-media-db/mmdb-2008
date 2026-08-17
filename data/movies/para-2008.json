@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_para_2008",
+  "title": "Para",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77396286",
+    "imdb": "tt1129433",
+    "tmdb": 183427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-16",
+  "runtime_minutes": 91
+}

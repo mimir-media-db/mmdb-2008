@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_who_at_kilburn_1977_2008",
+  "title": "The Who at Kilburn: 1977",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9635687",
+    "imdb": "tt1509275",
+    "tmdb": 31968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 138
+}

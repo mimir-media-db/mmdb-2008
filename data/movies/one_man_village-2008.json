@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_man_village_2008",
+  "title": "The One Man Village",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45172506",
+    "imdb": "tt1382343",
+    "tmdb": 368728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-01"
+}

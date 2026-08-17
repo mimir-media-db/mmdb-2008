@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forgotten_village_2008",
+  "title": "The Forgotten Village",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12191276",
+    "imdb": "tt2396420"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-01",
+  "runtime_minutes": 90
+}

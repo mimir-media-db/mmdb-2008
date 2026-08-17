@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_woodambara_2008",
+  "title": "Woo-dam-ba-ra",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12584793",
+    "tmdb": 118172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

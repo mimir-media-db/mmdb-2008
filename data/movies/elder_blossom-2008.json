@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elder_blossom_2008",
+  "title": "Elder Blossom",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30732866",
+    "imdb": "tt1070339",
+    "tmdb": 109771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-24",
+  "runtime_minutes": 89
+}

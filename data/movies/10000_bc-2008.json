@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10000_bc_2008",
+  "title": "10,000 BC",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q163899",
+    "imdb": "tt0443649",
+    "tmdb": 7840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-22",
+  "runtime_minutes": 109
+}

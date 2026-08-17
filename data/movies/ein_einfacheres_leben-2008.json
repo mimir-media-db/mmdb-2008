@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ein_einfacheres_leben_2008",
+  "title": "Ein einfacheres Leben",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10489370",
+    "imdb": "tt1118669",
+    "tmdb": 14446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

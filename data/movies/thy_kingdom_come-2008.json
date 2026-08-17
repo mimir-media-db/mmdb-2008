@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thy_kingdom_come_2008",
+  "title": "Thy Kingdom Come",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28064447",
+    "imdb": "tt0986267"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 93
+}

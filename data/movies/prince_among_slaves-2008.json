@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_among_slaves_2008",
+  "title": "Prince Among Slaves",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7243810",
+    "imdb": "tt0852992",
+    "tmdb": 309579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-04"
+}

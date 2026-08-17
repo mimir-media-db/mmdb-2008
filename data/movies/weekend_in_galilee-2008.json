@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weekend_in_galilee_2008",
+  "title": "Weekend in Galilee",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52837420",
+    "imdb": "tt2539474",
+    "tmdb": 758561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

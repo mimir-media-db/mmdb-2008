@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sangama_2008",
+  "title": "Sangama",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7417799",
+    "imdb": "tt3171804",
+    "tmdb": 1671161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

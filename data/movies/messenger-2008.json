@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_messenger_2008",
+  "title": "The Messenger",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7751143",
+    "imdb": "tt0981352",
+    "tmdb": 52147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

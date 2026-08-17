@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_delgo_2008",
+  "title": "Delgo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1523923",
+    "imdb": "tt0361500",
+    "tmdb": 20542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-17",
+  "runtime_minutes": 94
+}

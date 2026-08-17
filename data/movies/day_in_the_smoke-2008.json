@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_in_the_smoke_2008",
+  "title": "A day in the smoke",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20493662",
+    "imdb": "tt1602000",
+    "tmdb": 1222837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 29
+}

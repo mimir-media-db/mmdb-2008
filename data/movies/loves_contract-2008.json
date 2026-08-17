@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loves_contract_2008",
+  "title": "Love's Contract",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20077957",
+    "imdb": "tt3035748",
+    "tmdb": 806700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

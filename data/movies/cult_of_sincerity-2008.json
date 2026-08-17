@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cult_of_sincerity_2008",
+  "title": "The Cult of Sincerity",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7728381",
+    "imdb": "tt1340095",
+    "tmdb": 212906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

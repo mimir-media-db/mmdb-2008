@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oasis_2008",
+  "title": "The Oasis",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15039655",
+    "imdb": "tt1297939",
+    "tmdb": 331769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

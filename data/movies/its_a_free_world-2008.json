@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_a_free_world_2008",
+  "title": "It's a Free World...",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1675435",
+    "imdb": "tt0807054",
+    "tmdb": 7992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-27",
+  "runtime_minutes": 96
+}

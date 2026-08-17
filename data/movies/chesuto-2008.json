@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chesuto_2008",
+  "title": "Chesuto!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11317741",
+    "imdb": "tt1196127",
+    "tmdb": 705083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-19"
+}

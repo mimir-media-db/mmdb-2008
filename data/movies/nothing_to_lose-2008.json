@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nothing_to_lose_2008",
+  "title": "Nothing to Lose",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2651516",
+    "imdb": "tt1092019",
+    "tmdb": 7267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-24",
+  "runtime_minutes": 88
+}

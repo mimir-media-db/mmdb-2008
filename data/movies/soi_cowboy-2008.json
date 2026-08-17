@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soi_cowboy_2008",
+  "title": "Soi Cowboy",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7554843",
+    "imdb": "tt1224455",
+    "tmdb": 8934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-16",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_at_the_sea_2008",
+  "title": "Day at the Sea",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55692831",
+    "imdb": "tt1313155",
+    "tmdb": 325168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-01"
+}

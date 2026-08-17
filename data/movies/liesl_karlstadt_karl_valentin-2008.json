@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liesl_karlstadt_karl_valentin_2008",
+  "title": "Liesl Karlstadt & Karl Valentin",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40318591",
+    "imdb": "tt1250979",
+    "tmdb": 230065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-25",
+  "runtime_minutes": 94
+}

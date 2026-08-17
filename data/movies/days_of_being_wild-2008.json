@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_days_of_being_wild_2008",
+  "title": "Days of Being Wild",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1306553",
+    "imdb": "tt0101258",
+    "tmdb": 18311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-22",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matador_2008",
+  "title": "The Matador",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7750634",
+    "imdb": "tt1186238",
+    "tmdb": 85097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 74
+}

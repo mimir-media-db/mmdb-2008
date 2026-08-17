@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_steel_bio_crisis_2008",
+  "title": "Max Steel: Bio Crisis",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3280675",
+    "imdb": "tt1392738",
+    "tmdb": 572060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-01",
+  "runtime_minutes": 52
+}

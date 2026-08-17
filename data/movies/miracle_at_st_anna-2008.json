@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_at_st_anna_2008",
+  "title": "Miracle at St. Anna",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1002100",
+    "imdb": "tt1046997",
+    "tmdb": 12412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-07",
+  "runtime_minutes": 160
+}

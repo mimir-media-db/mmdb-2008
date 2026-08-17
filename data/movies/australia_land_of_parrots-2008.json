@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_australia_land_of_parrots_2008",
+  "title": "Australia: Land of Parrots",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119285282",
+    "imdb": "tt1366246",
+    "tmdb": 98474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 52
+}

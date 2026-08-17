@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chan_oi_dik_2008",
+  "title": "Chan oi dik",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15920319",
+    "imdb": "tt1268793",
+    "tmdb": 142658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}

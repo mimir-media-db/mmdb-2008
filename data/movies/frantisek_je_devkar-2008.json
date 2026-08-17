@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frantisek_je_devkar_2008",
+  "title": "František je děvkař",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5492613",
+    "imdb": "tt1318023",
+    "tmdb": 16886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-05",
+  "runtime_minutes": 90
+}

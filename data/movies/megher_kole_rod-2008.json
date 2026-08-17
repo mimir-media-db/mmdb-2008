@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_megher_kole_rod_2008",
+  "title": "Megher Kole Rod",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21161247",
+    "imdb": "tt2086879"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-01"
+}

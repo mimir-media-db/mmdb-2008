@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tears_for_sale_2008",
+  "title": "Tears for Sale",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2747684",
+    "imdb": "tt0380249",
+    "tmdb": 16403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-30",
+  "runtime_minutes": 86
+}

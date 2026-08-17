@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_musee_haut_2008",
+  "title": "Musée haut",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3330583",
+    "imdb": "tt1082051",
+    "tmdb": 18906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-19",
+  "runtime_minutes": 107
+}

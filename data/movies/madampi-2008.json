@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madampi_2008",
+  "title": "Madampi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6726376",
+    "imdb": "tt1263795",
+    "tmdb": 234502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-04"
+}

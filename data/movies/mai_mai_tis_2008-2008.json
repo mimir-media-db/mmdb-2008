@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mai_mai_tis_2008_2008",
+  "title": "Mai Mai Ti's 2008",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120758900",
+    "imdb": "tt9536384",
+    "tmdb": 1038943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-09"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_can_see_you_2008",
+  "title": "I Can See You",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251647",
+    "imdb": "tt0871865",
+    "tmdb": 28741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

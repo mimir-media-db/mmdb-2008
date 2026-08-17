@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vampiro_angel_devil_hero_2008",
+  "title": "Vampiro: Angel, Devil, Hero",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7913035",
+    "imdb": "tt1284525",
+    "tmdb": 91592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_not_france_2008",
+  "title": "Paris, Not France",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7137168",
+    "imdb": "tt1280568",
+    "tmdb": 217179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 68
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hannah_montana_and_miley_cyrus_best_of_both_worlds_concert_2008",
+  "title": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q911945",
+    "imdb": "tt1127884",
+    "tmdb": 253353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-01",
+  "runtime_minutes": 77
+}

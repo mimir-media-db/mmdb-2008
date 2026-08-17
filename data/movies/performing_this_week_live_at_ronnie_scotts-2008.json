@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_performing_this_week_live_at_ronnie_scotts_2008",
+  "title": "Performing This Week… Live at Ronnie Scott’s",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11346614",
+    "imdb": "tt1360788",
+    "tmdb": 67037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

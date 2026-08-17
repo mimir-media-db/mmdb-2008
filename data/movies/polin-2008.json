@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_polin_2008",
+  "title": "Po-Lin",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11819866",
+    "imdb": "tt1369552",
+    "tmdb": 695755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-09"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abraham_the_friend_of_god_2008",
+  "title": "Abraham: The Friend of God",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755665",
+    "imdb": "tt3090458",
+    "tmdb": 310343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

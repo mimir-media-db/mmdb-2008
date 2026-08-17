@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bram_stokers_draculas_guest_2008",
+  "title": "Bram Stoker's Dracula's Guest",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246695",
+    "imdb": "tt1196618",
+    "tmdb": 64788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 82
+}

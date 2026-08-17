@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_champions_2008",
+  "title": "The Champions",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10942673",
+    "imdb": "tt1296068",
+    "tmdb": 26150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 118
+}

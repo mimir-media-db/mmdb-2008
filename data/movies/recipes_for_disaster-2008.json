@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_recipes_for_disaster_2008",
+  "title": "Recipes for Disaster",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11870334",
+    "imdb": "tt0892773",
+    "tmdb": 139212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-23",
+  "runtime_minutes": 85
+}

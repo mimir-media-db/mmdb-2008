@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_igo_to_japan_2008",
+  "title": "iGo to Japan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450",
+    "imdb": "tt1286124",
+    "tmdb": 62459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-08",
+  "runtime_minutes": 72
+}

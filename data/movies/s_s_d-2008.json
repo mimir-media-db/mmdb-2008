@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_s_s_d_2008",
+  "title": "S. S. D.",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4402914",
+    "imdb": "tt1329231",
+    "tmdb": 60068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-04",
+  "runtime_minutes": 110
+}

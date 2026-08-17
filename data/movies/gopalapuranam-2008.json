@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gopalapuranam_2008",
+  "title": "Gopalapuranam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16840647",
+    "imdb": "tt26244708",
+    "tmdb": 359519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

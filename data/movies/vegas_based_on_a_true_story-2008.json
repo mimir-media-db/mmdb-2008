@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vegas_based_on_a_true_story_2008",
+  "title": "Vegas: Based on a True Story",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50280844",
+    "imdb": "tt1283971",
+    "tmdb": 12430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

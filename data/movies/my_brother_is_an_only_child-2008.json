@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brother_is_an_only_child_2008",
+  "title": "My Brother Is an Only Child",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q734816",
+    "imdb": "tt0846040",
+    "tmdb": 9789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-15",
+  "runtime_minutes": 104
+}

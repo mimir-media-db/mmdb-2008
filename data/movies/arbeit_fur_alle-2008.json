@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arbeit_fur_alle_2008",
+  "title": "Arbeit für Alle",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21684555",
+    "imdb": "tt1283466",
+    "tmdb": 57146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-16",
+  "runtime_minutes": 12
+}

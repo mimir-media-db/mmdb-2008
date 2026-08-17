@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bumba_atomika_2008",
+  "title": "Bumba Atomika",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16534135",
+    "imdb": "tt1334438",
+    "tmdb": 786834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

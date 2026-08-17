@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_just_a_man_2008",
+  "title": "Just a Man",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47156840",
+    "imdb": "tt1357437"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_new_year_parade_2008",
+  "title": "The New Year Parade",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7753797",
+    "imdb": "tt1189350",
+    "tmdb": 129483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

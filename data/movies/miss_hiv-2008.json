@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_hiv_2008",
+  "title": "Miss HIV",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126203",
+    "imdb": "tt1294185",
+    "tmdb": 340946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-26"
+}

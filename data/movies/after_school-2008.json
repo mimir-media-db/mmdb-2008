@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_school_2008",
+  "title": "After School",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11284642",
+    "imdb": "tt1233459",
+    "tmdb": 57440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

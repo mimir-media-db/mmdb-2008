@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thiruvannamalai_2008",
+  "title": "Thiruvannamalai",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22315057",
+    "imdb": "tt6449342",
+    "tmdb": 66504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

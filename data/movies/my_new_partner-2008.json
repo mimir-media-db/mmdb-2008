@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_new_partner_2008",
+  "title": "My New Partner",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17401283",
+    "imdb": "tt1331000",
+    "tmdb": 52436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-06"
+}

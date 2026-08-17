@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_without_baseball_2008",
+  "title": "City Without Baseball",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1028330",
+    "imdb": "tt1198059",
+    "tmdb": 160720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-22",
+  "runtime_minutes": 100
+}

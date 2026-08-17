@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_respect_2008",
+  "title": "Big Respect",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43994461",
+    "imdb": "tt1409137",
+    "tmdb": 497918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 77
+}

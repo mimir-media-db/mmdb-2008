@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_closet_2008",
+  "title": "In the Closet",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18534742",
+    "imdb": "tt1244567",
+    "tmdb": 99241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-10",
+  "runtime_minutes": 15
+}

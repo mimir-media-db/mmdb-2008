@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mahya_2008",
+  "title": "Mahya",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5765395",
+    "imdb": "tt4853248",
+    "tmdb": 421522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-16",
+  "runtime_minutes": 104
+}

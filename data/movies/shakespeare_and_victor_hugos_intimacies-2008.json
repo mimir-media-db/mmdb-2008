@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shakespeare_and_victor_hugos_intimacies_2008",
+  "title": "Shakespeare and Victor Hugo's Intimacies",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21528929",
+    "imdb": "tt1206014",
+    "tmdb": 280901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-27",
+  "runtime_minutes": 83
+}

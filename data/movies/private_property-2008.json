@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_private_property_2008",
+  "title": "Private Property",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1406098",
+    "imdb": "tt0855895",
+    "tmdb": 12156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-07",
+  "runtime_minutes": 95
+}

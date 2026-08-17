@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_not_there_2008",
+  "title": "I'm Not There",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q816772",
+    "imdb": "tt0368794",
+    "tmdb": 3902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-28",
+  "runtime_minutes": 135
+}

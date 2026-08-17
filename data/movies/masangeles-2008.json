@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_masangeles_2008",
+  "title": "Masangeles",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13486380",
+    "imdb": "tt1087895",
+    "tmdb": 270346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_raktamukhi_neela_2008",
+  "title": "Raktamukhi Neela",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7286796",
+    "imdb": "tt1422734"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

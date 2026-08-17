@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plaguers_2008",
+  "title": "Plaguers",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7200573",
+    "imdb": "tt0918554",
+    "tmdb": 27613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

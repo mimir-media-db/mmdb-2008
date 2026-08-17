@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_swing_2008",
+  "title": "American Swing",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022603",
+    "imdb": "tt1058058",
+    "tmdb": 17073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

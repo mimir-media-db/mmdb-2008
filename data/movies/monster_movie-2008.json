@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_movie_2008",
+  "title": "Monster Movie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126251",
+    "imdb": "tt1388784",
+    "tmdb": 432844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

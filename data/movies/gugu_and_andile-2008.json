@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gugu_and_andile_2008",
+  "title": "Gugu and Andile",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16841183",
+    "imdb": "tt1432936",
+    "tmdb": 975430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

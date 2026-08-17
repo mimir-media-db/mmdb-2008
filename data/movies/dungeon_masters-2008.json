@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dungeon_masters_2008",
+  "title": "The Dungeon Masters",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7731222",
+    "imdb": "tt0988086",
+    "tmdb": 44432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

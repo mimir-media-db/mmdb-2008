@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wackness_2008",
+  "title": "The Wackness",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2060015",
+    "imdb": "tt1082886",
+    "tmdb": 13990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-18",
+  "runtime_minutes": 95
+}

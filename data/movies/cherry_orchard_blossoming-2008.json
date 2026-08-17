@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cherry_orchard_blossoming_2008",
+  "title": "The Cherry Orchard: Blossoming",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18402574",
+    "imdb": "tt1313145",
+    "tmdb": 125136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

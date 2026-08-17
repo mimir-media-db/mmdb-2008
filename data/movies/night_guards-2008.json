@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_guards_2008",
+  "title": "Night Guards",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110724150",
+    "imdb": "tt1267449",
+    "tmdb": 341580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-29",
+  "runtime_minutes": 97
+}

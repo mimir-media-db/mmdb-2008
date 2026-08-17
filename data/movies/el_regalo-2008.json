@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_regalo_2008",
+  "title": "El regalo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8774036",
+    "imdb": "tt1305138",
+    "tmdb": 73029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-02",
+  "runtime_minutes": 108
+}

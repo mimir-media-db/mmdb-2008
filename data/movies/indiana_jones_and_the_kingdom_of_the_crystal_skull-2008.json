@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_indiana_jones_and_the_kingdom_of_the_crystal_skull_2008",
+  "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q182373",
+    "imdb": "tt0367882",
+    "tmdb": 217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-21",
+  "runtime_minutes": 123
+}

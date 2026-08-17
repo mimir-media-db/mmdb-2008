@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rif_1921_una_historia_olvidada_2008",
+  "title": "Rif 1921, una historia olvidada",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50682571",
+    "imdb": "tt1975241",
+    "tmdb": 451026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 78
+}

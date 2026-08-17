@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ride_away_2008",
+  "title": "Ride Away",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15927701",
+    "imdb": "tt1330186",
+    "tmdb": 52442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-07"
+}

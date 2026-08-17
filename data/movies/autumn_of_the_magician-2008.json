@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_autumn_of_the_magician_2008",
+  "title": "Autumn of the Magician",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122480482",
+    "imdb": "tt1532498",
+    "tmdb": 341361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

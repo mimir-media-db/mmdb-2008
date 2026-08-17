@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rangamati_2008",
+  "title": "Rangamati",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7292609",
+    "imdb": "tt1422735",
+    "tmdb": 941139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

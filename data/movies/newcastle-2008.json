@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_newcastle_2008",
+  "title": "Newcastle",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2565495",
+    "imdb": "tt1043860",
+    "tmdb": 40502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-25",
+  "runtime_minutes": 107
+}

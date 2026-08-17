@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_ridge_2008",
+  "title": "Iron Ridge",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022629",
+    "imdb": "tt0918629",
+    "tmdb": 305870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-28"
+}

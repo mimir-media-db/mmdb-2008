@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punk_tauti_joka_ei_tapa_2008",
+  "title": "Punk - Tauti Joka Ei Tapa",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17383255",
+    "imdb": "tt1056117",
+    "tmdb": 1164462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

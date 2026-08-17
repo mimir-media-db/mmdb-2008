@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hitteharara_2008",
+  "title": "Hitte/Harara",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2392865",
+    "imdb": "tt1040017",
+    "tmdb": 212308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-05"
+}

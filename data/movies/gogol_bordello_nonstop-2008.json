@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gogol_bordello_nonstop_2008",
+  "title": "Gogol Bordello Non-Stop",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124580",
+    "imdb": "tt0477002",
+    "tmdb": 81729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

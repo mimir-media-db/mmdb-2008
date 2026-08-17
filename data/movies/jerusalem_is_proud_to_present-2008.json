@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jerusalem_is_proud_to_present_2008",
+  "title": "Jerusalem Is Proud to Present",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13577175",
+    "imdb": "tt1254962",
+    "tmdb": 507760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 60
+}

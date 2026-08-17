@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deldadeh_2008",
+  "title": "Deldadeh",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755195",
+    "imdb": "tt2351576",
+    "tmdb": 482812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-19",
+  "runtime_minutes": 85
+}

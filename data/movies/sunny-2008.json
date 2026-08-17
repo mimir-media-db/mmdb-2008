@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunny_2008",
+  "title": "Sunny",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10918465",
+    "imdb": "tt1275830",
+    "tmdb": 41538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 126
+}

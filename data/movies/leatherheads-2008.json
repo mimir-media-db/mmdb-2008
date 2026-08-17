@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leatherheads_2008",
+  "title": "Leatherheads",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q653974",
+    "imdb": "tt0379865",
+    "tmdb": 4942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-05",
+  "runtime_minutes": 114
+}

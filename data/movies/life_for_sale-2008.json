@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_for_sale_2008",
+  "title": "Life for Sale",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66501078",
+    "imdb": "tt1144806",
+    "tmdb": 167273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

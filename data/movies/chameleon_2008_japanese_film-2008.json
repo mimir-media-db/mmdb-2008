@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chameleon_2008_japanese_film_2008",
+  "title": "Chameleon (2008 Japanese film)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11294846",
+    "imdb": "tt1161408",
+    "tmdb": 38067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

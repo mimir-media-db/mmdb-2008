@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_up_up_to_the_sky_2008",
+  "title": "Up! Up! To the Sky",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44140304",
+    "imdb": "tt1054515",
+    "tmdb": 8143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-17"
+}

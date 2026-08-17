@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eszters_inheritance_2008",
+  "title": "Eszter's Inheritance",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q991766",
+    "imdb": "tt1091999",
+    "tmdb": 290003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-17",
+  "runtime_minutes": 90
+}

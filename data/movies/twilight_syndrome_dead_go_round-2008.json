@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twilight_syndrome_dead_go_round_2008",
+  "title": "Twilight Syndrome: Dead Go Round",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11322222",
+    "imdb": "tt1281397",
+    "tmdb": 209860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 71
+}

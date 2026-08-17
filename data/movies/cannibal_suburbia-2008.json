@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cannibal_suburbia_2008",
+  "title": "Cannibal Suburbia",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599799",
+    "imdb": "tt1298699",
+    "tmdb": 169366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

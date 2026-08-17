@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_women_2008",
+  "title": "The Women",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1809073",
+    "imdb": "tt0430770",
+    "tmdb": 13972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-04",
+  "runtime_minutes": 114
+}

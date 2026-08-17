@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_language_of_the_enemy_2008",
+  "title": "Language of the Enemy",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121742388",
+    "imdb": "tt0455981",
+    "tmdb": 20470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chiko_2008",
+  "title": "Chiko",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q329045",
+    "imdb": "tt1132474",
+    "tmdb": 8064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-09",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_2008",
+  "title": "Love Is...",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61903146",
+    "imdb": "tt1387398"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

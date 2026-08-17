@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_to_my_father_2008",
+  "title": "To My Father",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72860215"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 52
+}

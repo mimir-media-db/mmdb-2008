@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carlitos_and_the_chance_of_a_lifetime_2008",
+  "title": "Carlitos and the Chance of a Lifetime",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6296611",
+    "imdb": "tt1135964",
+    "tmdb": 53297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-22",
+  "runtime_minutes": 107
+}

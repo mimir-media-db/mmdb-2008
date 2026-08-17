@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tipu_kanan_tipu_kiri_2008",
+  "title": "Tipu Kanan Tipu Kiri",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7809033",
+    "imdb": "tt1045893",
+    "tmdb": 279807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

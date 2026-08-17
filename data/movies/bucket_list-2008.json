@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bucket_list_2008",
+  "title": "The Bucket List",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q463768",
+    "imdb": "tt0825232",
+    "tmdb": 7350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-24",
+  "runtime_minutes": 97
+}

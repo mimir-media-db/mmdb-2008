@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gu_blessi_island_2008",
+  "title": "Guð blessi Ísland",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16425945",
+    "imdb": "tt1520322",
+    "tmdb": 101329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 70
+}

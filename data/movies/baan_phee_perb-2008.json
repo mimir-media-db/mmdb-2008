@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baan_phee_perb_2008",
+  "title": "Baan Phee Perb",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13016471",
+    "imdb": "tt3208338",
+    "tmdb": 920048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

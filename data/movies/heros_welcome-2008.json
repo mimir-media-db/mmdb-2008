@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heros_welcome_2008",
+  "title": "A Hero's Welcome",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1962643",
+    "imdb": "tt1135943",
+    "tmdb": 7734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-09",
+  "runtime_minutes": 91
+}

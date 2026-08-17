@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pure_fucking_mayhem_2008",
+  "title": "Pure Fucking Mayhem",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16165681",
+    "imdb": "tt3979212",
+    "tmdb": 49339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

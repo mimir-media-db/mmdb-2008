@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_audie_the_wolf_2008",
+  "title": "Audie & the Wolf",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64781862",
+    "imdb": "tt1033468",
+    "tmdb": 21965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 73
+}

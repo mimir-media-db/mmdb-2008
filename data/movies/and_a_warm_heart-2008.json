@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_a_warm_heart_2008",
+  "title": "And a Warm Heart",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9335424",
+    "imdb": "tt1210361",
+    "tmdb": 68804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-17",
+  "runtime_minutes": 96
+}

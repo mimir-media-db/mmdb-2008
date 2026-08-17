@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_birds_of_heaven_2008",
+  "title": "Birds of Heaven",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12291667",
+    "imdb": "tt1318069"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_jekyll_and_mr_hyde_2008",
+  "title": "Dr. Jekyll and Mr. Hyde",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9210559",
+    "imdb": "tt1159984",
+    "tmdb": 35801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-06"
+}

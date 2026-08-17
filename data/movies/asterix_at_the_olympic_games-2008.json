@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asterix_at_the_olympic_games_2008",
+  "title": "Asterix at the Olympic Games",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q273676",
+    "imdb": "tt0463872",
+    "tmdb": 2395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-30",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_within_2008",
+  "title": "From Within",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2698418",
+    "imdb": "tt1063056",
+    "tmdb": 16167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-25",
+  "runtime_minutes": 89
+}

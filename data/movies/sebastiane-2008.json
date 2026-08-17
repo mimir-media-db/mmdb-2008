@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sebastiane_2008",
+  "title": "Sebastiane",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1088489",
+    "imdb": "tt0075177",
+    "tmdb": 42241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-16",
+  "runtime_minutes": 90
+}

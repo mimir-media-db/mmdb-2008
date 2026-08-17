@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wu_the_story_of_the_wutang_clan_2008",
+  "title": "Wu: The Story of the Wu-Tang Clan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9378846",
+    "imdb": "tt0950779",
+    "tmdb": 96340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-18",
+  "runtime_minutes": 90
+}

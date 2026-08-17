@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virtual_jfk_2008",
+  "title": "Virtual JFK",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7934987",
+    "imdb": "tt1205541",
+    "tmdb": 78999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

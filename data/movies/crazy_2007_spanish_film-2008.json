@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_2007_spanish_film_2008",
+  "title": "Crazy (2007 Spanish film)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67480501",
+    "imdb": "tt0448458",
+    "tmdb": 26906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

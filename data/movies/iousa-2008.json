@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iousa_2008",
+  "title": "I.O.U.S.A.",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9149954",
+    "imdb": "tt0963807",
+    "tmdb": 15320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

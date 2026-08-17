@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_amhi_satpute_2008",
+  "title": "Amhi Satpute",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24038231",
+    "imdb": "tt5335224"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

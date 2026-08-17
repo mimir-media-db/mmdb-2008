@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rosa_patria_2008",
+  "title": "Rosa Patria",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139830246",
+    "imdb": "tt1408977",
+    "tmdb": 506127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

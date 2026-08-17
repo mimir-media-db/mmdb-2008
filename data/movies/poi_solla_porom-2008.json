@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poi_solla_porom_2008",
+  "title": "Poi Solla Porom",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7207814",
+    "imdb": "tt1378320",
+    "tmdb": 76719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

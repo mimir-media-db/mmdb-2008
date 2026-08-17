@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_seoul_2008",
+  "title": "Once Upon a Time in Seoul",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12602418",
+    "imdb": "tt1565043",
+    "tmdb": 65880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}

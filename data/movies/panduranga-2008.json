@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panduranga_2008",
+  "title": "Panduranga",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7130776",
+    "imdb": "tt1285131",
+    "tmdb": 280323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

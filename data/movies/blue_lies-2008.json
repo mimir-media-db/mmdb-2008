@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_lies_2008",
+  "title": "Blue Lies",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599798",
+    "imdb": "tt1805173",
+    "tmdb": 1417242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 80
+}

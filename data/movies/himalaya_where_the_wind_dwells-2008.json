@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_himalaya_where_the_wind_dwells_2008",
+  "title": "Himalaya, Where The Wind Dwells",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738274",
+    "imdb": "tt1179079",
+    "tmdb": 79637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

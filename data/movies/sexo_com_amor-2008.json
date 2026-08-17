@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexo_com_amor_2008",
+  "title": "Sexo com Amor?",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10370849",
+    "imdb": "tt0931353",
+    "tmdb": 75883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

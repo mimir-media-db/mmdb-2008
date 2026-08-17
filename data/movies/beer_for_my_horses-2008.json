@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beer_for_my_horses_2008",
+  "title": "Beer for My Horses",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q814072",
+    "imdb": "tt1178640",
+    "tmdb": 15926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-08",
+  "runtime_minutes": 86
+}

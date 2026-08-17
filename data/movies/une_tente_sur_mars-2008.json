@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_une_tente_sur_mars_2008",
+  "title": "Une tente sur Mars",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60884919",
+    "imdb": "tt9149902",
+    "tmdb": 558162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 58
+}

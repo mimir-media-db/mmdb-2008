@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_higurashi_no_naku_koro_ni_2008",
+  "title": "Higurashi no Naku Koro ni",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11090460",
+    "imdb": "tt1116935",
+    "tmdb": 34129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-10",
+  "runtime_minutes": 106
+}

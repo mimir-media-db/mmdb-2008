@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stand_up_2008",
+  "title": "Stand Up",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12128001",
+    "imdb": "tt1277146",
+    "tmdb": 276817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

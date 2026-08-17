@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swing_state_2008",
+  "title": "Swing State",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7658596",
+    "imdb": "tt0963346",
+    "tmdb": 194939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

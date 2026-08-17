@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinemacatcat_2008",
+  "title": "Cinemacat.cat",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94999771",
+    "imdb": "tt1300209"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-03",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_une_catastrophe_2008",
+  "title": "Une catastrophe",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11258723",
+    "imdb": "tt1350630",
+    "tmdb": 1685760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 1
+}

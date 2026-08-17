@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rudo_y_cursi_2008",
+  "title": "Rudo y Cursi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2382723",
+    "imdb": "tt0405393",
+    "tmdb": 4786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-09",
+  "runtime_minutes": 103
+}

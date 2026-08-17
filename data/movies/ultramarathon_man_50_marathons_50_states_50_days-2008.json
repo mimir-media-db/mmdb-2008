@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ultramarathon_man_50_marathons_50_states_50_days_2008",
+  "title": "Ultramarathon Man: 50 Marathons, 50 States, 50 Days",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123536809",
+    "imdb": "tt1043753",
+    "tmdb": 61015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 109
+}

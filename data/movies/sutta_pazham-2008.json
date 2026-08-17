@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sutta_pazham_2008",
+  "title": "Sutta Pazham",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77903034",
+    "imdb": "tt13577598"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

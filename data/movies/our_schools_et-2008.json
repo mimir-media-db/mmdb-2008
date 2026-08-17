@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_schools_et_2008",
+  "title": "Our School's E.T.",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12609187",
+    "imdb": "tt1867121",
+    "tmdb": 48828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-11",
+  "runtime_minutes": 120
+}

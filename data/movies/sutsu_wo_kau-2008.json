@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sutsu_wo_kau_2008",
+  "title": "Sûtsu wo kau",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11192759",
+    "imdb": "tt1313102",
+    "tmdb": 88419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 47
+}

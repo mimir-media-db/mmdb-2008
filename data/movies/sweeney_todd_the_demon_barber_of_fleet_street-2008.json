@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweeney_todd_the_demon_barber_of_fleet_street_2008",
+  "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q212041",
+    "imdb": "tt0408236",
+    "tmdb": 13885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-21",
+  "runtime_minutes": 116
+}

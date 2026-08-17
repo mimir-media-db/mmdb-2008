@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ss_united_states_lady_in_waiting_2008",
+  "title": "SS United States: Lady in Waiting",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7394489",
+    "imdb": "tt1230471",
+    "tmdb": 705978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-03"
+}

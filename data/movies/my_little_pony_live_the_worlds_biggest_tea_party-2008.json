@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_pony_live_the_worlds_biggest_tea_party_2008",
+  "title": "My Little Pony Live: The World's Biggest Tea Party",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945914",
+    "imdb": "tt1255890",
+    "tmdb": 218491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

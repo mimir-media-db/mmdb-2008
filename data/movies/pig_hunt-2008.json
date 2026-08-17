@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pig_hunt_2008",
+  "title": "Pig Hunt",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7193217",
+    "imdb": "tt1022883",
+    "tmdb": 22731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

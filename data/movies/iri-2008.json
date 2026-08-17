@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iri_2008",
+  "title": "Iri",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19161940",
+    "imdb": "tt1330995",
+    "tmdb": 108005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mud_zombies_2008",
+  "title": "Mud Zombies",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10323648",
+    "imdb": "tt1329396",
+    "tmdb": 135561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 105
+}

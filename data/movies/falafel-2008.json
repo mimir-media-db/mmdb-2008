@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_falafel_2008",
+  "title": "Falafel",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1393871",
+    "imdb": "tt0922424",
+    "tmdb": 10888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-22",
+  "runtime_minutes": 83
+}

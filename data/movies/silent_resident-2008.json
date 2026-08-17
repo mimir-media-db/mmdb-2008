@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_resident_2008",
+  "title": "Silent Resident",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66215429",
+    "imdb": "tt0848613",
+    "tmdb": 62872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-29",
+  "runtime_minutes": 100
+}

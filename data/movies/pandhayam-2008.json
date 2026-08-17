@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pandhayam_2008",
+  "title": "Pandhayam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7130619",
+    "imdb": "tt6834870",
+    "tmdb": 342866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_walking_2008",
+  "title": "Just Walking",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4448764",
+    "imdb": "tt1078600",
+    "tmdb": 32695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-31",
+  "runtime_minutes": 129
+}

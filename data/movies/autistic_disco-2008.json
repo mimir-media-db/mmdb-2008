@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_autistic_disco_2008",
+  "title": "Autistic Disco",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44520824",
+    "imdb": "tt1080539",
+    "tmdb": 503193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-09"
+}

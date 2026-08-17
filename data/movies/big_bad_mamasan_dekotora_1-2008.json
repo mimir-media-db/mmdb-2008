@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_bad_mamasan_dekotora_1_2008",
+  "title": "Big Bad Mama-San: Dekotora 1",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17223882",
+    "imdb": "tt2127268",
+    "tmdb": 245096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

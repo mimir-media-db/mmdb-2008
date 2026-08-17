@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dad_true_believer_2008",
+  "title": "D.A.D: True Believer",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728331",
+    "imdb": "tt1308639",
+    "tmdb": 90852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-10",
+  "runtime_minutes": 94
+}

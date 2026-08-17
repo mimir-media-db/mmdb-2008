@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evan_almighty_2008",
+  "title": "Evan Almighty",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q195949",
+    "imdb": "tt0413099",
+    "tmdb": 2698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-13",
+  "runtime_minutes": 96
+}

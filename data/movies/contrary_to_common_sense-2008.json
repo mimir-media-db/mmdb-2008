@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_contrary_to_common_sense_2008",
+  "title": "Contrary to Common Sense",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16721197",
+    "imdb": "tt3514604",
+    "tmdb": 62500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

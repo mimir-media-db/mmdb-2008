@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_iyakkam_2008",
+  "title": "Iyakkam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768345",
+    "imdb": "tt13576598"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

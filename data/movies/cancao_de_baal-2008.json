@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cancao_de_baal_2008",
+  "title": "Canção de Baal",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303138",
+    "imdb": "tt1554924",
+    "tmdb": 278463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

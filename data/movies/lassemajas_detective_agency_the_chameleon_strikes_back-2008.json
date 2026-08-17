@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lassemajas_detective_agency_the_chameleon_strikes_back_2008",
+  "title": "LasseMaja's Detective Agency - The Chameleon Strikes Back",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10554715",
+    "imdb": "tt1337342",
+    "tmdb": 54258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-19",
+  "runtime_minutes": 97
+}

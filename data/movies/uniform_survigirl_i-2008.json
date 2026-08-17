@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uniform_survigirl_i_2008",
+  "title": "Uniform SurviGirl I",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11396972",
+    "imdb": "tt1332692",
+    "tmdb": 450949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

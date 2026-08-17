@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisterhood_of_the_traveling_pants_2_2008",
+  "title": "The Sisterhood of the Traveling Pants 2",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16458",
+    "imdb": "tt1018785",
+    "tmdb": 10188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-06",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wizard_2008",
+  "title": "A Wizard",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22193606",
+    "imdb": "tt1826946",
+    "tmdb": 69842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

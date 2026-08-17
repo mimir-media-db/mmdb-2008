@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sathyam_2008",
+  "title": "Sathyam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7426177",
+    "imdb": "tt1582597",
+    "tmdb": 112241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

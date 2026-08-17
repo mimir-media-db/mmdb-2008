@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kismat_konnection_2008",
+  "title": "Kismat Konnection",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127129",
+    "imdb": "tt1105733",
+    "tmdb": 15467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-18",
+  "runtime_minutes": 153
+}

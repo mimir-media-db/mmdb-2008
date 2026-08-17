@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_darkness_surrounds_roberta_2008",
+  "title": "Darkness Surrounds Roberta",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106424423",
+    "imdb": "tt0985050",
+    "tmdb": 28767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_byzuch_2008",
+  "title": "Byzuch",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25680659",
+    "imdb": "tt2570398",
+    "tmdb": 238252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-28"
+}

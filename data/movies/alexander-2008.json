@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alexander_2008",
+  "title": "Alexander",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1046117",
+    "imdb": "tt1244496",
+    "tmdb": 25032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-01",
+  "runtime_minutes": 111
+}

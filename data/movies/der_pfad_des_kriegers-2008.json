@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_pfad_des_kriegers_2008",
+  "title": "Der Pfad des Kriegers",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2675041",
+    "imdb": "tt0950605",
+    "tmdb": 33715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-15",
+  "runtime_minutes": 86
+}

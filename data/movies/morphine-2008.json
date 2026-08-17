@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morphine_2008",
+  "title": "Morphine",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1943424",
+    "imdb": "tt1186366",
+    "tmdb": 51284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-27",
+  "runtime_minutes": 107
+}

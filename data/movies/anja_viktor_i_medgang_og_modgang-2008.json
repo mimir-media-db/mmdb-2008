@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anja_viktor_i_medgang_og_modgang_2008",
+  "title": "Anja & Viktor - I medgang og modgang",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12301707",
+    "imdb": "tt1266539",
+    "tmdb": 19177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-12",
+  "runtime_minutes": 85
+}

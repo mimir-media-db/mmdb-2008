@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_hard_being_loved_by_jerks_2008",
+  "title": "It's Hard Being Loved by Jerks",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18745102",
+    "imdb": "tt1289783",
+    "tmdb": 8893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

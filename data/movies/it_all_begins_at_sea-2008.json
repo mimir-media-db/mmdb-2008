@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_all_begins_at_sea_2008",
+  "title": "It All Begins at Sea",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52837440",
+    "imdb": "tt1284990",
+    "tmdb": 78345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

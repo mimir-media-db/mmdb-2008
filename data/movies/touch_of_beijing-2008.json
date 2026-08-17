@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_touch_of_beijing_2008",
+  "title": "A Touch of Beijing",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114273502",
+    "imdb": "tt1206342",
+    "tmdb": 731838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

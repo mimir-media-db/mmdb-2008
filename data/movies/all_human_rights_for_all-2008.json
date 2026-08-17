@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_human_rights_for_all_2008",
+  "title": "All Human Rights for All",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16487836",
+    "imdb": "tt1471147",
+    "tmdb": 707715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

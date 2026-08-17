@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_as_time_flies_2008",
+  "title": "Children. As Time Flies.",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44959880",
+    "imdb": "tt1279177",
+    "tmdb": 97168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-25",
+  "runtime_minutes": 86
+}

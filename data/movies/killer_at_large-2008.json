@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_at_large_2008",
+  "title": "Killer at Large",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106358975",
+    "imdb": "tt0903660",
+    "tmdb": 37312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-08"
+}

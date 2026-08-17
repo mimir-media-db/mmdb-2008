@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_candy_2008",
+  "title": "Candy",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q280928",
+    "imdb": "tt0424880",
+    "tmdb": 4441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-17",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_glass_2008",
+  "title": "Behind the Glass",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25214837",
+    "imdb": "tt1265980",
+    "tmdb": 257950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-05",
+  "runtime_minutes": 80
+}

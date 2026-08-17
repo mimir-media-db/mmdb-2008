@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_wedding_anniversary_2008",
+  "title": "Paper Wedding Anniversary",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19999532",
+    "imdb": "tt1345451",
+    "tmdb": 259885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 104
+}

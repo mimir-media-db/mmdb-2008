@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheeese_2008",
+  "title": "Cheeese",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76448695",
+    "imdb": "tt1361611"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 12
+}

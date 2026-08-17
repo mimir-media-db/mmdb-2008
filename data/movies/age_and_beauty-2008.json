@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_age_and_beauty_2008",
+  "title": "Age and Beauty",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q438265",
+    "imdb": "tt1091664",
+    "tmdb": 30134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-24",
+  "runtime_minutes": 97
+}

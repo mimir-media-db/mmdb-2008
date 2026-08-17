@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_sea_2008",
+  "title": "Black Sea",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3845233",
+    "imdb": "tt1267406",
+    "tmdb": 56992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-14",
+  "runtime_minutes": 95
+}

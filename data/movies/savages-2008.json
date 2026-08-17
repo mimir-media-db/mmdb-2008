@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_savages_2008",
+  "title": "The Savages",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1213010",
+    "imdb": "tt0775529",
+    "tmdb": 8272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-24",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elli_makra_42277_wuppertal_2008",
+  "title": "Elli Makra, 42277 Wuppertal",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44421589",
+    "imdb": "tt1016081",
+    "tmdb": 523020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-23"
+}

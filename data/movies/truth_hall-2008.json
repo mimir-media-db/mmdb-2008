@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_hall_2008",
+  "title": "Truth Hall",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128191074",
+    "imdb": "tt1179078",
+    "tmdb": 155863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-14",
+  "runtime_minutes": 88
+}

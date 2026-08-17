@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chicken_the_fish_and_the_king_crab_2008",
+  "title": "The Chicken, the Fish and the King Crab",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94443118",
+    "imdb": "tt1202202",
+    "tmdb": 143336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-12",
+  "runtime_minutes": 87
+}

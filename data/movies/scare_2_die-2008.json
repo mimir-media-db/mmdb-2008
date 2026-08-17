@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scare_2_die_2008",
+  "title": "Scare 2 Die",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10924345",
+    "imdb": "tt1205056",
+    "tmdb": 160719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

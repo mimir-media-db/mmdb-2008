@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_akka_thangi_2008",
+  "title": "Akka Thangi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19881823",
+    "imdb": "tt5511394"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

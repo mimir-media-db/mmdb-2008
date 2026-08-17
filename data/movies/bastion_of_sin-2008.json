@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bastion_of_sin_2008",
+  "title": "Bastion of Sin",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23016113",
+    "imdb": "tt1441244",
+    "tmdb": 274687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-28"
+}

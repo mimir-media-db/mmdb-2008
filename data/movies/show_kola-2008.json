@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_show_kola_2008",
+  "title": "Show Kola",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21810591",
+    "imdb": "tt1675755"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

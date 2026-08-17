@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_winnipeg_2008",
+  "title": "My Winnipeg",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q593123",
+    "imdb": "tt1093842",
+    "tmdb": 13241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-13",
+  "runtime_minutes": 80
+}

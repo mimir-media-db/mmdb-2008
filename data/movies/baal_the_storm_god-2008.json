@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baal_the_storm_god_2008",
+  "title": "Ba'al: The Storm God",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q812771",
+    "imdb": "tt1122761",
+    "tmdb": 17004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-13",
+  "runtime_minutes": 90
+}

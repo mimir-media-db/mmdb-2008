@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bongo_superstars_2008",
+  "title": "Bongo Superstars",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495237",
+    "imdb": "tt4146790"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 22
+}

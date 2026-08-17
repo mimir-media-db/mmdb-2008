@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_calanda_2008",
+  "title": "Calanda",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29252621",
+    "imdb": "tt0295895",
+    "tmdb": 420438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-14",
+  "runtime_minutes": 20
+}

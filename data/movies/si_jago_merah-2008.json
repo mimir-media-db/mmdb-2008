@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_si_jago_merah_2008",
+  "title": "Si Jago Merah",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12514149",
+    "imdb": "tt1369695",
+    "tmdb": 388485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-13",
+  "runtime_minutes": 104
+}

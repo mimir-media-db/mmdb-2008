@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_empana_de_pino_2008",
+  "title": "Empaná de pino",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126766644",
+    "imdb": "tt2109121",
+    "tmdb": 470373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-13"
+}

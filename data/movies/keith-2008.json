@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keith_2008",
+  "title": "Keith",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2296763",
+    "imdb": "tt0435679",
+    "tmdb": 14859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-11",
+  "runtime_minutes": 93
+}

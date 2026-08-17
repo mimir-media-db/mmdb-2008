@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_came_back_2008",
+  "title": "The Man Who Came Back",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7749911",
+    "imdb": "tt1013651",
+    "tmdb": 16997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 112
+}

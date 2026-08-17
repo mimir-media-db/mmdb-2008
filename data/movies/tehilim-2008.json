@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tehilim_2008",
+  "title": "Tehilim",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q588101",
+    "imdb": "tt0816672",
+    "tmdb": 126682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-06",
+  "runtime_minutes": 96
+}

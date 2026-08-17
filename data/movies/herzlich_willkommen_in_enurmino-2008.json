@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_herzlich_willkommen_in_enurmino_2008",
+  "title": "Herzlich Willkommen in Enurmino",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18406837",
+    "tmdb": 953050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 60
+}

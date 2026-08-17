@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_missed_call_2008",
+  "title": "One Missed Call",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q589203",
+    "imdb": "tt0479968",
+    "tmdb": 6933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-04",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_ashes_2008",
+  "title": "Little Ashes",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2249443",
+    "imdb": "tt1104083",
+    "tmdb": 31299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-07",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_field_2008",
+  "title": "Wild Field",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4161544",
+    "imdb": "tt1252383",
+    "tmdb": 121688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-12",
+  "runtime_minutes": 108
+}

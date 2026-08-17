@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_premer_kahini_2008",
+  "title": "Premer Kahini",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7240252",
+    "imdb": "tt1401622",
+    "tmdb": 528427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pachamarathanalil_2008",
+  "title": "Pachamarathanalil",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7121976",
+    "imdb": "tt1556941",
+    "tmdb": 353645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

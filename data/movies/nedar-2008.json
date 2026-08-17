@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nedar_2008",
+  "title": "Nedar",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95500214",
+    "imdb": "tt1317484",
+    "tmdb": 209155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-07",
+  "runtime_minutes": 94
+}

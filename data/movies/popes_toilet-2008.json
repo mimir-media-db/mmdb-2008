@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_popes_toilet_2008",
+  "title": "The Pope's Toilet",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2915397",
+    "imdb": "tt0482901",
+    "tmdb": 8267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-04",
+  "runtime_minutes": 97
+}

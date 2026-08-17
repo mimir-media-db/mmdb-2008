@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surrogate_2008",
+  "title": "Surrogate",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7008143",
+    "imdb": "tt1407081",
+    "tmdb": 44374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 57
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_russische_geliebte_2008",
+  "title": "Der russische Geliebte",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20164845",
+    "imdb": "tt1200830",
+    "tmdb": 229681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

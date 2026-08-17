@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ben_x_2008",
+  "title": "Ben X",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q499515",
+    "imdb": "tt0953318",
+    "tmdb": 6936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-08",
+  "runtime_minutes": 93
+}

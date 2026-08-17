@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ballada_o_piotrowskim_2008",
+  "title": "Ballada o Piotrowskim",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9164639",
+    "imdb": "tt1159203",
+    "tmdb": 920545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-26"
+}

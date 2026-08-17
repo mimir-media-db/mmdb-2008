@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_the_browns_2008",
+  "title": "Meet the Browns",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6807833",
+    "imdb": "tt1047494",
+    "tmdb": 16710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

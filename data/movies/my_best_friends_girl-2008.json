@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_best_friends_girl_2008",
+  "title": "My Best Friend's Girl",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q266552",
+    "imdb": "tt1046163",
+    "tmdb": 13596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-19",
+  "runtime_minutes": 100
+}

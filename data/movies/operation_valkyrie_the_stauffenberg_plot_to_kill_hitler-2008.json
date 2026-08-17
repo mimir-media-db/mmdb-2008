@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_valkyrie_the_stauffenberg_plot_to_kill_hitler_2008",
+  "title": "Operation Valkyrie: The Stauffenberg Plot to Kill Hitler",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17461540",
+    "imdb": "tt1334602",
+    "tmdb": 253143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 77
+}

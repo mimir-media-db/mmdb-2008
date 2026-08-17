@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_act_of_grace_2008",
+  "title": "Act of Grace",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16824281",
+    "imdb": "tt1235778",
+    "tmdb": 250080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morning_light_2008",
+  "title": "Morning Light",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11344903",
+    "imdb": "tt1198405",
+    "tmdb": 31237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-17",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tony_manero_2008",
+  "title": "Tony Manero",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1608079",
+    "imdb": "tt1223975",
+    "tmdb": 33774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-17",
+  "runtime_minutes": 98
+}

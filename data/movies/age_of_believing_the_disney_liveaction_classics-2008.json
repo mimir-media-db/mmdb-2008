@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_age_of_believing_the_disney_liveaction_classics_2008",
+  "title": "The Age of Believing: The Disney Live-Action Classics",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56219302",
+    "imdb": "tt1334578",
+    "tmdb": 527656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-14",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_shot_2008",
+  "title": "One Shot",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12330298",
+    "imdb": "tt1258758",
+    "tmdb": 56244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-20",
+  "runtime_minutes": 78
+}

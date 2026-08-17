@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_necrobusiness_2008",
+  "title": "Necrobusiness",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10595315",
+    "imdb": "tt1244098",
+    "tmdb": 104816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

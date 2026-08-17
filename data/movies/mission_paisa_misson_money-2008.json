@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_paisa_misson_money_2008",
+  "title": "Mission Paisa (Misson Money)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47464878",
+    "imdb": "tt1977865",
+    "tmdb": 495883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinlok_2008",
+  "title": "Cinlok",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10993223",
+    "imdb": "tt1301248",
+    "tmdb": 490610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

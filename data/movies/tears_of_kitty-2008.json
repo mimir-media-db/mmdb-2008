@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tears_of_kitty_2008",
+  "title": "Tears of Kitty",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6671862",
+    "imdb": "tt1230430",
+    "tmdb": 320984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-26"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_frohe_zukunft_2008",
+  "title": "Frohe Zukunft",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22998626",
+    "imdb": "tt1466937"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-30"
+}

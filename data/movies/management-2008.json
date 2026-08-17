@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_management_2008",
+  "title": "Management",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q468565",
+    "imdb": "tt1082853",
+    "tmdb": 21583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-07",
+  "runtime_minutes": 94
+}

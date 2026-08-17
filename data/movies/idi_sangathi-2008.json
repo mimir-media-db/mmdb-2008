@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_idi_sangathi_2008",
+  "title": "Idi Sangathi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892722",
+    "imdb": "tt1606247",
+    "tmdb": 1008113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

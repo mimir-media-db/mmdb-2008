@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_express_2008",
+  "title": "The Express",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520805",
+    "imdb": "tt0469903",
+    "tmdb": 14325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-12",
+  "runtime_minutes": 130
+}

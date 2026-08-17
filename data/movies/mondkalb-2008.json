@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mondkalb_2008",
+  "title": "Mondkalb",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1260206",
+    "imdb": "tt0897272",
+    "tmdb": 5658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-31",
+  "runtime_minutes": 104
+}

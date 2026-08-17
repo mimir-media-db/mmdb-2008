@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pageant_2008",
+  "title": "Pageant",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7124296",
+    "imdb": "tt1152834",
+    "tmdb": 61895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

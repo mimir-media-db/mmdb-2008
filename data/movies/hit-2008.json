@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hit_2008",
+  "title": "Hit",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39082216",
+    "imdb": "tt1461681",
+    "tmdb": 456589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

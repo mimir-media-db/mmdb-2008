@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reprise_2008",
+  "title": "Reprise",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q499512",
+    "imdb": "tt0827517",
+    "tmdb": 12197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-16",
+  "runtime_minutes": 106
+}

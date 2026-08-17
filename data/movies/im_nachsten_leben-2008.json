@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_im_nachsten_leben_2008",
+  "title": "Im nächsten Leben",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43261820",
+    "imdb": "tt1118698",
+    "tmdb": 229691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-23"
+}

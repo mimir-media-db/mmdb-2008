@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_onde_andara_dulce_veiga_2008",
+  "title": "Onde Andará Dulce Veiga?",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10340953",
+    "imdb": "tt1111931",
+    "tmdb": 156289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-27",
+  "runtime_minutes": 135
+}

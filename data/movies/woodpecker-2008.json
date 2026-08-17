@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woodpecker_2008",
+  "title": "Woodpecker",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8033127",
+    "imdb": "tt0984039",
+    "tmdb": 44828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

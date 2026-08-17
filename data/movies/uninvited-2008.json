@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uninvited_2008",
+  "title": "The Uninvited",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7771530",
+    "imdb": "tt0942904",
+    "tmdb": 43587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

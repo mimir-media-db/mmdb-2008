@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kurukshetra_2008",
+  "title": "Kurukshetra",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6447355",
+    "imdb": "tt1309592",
+    "tmdb": 320742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-08"
+}

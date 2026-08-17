@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_das_palmerprinzip_2008",
+  "title": "Das Palmer-Prinzip",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22442882",
+    "imdb": "tt1454457"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

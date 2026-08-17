@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_susuk_2008",
+  "title": "Susuk",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7649755",
+    "imdb": "tt0482267",
+    "tmdb": 230256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_libro_de_las_aguas_2008",
+  "title": "El libro de las aguas",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96087341",
+    "imdb": "tt1239448",
+    "tmdb": 1233018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-11",
+  "runtime_minutes": 96
+}

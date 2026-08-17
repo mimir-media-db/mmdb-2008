@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ricky_rapper_2008",
+  "title": "Ricky Rapper",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7332165",
+    "imdb": "tt1043537",
+    "tmdb": 115306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-15",
+  "runtime_minutes": 78
+}

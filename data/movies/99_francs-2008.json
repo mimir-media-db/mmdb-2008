@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_99_francs_2008",
+  "title": "99 Francs",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q228667",
+    "imdb": "tt0875113",
+    "tmdb": 8827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-31",
+  "runtime_minutes": 100
+}

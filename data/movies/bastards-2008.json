@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bastards_2008",
+  "title": "The Bastards",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3259720",
+    "imdb": "tt0841922",
+    "tmdb": 8931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-20",
+  "runtime_minutes": 90
+}

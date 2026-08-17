@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shifty_2008",
+  "title": "Shifty",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7496281",
+    "imdb": "tt1104126",
+    "tmdb": 21900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

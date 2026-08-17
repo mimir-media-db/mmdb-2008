@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_socalled_love_2008",
+  "title": "My So-called Love",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136905708",
+    "imdb": "tt1329101",
+    "tmdb": 37539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-21"
+}

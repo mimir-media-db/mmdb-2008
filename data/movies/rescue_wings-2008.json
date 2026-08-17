@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rescue_wings_2008",
+  "title": "Rescue Wings",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11597349",
+    "imdb": "tt1339368",
+    "tmdb": 248784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

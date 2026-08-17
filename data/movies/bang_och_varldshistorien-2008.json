@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bang_och_varldshistorien_2008",
+  "title": "Bang och världshistorien",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16159915",
+    "imdb": "tt1244854",
+    "tmdb": 1024422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thenavattu_2008",
+  "title": "Thenavattu",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7781357",
+    "imdb": "tt6449408",
+    "tmdb": 69546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

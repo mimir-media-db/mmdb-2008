@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reinactors_2008",
+  "title": "The Reinactors",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7760082",
+    "imdb": "tt0984220",
+    "tmdb": 102332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

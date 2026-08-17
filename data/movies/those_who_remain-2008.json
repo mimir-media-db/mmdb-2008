@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_those_who_remain_2008",
+  "title": "Those Who Remain",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81437951",
+    "imdb": "tt1384779",
+    "tmdb": 267960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

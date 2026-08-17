@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fools_gold_2008",
+  "title": "Fool's Gold",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1305119",
+    "imdb": "tt0770752",
+    "tmdb": 8676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-07",
+  "runtime_minutes": 112
+}

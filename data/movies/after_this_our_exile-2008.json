@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_this_our_exile_2008",
+  "title": "After This Our Exile",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q701374",
+    "imdb": "tt0768114",
+    "tmdb": 11960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-16",
+  "runtime_minutes": 121
+}

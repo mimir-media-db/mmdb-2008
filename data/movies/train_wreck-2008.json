@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_train_wreck_2008",
+  "title": "Train Wreck",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28871795",
+    "imdb": "tt1339188"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

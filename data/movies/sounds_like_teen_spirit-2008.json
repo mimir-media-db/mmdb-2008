@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sounds_like_teen_spirit_2008",
+  "title": "Sounds like Teen Spirit",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7564926",
+    "imdb": "tt1039638",
+    "tmdb": 37081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_basahhh_2008",
+  "title": "Basahhh...",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17999014",
+    "imdb": "tt1286505",
+    "tmdb": 434183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}

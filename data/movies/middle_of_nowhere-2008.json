@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_middle_of_nowhere_2008",
+  "title": "Middle of Nowhere",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1677081",
+    "imdb": "tt1032817",
+    "tmdb": 19688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-06",
+  "runtime_minutes": 95
+}

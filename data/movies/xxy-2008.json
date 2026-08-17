@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_xxy_2008",
+  "title": "XXY",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q770670",
+    "imdb": "tt0995829",
+    "tmdb": 11148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-26",
+  "runtime_minutes": 87
+}

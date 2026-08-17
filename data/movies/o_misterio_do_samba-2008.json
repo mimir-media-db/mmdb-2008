@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_misterio_do_samba_2008",
+  "title": "O Mistério do Samba",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10339444",
+    "imdb": "tt1275952",
+    "tmdb": 169275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-29",
+  "runtime_minutes": 88
+}

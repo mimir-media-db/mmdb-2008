@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speed_racer_2008",
+  "title": "Speed Racer",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q312078",
+    "imdb": "tt0811080",
+    "tmdb": 7459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-07",
+  "runtime_minutes": 129
+}

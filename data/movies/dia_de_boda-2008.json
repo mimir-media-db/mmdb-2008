@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dia_de_boda_2008",
+  "title": "Día de Boda",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62009888",
+    "imdb": "tt1834814",
+    "tmdb": 1386362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

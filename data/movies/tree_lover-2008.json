@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tree_lover_2008",
+  "title": "The Tree Lover",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18334139",
+    "imdb": "tt1438509",
+    "tmdb": 468148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 76
+}

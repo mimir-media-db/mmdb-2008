@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_achternbusch_2008",
+  "title": "Achternbusch",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93475802",
+    "imdb": "tt1312056",
+    "tmdb": 853450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

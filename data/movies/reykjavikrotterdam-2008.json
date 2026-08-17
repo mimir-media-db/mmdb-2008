@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reykjavikrotterdam_2008",
+  "title": "Reykjavík-Rotterdam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3130121",
+    "imdb": "tt1233576",
+    "tmdb": 63907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-03",
+  "runtime_minutes": 88
+}

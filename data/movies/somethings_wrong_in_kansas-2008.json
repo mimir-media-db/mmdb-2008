@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_somethings_wrong_in_kansas_2008",
+  "title": "Something's Wrong in Kansas",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14942509",
+    "imdb": "tt0443648",
+    "tmdb": 373926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

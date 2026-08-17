@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vidas_paralelas_2008",
+  "title": "Vidas paralelas",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278488",
+    "imdb": "tt1305776",
+    "tmdb": 537341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

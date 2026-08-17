@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_liar_2008",
+  "title": "Liar",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19728442",
+    "imdb": "tt1301265",
+    "tmdb": 522056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

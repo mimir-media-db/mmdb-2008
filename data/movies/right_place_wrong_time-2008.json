@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_right_place_wrong_time_2008",
+  "title": "Right Place, Wrong Time",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7333562",
+    "imdb": "tt1176455",
+    "tmdb": 1247380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sumpah_pocong_di_sekolah_2008",
+  "title": "Sumpah Pocong Di Sekolah",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12517676",
+    "imdb": "tt1243228",
+    "tmdb": 114223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

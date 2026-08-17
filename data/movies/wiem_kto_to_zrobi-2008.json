@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wiem_kto_to_zrobi_2008",
+  "title": "Wiem, kto to zrobił",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9373161",
+    "imdb": "tt3552118",
+    "tmdb": 408844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-06"
+}

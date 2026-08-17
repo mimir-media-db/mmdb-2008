@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ada_kamu_aku_ada_2008",
+  "title": "Ada Kamu, Aku Ada",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17997673",
+    "imdb": "tt1233588",
+    "tmdb": 381134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-08"
+}

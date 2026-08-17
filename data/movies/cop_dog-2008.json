@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cop_dog_2008",
+  "title": "Cop Dog",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3294463",
+    "imdb": "tt1209380",
+    "tmdb": 21837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-08"
+}

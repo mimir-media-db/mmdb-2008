@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salute_2008",
+  "title": "Salute",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7406323",
+    "imdb": "tt0874317",
+    "tmdb": 34836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 120
+}

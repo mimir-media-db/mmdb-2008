@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_child_2008",
+  "title": "War Child",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44711971",
+    "imdb": "tt1172222",
+    "tmdb": 55818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-10"
+}

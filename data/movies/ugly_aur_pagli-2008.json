@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ugly_aur_pagli_2008",
+  "title": "Ugly Aur Pagli",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7877792",
+    "imdb": "tt1132606",
+    "tmdb": 19671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 117
+}

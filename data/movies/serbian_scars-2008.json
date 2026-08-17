@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_serbian_scars_2008",
+  "title": "Serbian Scars",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4823087",
+    "imdb": "tt0892392",
+    "tmdb": 39359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-05"
+}

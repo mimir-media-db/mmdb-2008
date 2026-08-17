@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miras_2008",
+  "title": "Miras",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6095279",
+    "imdb": "tt6369662",
+    "tmdb": 1414661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-14"
+}

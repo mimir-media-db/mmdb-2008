@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kuntilanak_3_2008",
+  "title": "Kuntilanak 3",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12492966",
+    "imdb": "tt1190127",
+    "tmdb": 413484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 106
+}

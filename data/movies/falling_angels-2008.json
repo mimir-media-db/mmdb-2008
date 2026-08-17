@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_falling_angels_2008",
+  "title": "Falling Angels",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11889185",
+    "imdb": "tt1189003",
+    "tmdb": 173872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-05",
+  "runtime_minutes": 102
+}

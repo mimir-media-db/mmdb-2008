@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cher_monsieur_cher_papa_2008",
+  "title": "Cher Monsieur, cher papa",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88872141",
+    "imdb": "tt5793270",
+    "tmdb": 1026137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 84
+}

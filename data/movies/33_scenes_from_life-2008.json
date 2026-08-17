@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_33_scenes_from_life_2008",
+  "title": "33 Scenes from Life",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q226193",
+    "imdb": "tt1263736",
+    "tmdb": 85394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-10",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nerdcore_rising_2008",
+  "title": "Nerdcore Rising",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6995986",
+    "imdb": "tt1159722",
+    "tmdb": 19845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

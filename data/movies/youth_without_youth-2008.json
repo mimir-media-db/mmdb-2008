@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youth_without_youth_2008",
+  "title": "Youth Without Youth",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q553194",
+    "imdb": "tt0481797",
+    "tmdb": 7797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-10",
+  "runtime_minutes": 124
+}

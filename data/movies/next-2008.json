@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_next_2008",
+  "title": "Next",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q728539",
+    "imdb": "tt0435705",
+    "tmdb": 1738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-04",
+  "runtime_minutes": 96
+}

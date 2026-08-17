@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_viva_la_republica_2008",
+  "title": "¡Viva la República!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11075326",
+    "imdb": "tt1842548",
+    "tmdb": 640082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

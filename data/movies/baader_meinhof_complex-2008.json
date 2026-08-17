@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baader_meinhof_complex_2008",
+  "title": "The Baader Meinhof Complex",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q166696",
+    "imdb": "tt0765432",
+    "tmdb": 6968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-25",
+  "runtime_minutes": 150
+}

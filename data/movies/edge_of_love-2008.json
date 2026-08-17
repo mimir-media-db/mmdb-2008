@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edge_of_love_2008",
+  "title": "The Edge of Love",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q471569",
+    "imdb": "tt0819714",
+    "tmdb": 14061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-18",
+  "runtime_minutes": 111
+}

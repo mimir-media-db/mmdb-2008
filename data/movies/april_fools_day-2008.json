@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_april_fools_day_2008",
+  "title": "April Fool's Day",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1816375",
+    "imdb": "tt1018817",
+    "tmdb": 26233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-25",
+  "runtime_minutes": 91
+}

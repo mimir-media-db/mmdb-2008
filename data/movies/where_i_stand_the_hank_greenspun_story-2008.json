@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_i_stand_the_hank_greenspun_story_2008",
+  "title": "Where I Stand: The Hank Greenspun Story",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111737579",
+    "imdb": "tt1408343",
+    "tmdb": 122319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}

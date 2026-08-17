@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peacefire_2008",
+  "title": "Peacefire",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14953975",
+    "imdb": "tt1183487",
+    "tmdb": 1269749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 88
+}

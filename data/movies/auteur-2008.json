@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_auteur_2008",
+  "title": "The Auteur",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7714943",
+    "imdb": "tt0906319",
+    "tmdb": 31268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-25"
+}

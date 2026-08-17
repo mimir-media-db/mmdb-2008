@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_man_japan_2008",
+  "title": "Big Man Japan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1194035",
+    "imdb": "tt0997147",
+    "tmdb": 11693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-17",
+  "runtime_minutes": 113
+}
