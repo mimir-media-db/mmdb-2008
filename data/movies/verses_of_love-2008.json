@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_verses_of_love_2008",
+  "title": "Verses of Love",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473092",
+    "imdb": "tt1198186",
+    "tmdb": 12275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 121
+}

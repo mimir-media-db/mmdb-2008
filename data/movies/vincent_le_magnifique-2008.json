@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vincent_le_magnifique_2008",
+  "title": "Vincent, le Magnifique",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3559428",
+    "imdb": "tt1245913",
+    "tmdb": 476349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

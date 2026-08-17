@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vera_2008",
+  "title": "Vera",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2154375",
+    "imdb": "tt1278135",
+    "tmdb": 352527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
