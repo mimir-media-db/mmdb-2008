@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_outsiders_inn",
+  "title": "Outsiders Inn",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7113007",
+    "imdb": "tt1259800",
+    "tmdb": 7387
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ojciec_mateusz",
+  "title": "Ojciec Mateusz",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q963109",
+    "imdb": "tt1271995",
+    "tmdb": 36576
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 33,
+  "total_episodes": 433
+}

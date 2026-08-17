@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oh_my_girl",
+  "title": "Oh! My Girl!!",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1049666",
+    "imdb": "tt1315340",
+    "tmdb": 39425
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

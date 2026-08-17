@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_os_contemporaneos",
+  "title": "Os Contemporâneos",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2032454",
+    "imdb": "tt1225958",
+    "tmdb": 82933
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}
