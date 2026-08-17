@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yaar_meri_zindagi_2008",
+  "title": "Yaar Meri Zindagi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18395759",
+    "imdb": "tt1217608",
+    "tmdb": 499257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-22"
+}

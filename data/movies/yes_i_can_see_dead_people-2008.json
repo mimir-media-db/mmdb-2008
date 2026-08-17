@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yes_i_can_see_dead_people_2008",
+  "title": "Yes, I Can See Dead People",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11073498",
+    "imdb": "tt1392208",
+    "tmdb": 51747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 93
+}

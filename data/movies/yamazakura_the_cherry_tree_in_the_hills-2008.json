@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yamazakura_the_cherry_tree_in_the_hills_2008",
+  "title": "Yamazakura The Cherry Tree In The Hills",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124168554",
+    "imdb": "tt1240980",
+    "tmdb": 48228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-31",
+  "runtime_minutes": 99
+}

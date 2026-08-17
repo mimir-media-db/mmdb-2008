@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yours_until_death_2008",
+  "title": "Yours Until Death",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10712997",
+    "imdb": "tt1181935",
+    "tmdb": 20134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}
