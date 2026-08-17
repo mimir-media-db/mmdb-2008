@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nicolas_le_floch",
+  "title": "Nicolas Le Floch",
+  "start_year": 2008,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q3340507",
+    "imdb": "tt1304873",
+    "tmdb": 55163
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 12
+}

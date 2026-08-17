@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_next_star",
+  "title": "The Next Star",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7754003",
+    "imdb": "tt1314267",
+    "tmdb": 7969
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 96
+}

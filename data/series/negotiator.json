@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_negotiator",
+  "title": "The Negotiator",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11373958",
+    "imdb": "tt1165091",
+    "tmdb": 51633
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

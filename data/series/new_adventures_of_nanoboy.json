@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_new_adventures_of_nanoboy",
+  "title": "The New Adventures of Nanoboy",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q15812316",
+    "imdb": "tt2647802",
+    "tmdb": 51718
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

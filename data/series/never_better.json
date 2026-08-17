@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_never_better",
+  "title": "Never Better",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7003923",
+    "imdb": "tt1064922",
+    "tmdb": 14209
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
