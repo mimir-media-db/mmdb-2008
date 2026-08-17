@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_domani_torno_a_casa_2008",
+  "title": "Domani torno a casa",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3712819",
+    "imdb": "tt1287331",
+    "tmdb": 59150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_bones_2008",
+  "title": "Dead Bones",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3020521",
+    "imdb": "tt1262886",
+    "tmdb": 776597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

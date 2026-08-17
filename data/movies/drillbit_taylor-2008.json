@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drillbit_taylor_2008",
+  "title": "Drillbit Taylor",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q604980",
+    "imdb": "tt0817538",
+    "tmdb": 8457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dans_la_vie_2008",
+  "title": "Dans la vie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3015460",
+    "imdb": "tt1097224",
+    "tmdb": 13709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 73
+}

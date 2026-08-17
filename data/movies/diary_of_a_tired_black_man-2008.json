@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_tired_black_man_2008",
+  "title": "Diary of a Tired Black Man",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5272035",
+    "imdb": "tt1291183",
+    "tmdb": 16185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

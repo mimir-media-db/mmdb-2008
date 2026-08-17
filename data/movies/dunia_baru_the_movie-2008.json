@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dunia_baru_the_movie_2008",
+  "title": "Dunia Baru The Movie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5315286",
+    "imdb": "tt6450066",
+    "tmdb": 306728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

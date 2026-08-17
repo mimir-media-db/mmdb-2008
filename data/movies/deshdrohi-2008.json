@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deshdrohi_2008",
+  "title": "Deshdrohi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5264162",
+    "imdb": "tt1158700",
+    "tmdb": 309698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

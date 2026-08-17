@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_on_demand_2008",
+  "title": "Death on Demand",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5247607",
+    "imdb": "tt0902274",
+    "tmdb": 18779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

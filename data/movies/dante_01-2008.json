@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dante_01_2008",
+  "title": "Dante 01",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q288939",
+    "imdb": "tt0487928",
+    "tmdb": 15125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 82
+}

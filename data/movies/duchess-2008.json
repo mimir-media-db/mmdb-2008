@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duchess_2008",
+  "title": "The Duchess",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q466514",
+    "imdb": "tt0864761",
+    "tmdb": 12783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dragonlance_dragons_of_autumn_twilight_2008",
+  "title": "Dragonlance: Dragons of Autumn Twilight",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2914769",
+    "imdb": "tt0825245",
+    "tmdb": 17031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 91
+}

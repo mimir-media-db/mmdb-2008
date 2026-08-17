@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_race_2008",
+  "title": "Death Race",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1033191",
+    "imdb": "tt0452608",
+    "tmdb": 10483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 105
+}

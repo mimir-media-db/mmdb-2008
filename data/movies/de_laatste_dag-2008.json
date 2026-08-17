@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_laatste_dag_2008",
+  "title": "De laatste dag",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2184507",
+    "imdb": "tt3379902",
+    "tmdb": 319642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 10
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_d_tour_a_tenacious_documentary_2008",
+  "title": "D Tour: A Tenacious Documentary",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5207104",
+    "imdb": "tt1185237",
+    "tmdb": 127655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

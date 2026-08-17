@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_down_to_the_dirt_2008",
+  "title": "Down to the Dirt",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5303049",
+    "imdb": "tt1069226",
+    "tmdb": 46547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dying_god_2008",
+  "title": "Dying God",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q471993",
+    "imdb": "tt1056467",
+    "tmdb": 26240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

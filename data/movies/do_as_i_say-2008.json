@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_do_as_i_say_2008",
+  "title": "Do As I Say",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5285950",
+    "imdb": "tt1564037",
+    "tmdb": 533649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

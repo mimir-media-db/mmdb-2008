@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_space_downfall_2008",
+  "title": "Dead Space: Downfall",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1120093",
+    "imdb": "tt1267379",
+    "tmdb": 13190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 74
+}

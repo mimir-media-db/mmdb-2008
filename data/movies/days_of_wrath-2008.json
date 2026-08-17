@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_days_of_wrath_2008",
+  "title": "Days of Wrath",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5243408",
+    "imdb": "tt1017430",
+    "tmdb": 125999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

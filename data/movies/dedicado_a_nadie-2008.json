@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dedicado_a_nadie_2008",
+  "title": "Dedicado a nadie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5801211",
+    "imdb": "tt1332055",
+    "tmdb": 636559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 19
+}

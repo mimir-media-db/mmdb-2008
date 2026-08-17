@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_mind_2008",
+  "title": "Dirty Mind",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2288148",
+    "imdb": "tt1081964",
+    "tmdb": 22454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

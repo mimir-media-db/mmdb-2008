@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dei_yuk_dai_sup_gau_tsang_2008",
+  "title": "Dei yuk dai sup gau tsang",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1003135",
+    "imdb": "tt1039892",
+    "tmdb": 60866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}
