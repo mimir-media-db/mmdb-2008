@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_queens_of_langkasuka_2008",
+  "title": "Queens of Langkasuka",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3122116",
+    "imdb": "tt1262945",
+    "tmdb": 52651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-12"
+}
