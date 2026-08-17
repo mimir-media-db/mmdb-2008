@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_xfiles_i_want_to_believe_2008",
+  "title": "The X-Files: I Want to Believe",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q421875",
+    "imdb": "tt0443701",
+    "tmdb": 8836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-24",
+  "runtime_minutes": 104
+}
