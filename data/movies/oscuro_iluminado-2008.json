@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oscuro_iluminado_2008",
+  "title": "Oscuro iluminado",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6054046",
+    "imdb": "tt1305134",
+    "tmdb": 343221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 77
+}
