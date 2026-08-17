@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_the_provinces_2008",
+  "title": "Once Upon a Time in the Provinces",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4331660",
+    "imdb": "tt1353180",
+    "tmdb": 303882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-25",
+  "runtime_minutes": 106
+}

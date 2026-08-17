@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_om_shanti_om_2008",
+  "title": "Om Shanti Om",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q330468",
+    "imdb": "tt1024943",
+    "tmdb": 8079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-15",
+  "runtime_minutes": 169
+}

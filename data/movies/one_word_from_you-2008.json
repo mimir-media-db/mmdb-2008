@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_word_from_you_2008",
+  "title": "One Word from You",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548540",
+    "imdb": "tt1100112",
+    "tmdb": 28259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-22",
+  "runtime_minutes": 98
+}

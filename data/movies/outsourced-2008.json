@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outsourced_2008",
+  "title": "Outsourced",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2006346",
+    "imdb": "tt0425326",
+    "tmdb": 7861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-10",
+  "runtime_minutes": 103
+}

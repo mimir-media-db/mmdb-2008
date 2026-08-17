@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_million_yen_girl_2008",
+  "title": "One Million Yen Girl",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11580665",
+    "imdb": "tt1077094",
+    "tmdb": 69454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 121
+}

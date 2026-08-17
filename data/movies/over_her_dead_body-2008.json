@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_over_her_dead_body_2008",
+  "title": "Over Her Dead Body",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q743129",
+    "imdb": "tt0785007",
+    "tmdb": 13160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-01",
+  "runtime_minutes": 95
+}

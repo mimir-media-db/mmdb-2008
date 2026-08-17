@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oneeyed_monster_2008",
+  "title": "One-Eyed Monster",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2104446",
+    "imdb": "tt0988043",
+    "tmdb": 24133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-11",
+  "runtime_minutes": 84
+}

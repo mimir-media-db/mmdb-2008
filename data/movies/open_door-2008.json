@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_open_door_2008",
+  "title": "The Open Door",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7755173",
+    "imdb": "tt1308660",
+    "tmdb": 52631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

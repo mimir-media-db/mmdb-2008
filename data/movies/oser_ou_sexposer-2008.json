@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_oser_ou_sexposer_2008",
+  "title": "Oser ou s'exposer",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132396686"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 13
+}

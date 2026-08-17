@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_my_god_2008",
+  "title": "Oh My God",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12501223",
+    "imdb": "tt1293609",
+    "tmdb": 642865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-01"
+}

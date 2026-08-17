@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_open_city_2008",
+  "title": "Open City",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1663086",
+    "imdb": "tt1232106",
+    "tmdb": 24037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-10",
+  "runtime_minutes": 112
+}

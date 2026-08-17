@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_older_than_america_2008",
+  "title": "Older than America",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7085561",
+    "imdb": "tt0932669",
+    "tmdb": 49429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}
