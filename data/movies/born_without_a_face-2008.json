@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_born_without_a_face_2008",
+  "title": "Born Without a Face",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2888518"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 119
+}

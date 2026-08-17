@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fear_factor_khatron_ke_khiladi",
+  "title": "Fear Factor: Khatron Ke Khiladi",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5439321",
+    "imdb": "tt6742294",
+    "tmdb": 85518
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 209
+}

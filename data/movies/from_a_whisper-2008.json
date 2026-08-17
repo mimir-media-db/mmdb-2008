@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_a_whisper_2008",
+  "title": "From a Whisper",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5505581",
+    "imdb": "tt1517185",
+    "tmdb": 351480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 79
+}

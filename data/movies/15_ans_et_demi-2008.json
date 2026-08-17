@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_15_ans_et_demi_2008",
+  "title": "15 ans et demi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2808299",
+    "imdb": "tt1075111",
+    "tmdb": 10289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

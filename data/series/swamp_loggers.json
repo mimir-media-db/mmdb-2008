@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_swamp_loggers",
+  "title": "Swamp Loggers",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7653335",
+    "imdb": "tt1466797",
+    "tmdb": 23076
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 35
+}

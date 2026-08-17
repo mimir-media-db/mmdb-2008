@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_seconds_2008",
+  "title": "10 Seconds",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q169103",
+    "imdb": "tt1284971",
+    "tmdb": 8891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}

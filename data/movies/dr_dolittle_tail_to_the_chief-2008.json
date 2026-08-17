@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_dolittle_tail_to_the_chief_2008",
+  "title": "Dr. Dolittle: Tail to the Chief",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2735673",
+    "imdb": "tt1024724",
+    "tmdb": 27996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 83
+}

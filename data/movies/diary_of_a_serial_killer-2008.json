@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_serial_killer_2008",
+  "title": "Diary of a Serial Killer",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5487819",
+    "imdb": "tt1252631",
+    "tmdb": 46117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_familiar_strangers_2008",
+  "title": "Familiar Strangers",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5432961",
+    "imdb": "tt0914845",
+    "tmdb": 28917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_of_the_losers_2008",
+  "title": "Blood of the Losers",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3148543",
+    "imdb": "tt1270685",
+    "tmdb": 80317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

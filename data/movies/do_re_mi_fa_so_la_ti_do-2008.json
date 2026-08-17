@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_do_re_mi_fa_so_la_ti_do_2008",
+  "title": "Do Re Mi Fa So La Ti Do",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492118",
+    "imdb": "tt1669582",
+    "tmdb": 115963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 105
+}

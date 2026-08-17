@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miao_miao_2008",
+  "title": "Miao Miao",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4310297",
+    "imdb": "tt0984130",
+    "tmdb": 35452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 83
+}

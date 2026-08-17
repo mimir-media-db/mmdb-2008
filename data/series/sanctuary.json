@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sanctuary",
+  "title": "Sanctuary",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q844099",
+    "imdb": "tt0965394",
+    "tmdb": 1310
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 59
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_angel_2008",
+  "title": "Broken Angel",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4973309",
+    "imdb": "tt1002964",
+    "tmdb": 239511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

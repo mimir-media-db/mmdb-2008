@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stephen_fry_in_america",
+  "title": "Stephen Fry in America",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7609254",
+    "imdb": "tt1307789",
+    "tmdb": 7937
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_expelled_no_intelligence_allowed_2008",
+  "title": "Expelled: No Intelligence Allowed",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3234081",
+    "imdb": "tt1091617",
+    "tmdb": 13359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

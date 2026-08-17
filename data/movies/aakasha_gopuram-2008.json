@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aakasha_gopuram_2008",
+  "title": "Aakasha Gopuram",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4661324",
+    "imdb": "tt0867235",
+    "tmdb": 405995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

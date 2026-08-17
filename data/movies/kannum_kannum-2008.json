@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kannum_kannum_2008",
+  "title": "Kannum Kannum",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6364128",
+    "imdb": "tt0954333",
+    "tmdb": 69608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

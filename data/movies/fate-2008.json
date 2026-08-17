@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fate_2008",
+  "title": "Fate",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5437364",
+    "imdb": "tt1092034",
+    "tmdb": 52418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 123
+}

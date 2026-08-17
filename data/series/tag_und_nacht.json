@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tag_und_nacht",
+  "title": "Tag und Nacht",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2387739",
+    "imdb": "tt1310629",
+    "tmdb": 70461
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

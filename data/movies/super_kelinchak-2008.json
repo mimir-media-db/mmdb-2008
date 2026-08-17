@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_kelinchak_2008",
+  "title": "Super Kelinchak",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4446296",
+    "imdb": "tt2106659",
+    "tmdb": 73058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 103
+}

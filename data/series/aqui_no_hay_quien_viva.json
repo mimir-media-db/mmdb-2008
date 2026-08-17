@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aqui_no_hay_quien_viva",
+  "title": "Aquí no hay quien viva",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5702098",
+    "imdb": "tt1176749",
+    "tmdb": 156287
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 39
+}

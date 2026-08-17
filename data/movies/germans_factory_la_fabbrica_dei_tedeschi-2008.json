@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_germans_factory_la_fabbrica_dei_tedeschi_2008",
+  "title": "Germans' Factory (La Fabbrica Dei Tedeschi)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3822215",
+    "imdb": "tt1275616",
+    "tmdb": 83075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

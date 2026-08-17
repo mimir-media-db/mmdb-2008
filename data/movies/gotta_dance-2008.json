@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gotta_dance_2008",
+  "title": "Gotta Dance",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5587966",
+    "imdb": "tt1202566",
+    "tmdb": 205347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

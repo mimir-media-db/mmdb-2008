@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_matanglawin",
+  "title": "Matanglawin",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16950878",
+    "imdb": "tt4209262",
+    "tmdb": 18348
+  },
+  "last_updated": "2026-08-17"
+}

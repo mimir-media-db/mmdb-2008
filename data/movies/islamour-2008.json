@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_islamour_2008",
+  "title": "Islamour",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3155380",
+    "imdb": "tt2290419",
+    "tmdb": 1122115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

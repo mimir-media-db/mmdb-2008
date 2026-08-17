@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1_mai_helden_bei_der_arbeit_2008",
+  "title": "1. Mai – Helden bei der Arbeit",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q163160",
+    "imdb": "tt1020932",
+    "tmdb": 8209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_313_2008",
+  "title": "313",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4634702",
+    "imdb": "tt1337437",
+    "tmdb": 683896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_binbo_danshi",
+  "title": "Binbō danshi",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q702547",
+    "imdb": "tt1167615",
+    "tmdb": 46060
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

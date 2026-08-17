@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fans",
+  "title": "Fans",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1995262",
+    "imdb": "tt1322599",
+    "tmdb": 81774
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

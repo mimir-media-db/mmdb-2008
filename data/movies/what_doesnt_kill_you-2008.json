@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_doesnt_kill_you_2008",
+  "title": "What Doesn't Kill You",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q598262",
+    "imdb": "tt1133991",
+    "tmdb": 15801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

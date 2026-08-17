@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_balitang_amianan",
+  "title": "Balitang Amianan",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12961954",
+    "tmdb": 7288
+  },
+  "last_updated": "2026-08-17"
+}

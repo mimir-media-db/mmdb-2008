@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muto_2008",
+  "title": "Muto",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1976869",
+    "imdb": "tt1849012",
+    "tmdb": 132248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 8
+}

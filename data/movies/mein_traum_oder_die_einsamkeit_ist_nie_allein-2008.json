@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mein_traum_oder_die_einsamkeit_ist_nie_allein_2008",
+  "title": "Mein Traum oder Die Einsamkeit ist nie allein",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1917956",
+    "imdb": "tt1183148",
+    "tmdb": 169340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 104
+}

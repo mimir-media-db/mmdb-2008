@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_football_under_cover_2008",
+  "title": "Football Under Cover",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q835549",
+    "imdb": "tt1160008",
+    "tmdb": 8201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

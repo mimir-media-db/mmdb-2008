@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bachna_ae_haseeno_2008",
+  "title": "Bachna Ae Haseeno",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q685694",
+    "imdb": "tt1182972",
+    "tmdb": 15864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 152
+}

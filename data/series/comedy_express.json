@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_express",
+  "title": "Comedy Express",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5151451"
+  },
+  "last_updated": "2026-08-17"
+}

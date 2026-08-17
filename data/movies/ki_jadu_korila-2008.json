@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ki_jadu_korila_2008",
+  "title": "Ki Jadu Korila",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6403609",
+    "imdb": "tt2048784",
+    "tmdb": 301165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

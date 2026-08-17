@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_istaanbul_2008",
+  "title": "Mission Istaanbul",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4116463",
+    "imdb": "tt1179781",
+    "tmdb": 20976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 130
+}

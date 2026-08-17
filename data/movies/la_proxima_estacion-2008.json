@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_proxima_estacion_2008",
+  "title": "La próxima estación",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5967925",
+    "imdb": "tt1284509",
+    "tmdb": 132227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 115
+}

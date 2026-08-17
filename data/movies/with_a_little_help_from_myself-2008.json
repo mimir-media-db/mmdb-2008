@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_a_little_help_from_myself_2008",
+  "title": "With a Little Help from Myself",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2827787",
+    "imdb": "tt1087829",
+    "tmdb": 12174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 92
+}

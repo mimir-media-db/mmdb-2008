@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mortadelo_and_filemon_mission_save_the_planet_2008",
+  "title": "Mortadelo and Filemon. Mission: Save the Planet",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2704964",
+    "imdb": "tt0970469",
+    "tmdb": 80446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

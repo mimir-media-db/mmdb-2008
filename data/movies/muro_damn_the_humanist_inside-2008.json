@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muro_damn_the_humanist_inside_2008",
+  "title": "Muro: Damn the Humanist Inside",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1528299",
+    "imdb": "tt1286163",
+    "tmdb": 52138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dolce_vita_africana_2008",
+  "title": "Dolce Vita Africana",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3033870",
+    "imdb": "tt1172050",
+    "tmdb": 271260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

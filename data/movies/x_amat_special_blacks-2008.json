@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_x_amat_special_blacks_2008",
+  "title": "X Amat: Special Blacks",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3570524",
+    "imdb": "tt2269600",
+    "tmdb": 979948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

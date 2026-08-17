@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_godiva_2008",
+  "title": "Lady Godiva",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6470193",
+    "imdb": "tt0843858",
+    "tmdb": 163600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

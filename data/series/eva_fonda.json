@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_eva_fonda",
+  "title": "Eva Fonda",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5415049",
+    "tmdb": 7400
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_destiny_ride_2008",
+  "title": "Destiny Ride",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3472488",
+    "imdb": "tt1064980",
+    "tmdb": 16887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

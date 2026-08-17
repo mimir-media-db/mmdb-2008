@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_easy_to_assemble",
+  "title": "Easy to Assemble",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5331187",
+    "imdb": "tt1300926",
+    "tmdb": 34441
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 48
+}

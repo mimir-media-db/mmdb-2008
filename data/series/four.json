@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_four",
+  "title": "The Four",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2754286"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

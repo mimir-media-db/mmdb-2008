@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ong_bak_2_2008",
+  "title": "Ong Bak 2",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q653564",
+    "imdb": "tt0785035",
+    "tmdb": 16353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

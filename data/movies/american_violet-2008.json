@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_violet_2008",
+  "title": "American Violet",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4745341",
+    "imdb": "tt1152397",
+    "tmdb": 21179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 103
+}

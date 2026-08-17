@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keroro_gunso_the_super_movie_3_keroro_vs_keroro_great_sky_duel_2008",
+  "title": "Keroro Gunso the Super Movie 3: Keroro vs. Keroro Great Sky Duel",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q909318",
+    "imdb": "tt1196128",
+    "tmdb": 112538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

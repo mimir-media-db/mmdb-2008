@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_private_traps",
+  "title": "Private Traps",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12055402",
+    "imdb": "tt1327679",
+    "tmdb": 50102
+  },
+  "last_updated": "2026-08-17"
+}

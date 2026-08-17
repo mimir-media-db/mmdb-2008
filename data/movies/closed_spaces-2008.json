@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_closed_spaces_2008",
+  "title": "Closed Spaces",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4185037",
+    "imdb": "tt1279976",
+    "tmdb": 73294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

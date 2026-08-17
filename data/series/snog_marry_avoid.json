@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_snog_marry_avoid",
+  "title": "Snog Marry Avoid?",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2588825",
+    "imdb": "tt1270230",
+    "tmdb": 17263
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 64
+}

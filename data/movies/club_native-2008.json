@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_club_native_2008",
+  "title": "Club Native",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5136326",
+    "imdb": "tt5161370",
+    "tmdb": 459678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

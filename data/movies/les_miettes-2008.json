@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_miettes_2008",
+  "title": "Les Miettes",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3233844",
+    "imdb": "tt1414837",
+    "tmdb": 1121614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

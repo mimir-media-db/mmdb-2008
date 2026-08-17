@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_merlin_and_the_war_of_the_dragons_2008",
+  "title": "Merlin and the War of the Dragons",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2323927",
+    "imdb": "tt1294699",
+    "tmdb": 16923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

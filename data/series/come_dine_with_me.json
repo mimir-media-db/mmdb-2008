@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_come_dine_with_me",
+  "title": "Come Dine with Me",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q819428",
+    "imdb": "tt0820392",
+    "tmdb": 2637
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 1364
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lights_and_shadows_2008",
+  "title": "Lights and Shadows",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3238484",
+    "imdb": "tt2371906",
+    "tmdb": 946394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

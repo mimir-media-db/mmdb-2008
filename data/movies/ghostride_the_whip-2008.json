@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghostride_the_whip_2008",
+  "title": "Ghostride the Whip",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5557370",
+    "imdb": "tt1213582",
+    "tmdb": 31851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

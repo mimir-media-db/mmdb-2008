@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casino_no_limit_2008",
+  "title": "Casino - No Limit",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1047623",
+    "imdb": "tt1242731",
+    "tmdb": 291985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 150
+}

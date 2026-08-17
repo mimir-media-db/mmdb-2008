@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_affaire_de_famille_2008",
+  "title": "Affaire de famille",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2825921",
+    "imdb": "tt1068676",
+    "tmdb": 15619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 80
+}

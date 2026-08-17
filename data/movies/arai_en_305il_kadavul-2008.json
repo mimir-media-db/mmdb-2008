@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arai_en_305il_kadavul_2008",
+  "title": "Arai En 305-il Kadavul",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4783758",
+    "imdb": "tt1858396",
+    "tmdb": 79662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

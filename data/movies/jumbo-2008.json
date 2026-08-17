@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jumbo_2008",
+  "title": "Jumbo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6310862",
+    "imdb": "tt30397483",
+    "tmdb": 33147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

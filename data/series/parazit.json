@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_parazit",
+  "title": "Parazit",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6628704",
+    "imdb": "tt4682662"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

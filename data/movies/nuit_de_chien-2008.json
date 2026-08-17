@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nuit_de_chien_2008",
+  "title": "Nuit de chien",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3346137",
+    "imdb": "tt1206485",
+    "tmdb": 12422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 117
+}

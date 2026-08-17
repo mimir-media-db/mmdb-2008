@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_detroit_metal_city_2008",
+  "title": "Detroit Metal City",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1152489",
+    "imdb": "tt1142972",
+    "tmdb": 22025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

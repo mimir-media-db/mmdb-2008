@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cats_101",
+  "title": "Cats 101",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5053986",
+    "imdb": "tt1538039",
+    "tmdb": 27003
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gautama_buddha_2008",
+  "title": "Gautama Buddha",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5527896",
+    "imdb": "tt7898970",
+    "tmdb": 673639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

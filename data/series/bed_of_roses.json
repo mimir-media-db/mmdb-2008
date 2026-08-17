@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bed_of_roses",
+  "title": "Bed of Roses",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4878965",
+    "imdb": "tt1218572",
+    "tmdb": 15071
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

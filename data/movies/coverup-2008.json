@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coverup_2008",
+  "title": "The Coverup",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1169493",
+    "imdb": "tt1153543",
+    "tmdb": 68161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

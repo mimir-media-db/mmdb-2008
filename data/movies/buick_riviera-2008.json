@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buick_riviera_2008",
+  "title": "Buick Riviera",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4986359",
+    "imdb": "tt0995712",
+    "tmdb": 177446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

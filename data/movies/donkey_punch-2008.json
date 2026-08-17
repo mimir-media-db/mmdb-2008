@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_donkey_punch_2008",
+  "title": "Donkey Punch",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2585401",
+    "imdb": "tt0988849",
+    "tmdb": 13429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_working_mom",
+  "title": "Working Mom",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6853620",
+    "imdb": "tt6452074",
+    "tmdb": 129541
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

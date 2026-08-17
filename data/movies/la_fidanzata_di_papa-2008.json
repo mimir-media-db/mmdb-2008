@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fidanzata_di_papa_2008",
+  "title": "La fidanzata di papà",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3822338",
+    "imdb": "tt1234543",
+    "tmdb": 52213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

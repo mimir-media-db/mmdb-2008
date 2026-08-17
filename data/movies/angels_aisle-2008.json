@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angels_aisle_2008",
+  "title": "Angel's Aisle",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4378124",
+    "imdb": "tt1890349",
+    "tmdb": 339926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_arent_you_a_criminal",
+  "title": "Aren't You a Criminal?",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5365435",
+    "tmdb": 84643
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

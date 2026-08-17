@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chelsea_on_the_rocks_2008",
+  "title": "Chelsea on the Rocks",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5090156",
+    "imdb": "tt1134665",
+    "tmdb": 120529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}

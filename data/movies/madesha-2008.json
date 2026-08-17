@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madesha_2008",
+  "title": "Madesha",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6727166",
+    "imdb": "tt14253264",
+    "tmdb": 282627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

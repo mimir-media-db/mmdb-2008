@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_every_little_step_2008",
+  "title": "Every Little Step",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5417525",
+    "imdb": "tt0977648",
+    "tmdb": 23997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

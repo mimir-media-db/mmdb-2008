@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_spise_med_price",
+  "title": "Spise med Price",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12336682",
+    "imdb": "tt1526695",
+    "tmdb": 46814
+  },
+  "last_updated": "2026-08-17"
+}

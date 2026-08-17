@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_on_the_highway_2008",
+  "title": "Blood on the Highway",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4927870",
+    "imdb": "tt1094294",
+    "tmdb": 33156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

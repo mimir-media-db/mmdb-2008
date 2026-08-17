@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_girl",
+  "title": "My Girl",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6945572",
+    "imdb": "tt1235861",
+    "tmdb": 7138
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 75
+}

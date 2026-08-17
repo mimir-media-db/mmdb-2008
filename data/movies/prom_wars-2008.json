@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prom_wars_2008",
+  "title": "Prom Wars",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6087794",
+    "imdb": "tt0904128",
+    "tmdb": 32899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

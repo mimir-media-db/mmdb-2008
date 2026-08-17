@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sentimental_capitalism_2008",
+  "title": "A Sentimental Capitalism",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548414",
+    "imdb": "tt1334076",
+    "tmdb": 127673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 93
+}

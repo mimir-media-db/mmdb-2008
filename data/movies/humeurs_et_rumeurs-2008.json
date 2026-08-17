@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_humeurs_et_rumeurs_2008",
+  "title": "Humeurs et rumeurs",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3143246",
+    "imdb": "tt1828203",
+    "tmdb": 874370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

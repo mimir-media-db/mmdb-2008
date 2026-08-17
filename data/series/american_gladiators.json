@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_gladiators",
+  "title": "American Gladiators",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2843078",
+    "imdb": "tt1092447",
+    "tmdb": 14432
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

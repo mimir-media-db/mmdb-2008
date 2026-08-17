@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_player_5150_2008",
+  "title": "Player 5150",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3906522",
+    "imdb": "tt0906773",
+    "tmdb": 17029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 91
+}

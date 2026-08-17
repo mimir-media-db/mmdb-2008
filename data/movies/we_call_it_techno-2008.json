@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_call_it_techno_2008",
+  "title": "We Call It Techno!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q981252",
+    "imdb": "tt1698597",
+    "tmdb": 57712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

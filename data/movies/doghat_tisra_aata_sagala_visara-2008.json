@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doghat_tisra_aata_sagala_visara_2008",
+  "title": "Doghat Tisra Aata Sagala Visara",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5288370",
+    "imdb": "tt2346870",
+    "tmdb": 493994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

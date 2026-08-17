@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_so_you_think_you_can_dance_canada",
+  "title": "So You Think You Can Dance Canada",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1806385",
+    "imdb": "tt1267314",
+    "tmdb": 7207
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 92
+}

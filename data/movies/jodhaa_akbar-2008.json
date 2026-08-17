@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jodhaa_akbar_2008",
+  "title": "Jodhaa Akbar",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q573112",
+    "imdb": "tt0449994",
+    "tmdb": 14073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 193
+}

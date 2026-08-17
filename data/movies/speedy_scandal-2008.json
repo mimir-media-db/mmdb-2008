@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speedy_scandal_2008",
+  "title": "Speedy Scandal",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q491105",
+    "imdb": "tt1360795",
+    "tmdb": 18384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arugba_2008",
+  "title": "Arugba",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2866018",
+    "imdb": "tt1592232",
+    "tmdb": 247982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

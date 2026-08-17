@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_of_ember_2008",
+  "title": "City of Ember",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1094125",
+    "imdb": "tt0970411",
+    "tmdb": 13600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

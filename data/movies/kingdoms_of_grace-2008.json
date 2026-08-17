@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kingdoms_of_grace_2008",
+  "title": "Kingdoms of Grace",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6412701",
+    "imdb": "tt1368103"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salt_of_this_sea_2008",
+  "title": "Salt of this Sea",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1170222",
+    "imdb": "tt1090680",
+    "tmdb": 8932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 105
+}

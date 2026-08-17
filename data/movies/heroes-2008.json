@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heroes_2008",
+  "title": "Heroes",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4137388",
+    "imdb": "tt1114725",
+    "tmdb": 20563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 139
+}

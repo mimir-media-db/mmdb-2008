@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_splinter_2008",
+  "title": "Splinter",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2320121",
+    "imdb": "tt1031280",
+    "tmdb": 13220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 82
+}

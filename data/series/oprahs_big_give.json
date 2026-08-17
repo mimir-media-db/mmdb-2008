@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oprahs_big_give",
+  "title": "Oprah's Big Give",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7098669",
+    "imdb": "tt0923045",
+    "tmdb": 5795
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

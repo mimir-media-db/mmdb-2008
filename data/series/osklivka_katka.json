@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_osklivka_katka",
+  "title": "Ošklivka Katka",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q947453",
+    "imdb": "tt1381013",
+    "tmdb": 113211
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

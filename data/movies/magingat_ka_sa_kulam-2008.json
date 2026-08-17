@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magingat_ka_sa_kulam_2008",
+  "title": "Mag-ingat Ka Sa... Kulam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6729546",
+    "imdb": "tt1071223",
+    "tmdb": 229842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

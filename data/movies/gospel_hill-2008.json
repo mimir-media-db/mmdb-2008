@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gospel_hill_2008",
+  "title": "Gospel Hill",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q905541",
+    "imdb": "tt0810880",
+    "tmdb": 20933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

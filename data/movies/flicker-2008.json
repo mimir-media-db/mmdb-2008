@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flicker_2008",
+  "title": "Flicker",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5459077",
+    "imdb": "tt1236194",
+    "tmdb": 68048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gift_to_stalin_2008",
+  "title": "The Gift to Stalin",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2658852",
+    "imdb": "tt1305027",
+    "tmdb": 226056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aamir_2008",
+  "title": "Aamir",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4661485",
+    "imdb": "tt1241195",
+    "tmdb": 13123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

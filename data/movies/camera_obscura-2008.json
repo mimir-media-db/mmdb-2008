@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camera_obscura_2008",
+  "title": "The Camera Obscura",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q604381",
+    "imdb": "tt0977645",
+    "tmdb": 17019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 88
+}

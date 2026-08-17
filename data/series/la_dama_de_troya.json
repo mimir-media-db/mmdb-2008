@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_dama_de_troya",
+  "title": "La Dama de Troya",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5395803",
+    "imdb": "tt1238366",
+    "tmdb": 195381
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 240
+}

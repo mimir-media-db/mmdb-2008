@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_argumental",
+  "title": "Argumental",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4789753",
+    "imdb": "tt1307480",
+    "tmdb": 5998
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 49
+}

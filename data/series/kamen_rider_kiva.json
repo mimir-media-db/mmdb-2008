@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_rider_kiva",
+  "title": "Kamen Rider Kiva",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1150946",
+    "imdb": "tt1526067",
+    "tmdb": 261680
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 48
+}

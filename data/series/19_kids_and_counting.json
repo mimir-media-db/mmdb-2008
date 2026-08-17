@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_19_kids_and_counting",
+  "title": "19 Kids and Counting",
+  "start_year": 2008,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q3065120",
+    "imdb": "tt1307083",
+    "tmdb": 5985
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 244
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_town_2008",
+  "title": "Ghost Town",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1547395",
+    "imdb": "tt0995039",
+    "tmdb": 12797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

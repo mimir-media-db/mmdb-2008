@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_sell_the_dead_2008",
+  "title": "I Sell the Dead",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3790448",
+    "imdb": "tt0902290",
+    "tmdb": 21910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

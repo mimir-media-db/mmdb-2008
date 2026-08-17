@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bizarre_er",
+  "title": "Bizarre ER",
+  "start_year": 2008,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q4919365",
+    "imdb": "tt1223157",
+    "tmdb": 18331
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 40
+}

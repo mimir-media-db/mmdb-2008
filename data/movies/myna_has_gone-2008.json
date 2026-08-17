@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_myna_has_gone_2008",
+  "title": "Myna Has Gone",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3072025",
+    "imdb": "tt1596775",
+    "tmdb": 590321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_uk_border_force",
+  "title": "UK Border Force",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7864821",
+    "imdb": "tt1409683",
+    "tmdb": 44858
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

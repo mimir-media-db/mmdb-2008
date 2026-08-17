@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bigger_stronger_faster_2008",
+  "title": "Bigger, Stronger, Faster*",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3527668",
+    "imdb": "tt1151309",
+    "tmdb": 13636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

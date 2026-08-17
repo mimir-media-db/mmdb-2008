@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_der_kaiser_von_schexing",
+  "title": "Der Kaiser von Schexing",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1194682",
+    "imdb": "tt1174845",
+    "tmdb": 40854
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pages_of_treasures",
+  "title": "Pages of Treasures",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1003871",
+    "tmdb": 8372
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

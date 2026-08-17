@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_che_part_2_guerrilla_2008",
+  "title": "Che Part 2: Guerrilla",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1068674",
+    "imdb": "tt0374569",
+    "tmdb": 8880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 135
+}

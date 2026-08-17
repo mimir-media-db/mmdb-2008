@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eli_ben_2008",
+  "title": "Eli & Ben",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7038386",
+    "imdb": "tt1320376",
+    "tmdb": 78342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

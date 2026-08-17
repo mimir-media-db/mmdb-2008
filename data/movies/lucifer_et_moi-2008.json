@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lucifer_et_moi_2008",
+  "title": "Lucifer et moi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3265797",
+    "imdb": "tt0477768",
+    "tmdb": 575779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

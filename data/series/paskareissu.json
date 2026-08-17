@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_paskareissu",
+  "title": "Paskareissu",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q11886837",
+    "imdb": "tt1213003",
+    "tmdb": 100241
+  },
+  "last_updated": "2026-08-17"
+}

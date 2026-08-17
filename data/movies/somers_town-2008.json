@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_somers_town_2008",
+  "title": "Somers Town",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2424215",
+    "imdb": "tt1172206",
+    "tmdb": 14298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 71
+}

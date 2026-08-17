@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_date_my_ex_jo_slade",
+  "title": "Date My Ex: Jo & Slade",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5227535",
+    "imdb": "tt1229266",
+    "tmdb": 8391
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_a_star_shining_in_the_night_2008",
+  "title": "Like a Star Shining in the Night",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2986096",
+    "imdb": "tt1263781",
+    "tmdb": 108782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}

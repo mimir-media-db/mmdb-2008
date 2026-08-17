@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1_knights_in_search_of_the_ravishing_princess_herzelinde_2008",
+  "title": "1½ Knights – In Search of the Ravishing Princess Herzelinde",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q325077",
+    "imdb": "tt1187047",
+    "tmdb": 9510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nrl_on_fox",
+  "title": "NRL on FOX",
+  "start_year": 2007,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6955171",
+    "imdb": "tt1477138"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 7
+}

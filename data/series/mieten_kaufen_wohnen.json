@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mieten_kaufen_wohnen",
+  "title": "mieten, kaufen, wohnen",
+  "start_year": 2008,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q3953144",
+    "imdb": "tt1305100",
+    "tmdb": 121250
+  },
+  "last_updated": "2026-08-17"
+}

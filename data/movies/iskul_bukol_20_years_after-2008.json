@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iskul_bukol_20_years_after_2008",
+  "title": "Iskul Bukol 20 Years After",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6081410",
+    "imdb": "tt1320341",
+    "tmdb": 55832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

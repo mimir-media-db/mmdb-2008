@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_violetas_2008",
+  "title": "Violetas",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6163306",
+    "imdb": "tt1153088",
+    "tmdb": 128819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_school_musical_el_desafio_2008",
+  "title": "High School Musical: El Desafío",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q549661",
+    "imdb": "tt1283913",
+    "tmdb": 36151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

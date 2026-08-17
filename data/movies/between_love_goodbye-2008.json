@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_love_goodbye_2008",
+  "title": "Between Love & Goodbye",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4288105",
+    "imdb": "tt1137437",
+    "tmdb": 43547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

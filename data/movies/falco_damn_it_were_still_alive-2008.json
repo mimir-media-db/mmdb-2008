@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_falco_damn_it_were_still_alive_2008",
+  "title": "Falco: Damn It, We're Still Alive!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1393949",
+    "imdb": "tt0915457",
+    "tmdb": 42862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 114
+}

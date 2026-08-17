@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bande_utkala_janani_2008",
+  "title": "Bande Utkala Janani",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4854478",
+    "imdb": "tt1433272"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

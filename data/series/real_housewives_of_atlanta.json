@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real_housewives_of_atlanta",
+  "title": "The Real Housewives of Atlanta",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7759590",
+    "imdb": "tt1252370",
+    "tmdb": 17380
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 264
+}

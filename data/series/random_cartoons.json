@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_random_cartoons",
+  "title": "Random! Cartoons",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q15711109",
+    "imdb": "tt0890874",
+    "tmdb": 10870
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

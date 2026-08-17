@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_will_evil_2008",
+  "title": "Good Will Evil",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5583066",
+    "imdb": "tt1329273",
+    "tmdb": 104411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

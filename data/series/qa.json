@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_qa",
+  "title": "Q&A",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7265240",
+    "imdb": "tt2426288",
+    "tmdb": 7562
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 311
+}

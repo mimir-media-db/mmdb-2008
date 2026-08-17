@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_punishment",
+  "title": "The Punishment",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3221390",
+    "imdb": "tt1289380",
+    "tmdb": 72624
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

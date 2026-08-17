@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_action_boys_2008",
+  "title": "Action Boys",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4677083",
+    "imdb": "tt1441233",
+    "tmdb": 52411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 101
+}

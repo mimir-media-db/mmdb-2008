@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_among_the_clouds_2008",
+  "title": "Among the Clouds",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5916323",
+    "imdb": "tt1328613",
+    "tmdb": 784612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

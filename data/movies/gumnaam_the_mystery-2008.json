@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gumnaam_the_mystery_2008",
+  "title": "Gumnaam – The Mystery",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5618215",
+    "imdb": "tt1372694",
+    "tmdb": 443950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

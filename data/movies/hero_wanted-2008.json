@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hero_wanted_2008",
+  "title": "Hero Wanted",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q785285",
+    "imdb": "tt0977214",
+    "tmdb": 16450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 91
+}

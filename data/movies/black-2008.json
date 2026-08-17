@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_2008",
+  "title": "Black",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2905296",
+    "imdb": "tt0990359",
+    "tmdb": 61887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

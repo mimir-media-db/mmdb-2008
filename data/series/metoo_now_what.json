@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_metoo_now_what",
+  "title": "MeToo, Now What?",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115958211",
+    "imdb": "tt8195496",
+    "tmdb": 76771
+  },
+  "last_updated": "2026-08-17"
+}

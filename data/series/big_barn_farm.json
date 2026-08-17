@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_barn_farm",
+  "title": "Big Barn Farm",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4905033",
+    "imdb": "tt4616994",
+    "tmdb": 17282
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

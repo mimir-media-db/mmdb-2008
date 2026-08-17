@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_alive_2008",
+  "title": "It's Alive",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3283036",
+    "imdb": "tt1172060",
+    "tmdb": 23174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 80
+}

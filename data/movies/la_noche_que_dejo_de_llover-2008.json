@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_noche_que_dejo_de_llover_2008",
+  "title": "La Noche que dejó de llover",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5967568",
+    "imdb": "tt0968764",
+    "tmdb": 588401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

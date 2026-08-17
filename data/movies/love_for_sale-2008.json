@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_for_sale_2008",
+  "title": "Love for Sale",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6691776",
+    "imdb": "tt1172996",
+    "tmdb": 37715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

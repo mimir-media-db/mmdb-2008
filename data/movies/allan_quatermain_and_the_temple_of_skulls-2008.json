@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_allan_quatermain_and_the_temple_of_skulls_2008",
+  "title": "Allan Quatermain and the Temple of Skulls",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2467397",
+    "imdb": "tt1219671",
+    "tmdb": 14103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}

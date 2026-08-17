@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dying_breed_2008",
+  "title": "Dying Breed",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115394",
+    "imdb": "tt1064744",
+    "tmdb": 18029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 92
+}

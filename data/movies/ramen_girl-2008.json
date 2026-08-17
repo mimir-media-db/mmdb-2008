@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ramen_girl_2008",
+  "title": "The Ramen Girl",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2659907",
+    "imdb": "tt0806165",
+    "tmdb": 18585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 122
+}

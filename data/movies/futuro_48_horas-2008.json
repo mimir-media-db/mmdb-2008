@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_futuro_48_horas_2008",
+  "title": "Futuro: 48 horas",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5548805",
+    "imdb": "tt1139654"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

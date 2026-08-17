@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maradona_by_kusturica_2008",
+  "title": "Maradona by Kusturica",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q732436",
+    "imdb": "tt0454976",
+    "tmdb": 8908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maktoub",
+  "title": "Maktoub",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3281019",
+    "imdb": "tt9337636",
+    "tmdb": 201027
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 98
+}

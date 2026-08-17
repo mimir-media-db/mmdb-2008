@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_montana_2008",
+  "title": "Montana",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4301973",
+    "imdb": "tt1108855",
+    "tmdb": 77512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_street_racer_2008",
+  "title": "Street Racer",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2881092",
+    "imdb": "tt1200852",
+    "tmdb": 59035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

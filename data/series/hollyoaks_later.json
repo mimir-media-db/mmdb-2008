@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hollyoaks_later",
+  "title": "Hollyoaks Later",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5882430",
+    "imdb": "tt1242499",
+    "tmdb": 7388
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 30
+}

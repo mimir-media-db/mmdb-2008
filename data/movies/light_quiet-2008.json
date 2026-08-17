@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_quiet_2008",
+  "title": "Light & Quiet",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6545961",
+    "imdb": "tt1403191"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 68
+}

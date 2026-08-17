@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_comeback",
+  "title": "Comeback",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5151385",
+    "imdb": "tt1321261",
+    "tmdb": 19384
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 51
+}

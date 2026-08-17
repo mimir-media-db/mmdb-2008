@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_castle_in_spain_2008",
+  "title": "A Castle in Spain",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548451",
+    "imdb": "tt0864921",
+    "tmdb": 58687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 92
+}

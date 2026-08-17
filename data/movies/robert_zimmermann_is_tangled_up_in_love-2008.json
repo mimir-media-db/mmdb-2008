@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robert_zimmermann_is_tangled_up_in_love_2008",
+  "title": "Robert Zimmermann Is Tangled Up in Love",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1553724",
+    "imdb": "tt1242452",
+    "tmdb": 51916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

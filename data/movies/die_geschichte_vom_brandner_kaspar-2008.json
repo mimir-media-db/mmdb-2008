@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_geschichte_vom_brandner_kaspar_2008",
+  "title": "Die Geschichte vom Brandner Kaspar",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1212947",
+    "imdb": "tt1148770",
+    "tmdb": 17008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 105
+}

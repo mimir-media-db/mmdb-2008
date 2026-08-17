@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chak_de_phatte_2008",
+  "title": "Chak De Phatte",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5068202",
+    "imdb": "tt1371619",
+    "tmdb": 295245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

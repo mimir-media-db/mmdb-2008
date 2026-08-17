@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_storm_rider_clash_of_the_evils_2008",
+  "title": "Storm Rider Clash of the Evils",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1058763",
+    "imdb": "tt2047732",
+    "tmdb": 22809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}

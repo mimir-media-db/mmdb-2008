@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_does_grow_on_trees_2008",
+  "title": "Love Does Grow on Trees",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6690519",
+    "imdb": "tt1252495",
+    "tmdb": 114334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_is_dead_a_classic_album_under_review_2008",
+  "title": "The Queen Is Dead: A Classic Album Under Review",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3490317",
+    "imdb": "tt1226830",
+    "tmdb": 463659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 115
+}

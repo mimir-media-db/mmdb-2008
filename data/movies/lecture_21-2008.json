@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lecture_21_2008",
+  "title": "Lecture 21",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3427164",
+    "imdb": "tt0929441",
+    "tmdb": 69471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 92
+}

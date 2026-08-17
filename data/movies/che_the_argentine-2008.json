@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_che_the_argentine_2008",
+  "title": "Che: The Argentine",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q860425",
+    "imdb": "tt0892255",
+    "tmdb": 8881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 134
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_living_lohan",
+  "title": "Living Lohan",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q8214770",
+    "imdb": "tt1197582",
+    "tmdb": 15667
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

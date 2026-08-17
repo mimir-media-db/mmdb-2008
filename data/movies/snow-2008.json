@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_2008",
+  "title": "Snow",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4425392",
+    "imdb": "tt1146295",
+    "tmdb": 126732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

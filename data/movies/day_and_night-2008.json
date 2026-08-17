@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_and_night_2008",
+  "title": "Day And Night",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5704069",
+    "imdb": "tt2967000",
+    "tmdb": 816893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_scout_2008",
+  "title": "Girl Scout",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5564414",
+    "imdb": "tt1343038",
+    "tmdb": 52423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

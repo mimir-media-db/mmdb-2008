@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_film_with_me_in_it_2008",
+  "title": "A Film with Me in It",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q300405",
+    "imdb": "tt1139319",
+    "tmdb": 33035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 84
+}

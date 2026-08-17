@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_true_jackson_vp",
+  "title": "True Jackson, VP",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q943903",
+    "imdb": "tt1131751",
+    "tmdb": 7714
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 60
+}

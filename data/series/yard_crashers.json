@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yard_crashers",
+  "title": "Yard Crashers",
+  "start_year": 2008,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18395930",
+    "imdb": "tt1261389",
+    "tmdb": 37135
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 173
+}

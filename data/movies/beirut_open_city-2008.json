@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beirut_open_city_2008",
+  "title": "Beirut Open City",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4881388",
+    "imdb": "tt1510728",
+    "tmdb": 228207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

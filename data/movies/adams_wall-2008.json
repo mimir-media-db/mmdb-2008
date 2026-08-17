@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adams_wall_2008",
+  "title": "Adam's Wall",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2823910",
+    "imdb": "tt1031212",
+    "tmdb": 41707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

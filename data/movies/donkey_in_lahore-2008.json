@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_donkey_in_lahore_2008",
+  "title": "Donkey in Lahore",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5296234",
+    "imdb": "tt1201620",
+    "tmdb": 690828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

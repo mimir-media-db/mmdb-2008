@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_une_chaine_pour_deux_2008",
+  "title": "Une chaîne pour deux",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549394",
+    "imdb": "tt1584133",
+    "tmdb": 452792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

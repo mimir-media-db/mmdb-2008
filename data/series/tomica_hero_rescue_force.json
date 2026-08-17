@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tomica_hero_rescue_force",
+  "title": "Tomica Hero: Rescue Force",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1133231",
+    "imdb": "tt1826538",
+    "tmdb": 69700
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 51
+}

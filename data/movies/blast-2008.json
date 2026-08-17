@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blast_2008",
+  "title": "BLAST!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4835843",
+    "imdb": "tt1190065",
+    "tmdb": 183192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

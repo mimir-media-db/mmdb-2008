@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kung_fu_dunk_2008",
+  "title": "Kung Fu Dunk",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q715295",
+    "imdb": "tt0848538",
+    "tmdb": 17108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

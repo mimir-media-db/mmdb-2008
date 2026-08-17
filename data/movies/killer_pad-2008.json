@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_pad_2008",
+  "title": "Killer Pad",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4468566",
+    "imdb": "tt0787485",
+    "tmdb": 58096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 81
+}

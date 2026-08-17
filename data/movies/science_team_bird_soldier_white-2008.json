@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_science_team_bird_soldier_white_2008",
+  "title": "Science Team Bird Soldier White",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6122495"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 64
+}

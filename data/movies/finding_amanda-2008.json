@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_amanda_2008",
+  "title": "Finding Amanda",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1416822",
+    "imdb": "tt0889134",
+    "tmdb": 13065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

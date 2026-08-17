@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lake_tahoe_2008",
+  "title": "Lake Tahoe",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2842401",
+    "imdb": "tt1101675",
+    "tmdb": 65726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_dick_2008",
+  "title": "Good Dick",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q827341",
+    "imdb": "tt0944101",
+    "tmdb": 14758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

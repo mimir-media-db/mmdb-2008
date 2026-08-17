@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zand_2008",
+  "title": "Zand",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3157987",
+    "imdb": "tt1294230",
+    "tmdb": 88165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 21
+}

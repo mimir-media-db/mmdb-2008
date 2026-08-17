@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oscar_the_color_of_destiny_2008",
+  "title": "Oscar. The color of destiny",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4025467",
+    "imdb": "tt0899303",
+    "tmdb": 189366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

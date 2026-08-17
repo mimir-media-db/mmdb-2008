@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_out_of_the_wild",
+  "title": "Out of the Wild",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7111804",
+    "imdb": "tt1229467",
+    "tmdb": 263167
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bellebaie",
+  "title": "Belle-Baie",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2894671",
+    "imdb": "tt0874439",
+    "tmdb": 106208
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 44
+}

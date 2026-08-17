@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_l_for_love_l_for_lies_2008",
+  "title": "L for Love L for Lies",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6460601",
+    "imdb": "tt1205065",
+    "tmdb": 34526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_der_bergdoktor",
+  "title": "Der Bergdoktor",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1192462",
+    "imdb": "tt1177054",
+    "tmdb": 62957
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 19,
+  "total_episodes": 156
+}

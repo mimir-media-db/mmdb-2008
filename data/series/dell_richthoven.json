@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dell_richthoven",
+  "title": "Dell & Richthoven",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q110293441",
+    "imdb": "tt1143136",
+    "tmdb": 63257
+  },
+  "last_updated": "2026-08-17"
+}

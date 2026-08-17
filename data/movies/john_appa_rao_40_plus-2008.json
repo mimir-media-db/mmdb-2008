@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_john_appa_rao_40_plus_2008",
+  "title": "John Appa Rao 40 Plus",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6219250",
+    "imdb": "tt1285120",
+    "tmdb": 117656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

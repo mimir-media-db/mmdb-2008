@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_otto_or_up_with_dead_people_2008",
+  "title": "Otto; or Up with Dead People",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2297540",
+    "imdb": "tt1151384",
+    "tmdb": 26901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

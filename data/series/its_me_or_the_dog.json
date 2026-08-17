@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_its_me_or_the_dog",
+  "title": "It's Me or the Dog",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q106940776",
+    "imdb": "tt1011549"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 77
+}

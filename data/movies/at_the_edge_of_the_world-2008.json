@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_the_edge_of_the_world_2008",
+  "title": "At the Edge of the World",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4812498",
+    "imdb": "tt1286499",
+    "tmdb": 56777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

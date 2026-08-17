@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caravaggio_the_search_2008",
+  "title": "Caravaggio: The Search",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3658243",
+    "imdb": "tt0825334",
+    "tmdb": 276686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 120
+}

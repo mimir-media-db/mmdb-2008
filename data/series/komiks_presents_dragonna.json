@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_komiks_presents_dragonna",
+  "title": "Komiks Presents: Dragonna",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6428337",
+    "imdb": "tt1388382",
+    "tmdb": 8507
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

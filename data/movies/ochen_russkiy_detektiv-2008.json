@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ochen_russkiy_detektiv_2008",
+  "title": "Ochen russkiy detektiv",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4340667",
+    "imdb": "tt1334035",
+    "tmdb": 143876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

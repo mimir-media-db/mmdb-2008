@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_dinde_2008",
+  "title": "La Dinde",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3208290",
+    "imdb": "tt1241704"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_city_of_glass",
+  "title": "City of Glass",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1129628",
+    "imdb": "tt8482786",
+    "tmdb": 31347
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 51
+}

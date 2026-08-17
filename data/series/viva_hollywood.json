@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_viva_hollywood",
+  "title": "¡Viva Hollywood!",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q8076399",
+    "imdb": "tt1154997"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

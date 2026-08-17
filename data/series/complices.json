@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_complices",
+  "title": "Cómplices",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5796904",
+    "imdb": "tt2961312"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

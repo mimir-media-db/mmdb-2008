@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_univer",
+  "title": "Univer",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3315304",
+    "imdb": "tt1409069",
+    "tmdb": 46087
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 255
+}

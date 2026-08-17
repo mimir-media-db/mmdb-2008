@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perrito_bomba_2008",
+  "title": "Perrito bomba",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2895328",
+    "imdb": "tt0984093"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 10
+}

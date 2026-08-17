@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tablo_2008",
+  "title": "Tabló",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1315835",
+    "imdb": "tt0398295",
+    "tmdb": 312898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

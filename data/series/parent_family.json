@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_parent_family",
+  "title": "The Parent Family",
+  "start_year": 2008,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q678111",
+    "imdb": "tt1597396",
+    "tmdb": 34850
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 169
+}

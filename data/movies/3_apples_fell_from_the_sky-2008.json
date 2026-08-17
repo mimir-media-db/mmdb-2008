@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_apples_fell_from_the_sky_2008",
+  "title": "3 Apples Fell from the Sky",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4636464",
+    "imdb": "tt1385905",
+    "tmdb": 61457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

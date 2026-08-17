@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dear_friend",
+  "title": "Dear Friend",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3585944",
+    "imdb": "tt1982261",
+    "tmdb": 18663
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 92
+}

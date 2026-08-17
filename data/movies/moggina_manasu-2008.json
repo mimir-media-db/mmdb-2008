@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moggina_manasu_2008",
+  "title": "Moggina Manasu",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6890526",
+    "imdb": "tt2955162",
+    "tmdb": 587437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

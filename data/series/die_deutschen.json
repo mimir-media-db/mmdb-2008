@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_deutschen",
+  "title": "Die Deutschen",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1211952",
+    "imdb": "tt1236350",
+    "tmdb": 19890
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

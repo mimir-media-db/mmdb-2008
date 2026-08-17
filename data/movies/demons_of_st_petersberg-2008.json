@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demons_of_st_petersberg_2008",
+  "title": "The Demons of St. Petersberg",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3790681",
+    "imdb": "tt0997280",
+    "tmdb": 63403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 118
+}

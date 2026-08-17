@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_painter_of_the_wind",
+  "title": "Painter of the Wind",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q496833",
+    "imdb": "tt2288104",
+    "tmdb": 44573
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clique_2008",
+  "title": "The Clique",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2705011",
+    "imdb": "tt1059905",
+    "tmdb": 34482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 87
+}

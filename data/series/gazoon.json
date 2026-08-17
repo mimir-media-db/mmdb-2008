@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gazoon",
+  "title": "Gazoon",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q9266452",
+    "imdb": "tt4288626",
+    "tmdb": 121929
+  },
+  "last_updated": "2026-08-17"
+}

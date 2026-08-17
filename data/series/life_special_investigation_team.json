@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_life_special_investigation_team",
+  "title": "Life Special Investigation Team",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12967237"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

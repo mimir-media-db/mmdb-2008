@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_professionals",
+  "title": "The Professionals",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3496898",
+    "imdb": "tt4807956",
+    "tmdb": 58689
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 104
+}

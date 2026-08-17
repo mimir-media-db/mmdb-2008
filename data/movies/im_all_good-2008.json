@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_all_good_2008",
+  "title": "I'm All Good",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966111",
+    "imdb": "tt1288494",
+    "tmdb": 50130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jannat_2008",
+  "title": "Jannat",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6155093",
+    "imdb": "tt1216300",
+    "tmdb": 25510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 140
+}

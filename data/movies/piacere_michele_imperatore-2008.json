@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_piacere_michele_imperatore_2008",
+  "title": "Piacere Michele Imperatore",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3901834",
+    "imdb": "tt1593765",
+    "tmdb": 119047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

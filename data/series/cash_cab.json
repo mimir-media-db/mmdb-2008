@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cash_cab",
+  "title": "Cash Cab",
+  "start_year": 2008,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5048640",
+    "imdb": "tt1757027",
+    "tmdb": 41227
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 200
+}

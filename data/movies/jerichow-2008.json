@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jerichow_2008",
+  "title": "Jerichow",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1422242",
+    "imdb": "tt1224153",
+    "tmdb": 12161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 92
+}

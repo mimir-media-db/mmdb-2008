@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_like_others_2008",
+  "title": "Be Like Others",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33109",
+    "imdb": "tt1157609",
+    "tmdb": 168718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burma_vj_2008",
+  "title": "Burma VJ",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1016657",
+    "imdb": "tt1333634",
+    "tmdb": 26763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 84
+}

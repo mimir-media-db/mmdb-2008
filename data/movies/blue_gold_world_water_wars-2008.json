@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_gold_world_water_wars_2008",
+  "title": "Blue Gold: World Water Wars",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4929145",
+    "imdb": "tt1137439",
+    "tmdb": 18046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

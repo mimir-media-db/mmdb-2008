@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_animanera_2008",
+  "title": "Animanera",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3617531",
+    "imdb": "tt1179758",
+    "tmdb": 186580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 93
+}

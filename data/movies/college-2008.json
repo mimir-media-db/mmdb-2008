@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_college_2008",
+  "title": "College",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2706811",
+    "imdb": "tt0844671",
+    "tmdb": 13991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

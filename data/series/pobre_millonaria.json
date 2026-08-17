@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pobre_millonaria",
+  "title": "Pobre Millonaria",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q14636469",
+    "imdb": "tt2002188",
+    "tmdb": 207360
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

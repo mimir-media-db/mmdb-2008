@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nos_18_ans_2008",
+  "title": "Nos 18 ans",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3344279",
+    "imdb": "tt1092020",
+    "tmdb": 12170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 93
+}

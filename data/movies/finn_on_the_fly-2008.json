@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finn_on_the_fly_2008",
+  "title": "Finn on the Fly",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3319810",
+    "imdb": "tt1065300",
+    "tmdb": 55295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 101
+}

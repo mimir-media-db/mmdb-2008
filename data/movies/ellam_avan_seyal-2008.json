@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ellam_avan_seyal_2008",
+  "title": "Ellam Avan Seyal",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5364619",
+    "imdb": "tt6448784",
+    "tmdb": 511378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

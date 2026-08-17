@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_about_women_2008",
+  "title": "All About Women",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2837453",
+    "imdb": "tt1037146",
+    "tmdb": 39277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 120
+}

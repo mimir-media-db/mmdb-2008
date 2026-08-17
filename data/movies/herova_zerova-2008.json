@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_herova_zerova_2008",
+  "title": "Herova? Zerova?",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5743602",
+    "imdb": "tt10825064",
+    "tmdb": 895126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

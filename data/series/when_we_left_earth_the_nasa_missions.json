@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_when_we_left_earth_the_nasa_missions",
+  "title": "When We Left Earth: The NASA Missions",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3285801",
+    "imdb": "tt1233514",
+    "tmdb": 7398
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

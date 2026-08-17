@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_place_like_home_2008",
+  "title": "No Place Like Home",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4946738",
+    "imdb": "tt2754078",
+    "tmdb": 545352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

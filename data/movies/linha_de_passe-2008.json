@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_linha_de_passe_2008",
+  "title": "Linha de Passe",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2456024",
+    "imdb": "tt0803029",
+    "tmdb": 8902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 113
+}

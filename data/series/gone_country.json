@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gone_country",
+  "title": "Gone Country",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5581543",
+    "imdb": "tt1129399",
+    "tmdb": 14359
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_your_bad_self",
+  "title": "Your Bad Self",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8058734",
+    "imdb": "tt1585974",
+    "tmdb": 8505
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

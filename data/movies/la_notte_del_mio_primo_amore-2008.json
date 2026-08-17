@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_notte_del_mio_primo_amore_2008",
+  "title": "La notte del mio primo amore",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3823381",
+    "imdb": "tt0863093",
+    "tmdb": 64155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 82
+}

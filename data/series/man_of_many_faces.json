@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_man_of_many_faces",
+  "title": "Man of Many Faces",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3029331",
+    "imdb": "tt2658222",
+    "tmdb": 115610
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kausalya_supraja_rama_2008",
+  "title": "Kausalya Supraja Rama",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6378918",
+    "imdb": "tt1582523",
+    "tmdb": 79937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

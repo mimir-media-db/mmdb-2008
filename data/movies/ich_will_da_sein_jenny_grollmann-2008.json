@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ich_will_da_sein_jenny_grollmann_2008",
+  "title": "Ich will da sein – Jenny Gröllmann",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1656336",
+    "imdb": "tt1250969",
+    "tmdb": 11097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

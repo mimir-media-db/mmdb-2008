@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_breaking_bad",
+  "title": "Breaking Bad",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1079",
+    "imdb": "tt0903747",
+    "tmdb": 1396
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 62
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mostefa_ben_boulaid_2008",
+  "title": "Mostefa Ben Boulaïd",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3324982",
+    "imdb": "tt2871002",
+    "tmdb": 741955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

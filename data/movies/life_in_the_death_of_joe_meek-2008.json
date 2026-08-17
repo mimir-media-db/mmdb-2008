@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_in_the_death_of_joe_meek_2008",
+  "title": "A Life in the Death of Joe Meek",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657724",
+    "imdb": "tt0436782",
+    "tmdb": 1118324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 122
+}

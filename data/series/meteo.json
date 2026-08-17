@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_meteo",
+  "title": "Météo+",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3333908",
+    "imdb": "tt1420759"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 58
+}

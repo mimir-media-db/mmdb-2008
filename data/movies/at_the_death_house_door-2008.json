@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_the_death_house_door_2008",
+  "title": "At the Death House Door",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4812488",
+    "imdb": "tt0929235",
+    "tmdb": 41850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}

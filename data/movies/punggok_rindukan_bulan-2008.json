@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punggok_rindukan_bulan_2008",
+  "title": "Punggok Rindukan Bulan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473114",
+    "imdb": "tt1273812",
+    "tmdb": 237979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 122
+}

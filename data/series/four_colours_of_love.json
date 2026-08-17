@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_four_colours_of_love",
+  "title": "Four Colours of Love",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12600099",
+    "tmdb": 84127
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

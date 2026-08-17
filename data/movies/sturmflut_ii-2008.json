@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sturmflut_ii_2008",
+  "title": "Sturmflut II",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2359326",
+    "imdb": "tt1252523",
+    "tmdb": 405067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

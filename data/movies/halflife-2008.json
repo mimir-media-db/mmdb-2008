@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_halflife_2008",
+  "title": "Half-Life",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5641566",
+    "imdb": "tt0428620",
+    "tmdb": 79203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 106
+}

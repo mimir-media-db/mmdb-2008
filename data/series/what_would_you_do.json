@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_what_would_you_do",
+  "title": "What Would You Do?",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7243489",
+    "imdb": "tt1361787",
+    "tmdb": 16234
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 137
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_not_me_i_swear_2008",
+  "title": "It's Not Me, I Swear!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1128249",
+    "imdb": "tt1163752",
+    "tmdb": 18381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

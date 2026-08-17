@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_honey_im_in_love_2008",
+  "title": "Honey, I'm in Love",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3223225",
+    "imdb": "tt1087451",
+    "tmdb": 52170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

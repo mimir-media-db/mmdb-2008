@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bombay_to_bangkok_2008",
+  "title": "Bombay to Bangkok",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4940607",
+    "imdb": "tt1159917",
+    "tmdb": 117134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 120
+}

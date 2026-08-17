@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mutual_friends",
+  "title": "Mutual Friends",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6944161",
+    "imdb": "tt1062325",
+    "tmdb": 7804
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

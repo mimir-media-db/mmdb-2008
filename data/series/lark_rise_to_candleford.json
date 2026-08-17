@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lark_rise_to_candleford",
+  "title": "Lark Rise to Candleford",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1587491",
+    "imdb": "tt1077744",
+    "tmdb": 6998
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

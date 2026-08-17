@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mizhikal_sakshi_2008",
+  "title": "Mizhikal Sakshi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6884634",
+    "imdb": "tt1451399",
+    "tmdb": 413282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

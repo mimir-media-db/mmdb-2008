@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hijack_2008",
+  "title": "Hijack",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5760224",
+    "imdb": "tt1132589",
+    "tmdb": 26229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

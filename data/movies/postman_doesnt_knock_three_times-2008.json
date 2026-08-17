@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_postman_doesnt_knock_three_times_2008",
+  "title": "The Postman Doesn't Knock Three Times",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5950491",
+    "imdb": "tt1439563",
+    "tmdb": 643071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

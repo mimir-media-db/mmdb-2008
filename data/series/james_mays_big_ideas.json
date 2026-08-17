@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_james_mays_big_ideas",
+  "title": "James May's Big Ideas",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6139130",
+    "imdb": "tt1301844",
+    "tmdb": 8048
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

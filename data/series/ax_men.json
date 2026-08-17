@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ax_men",
+  "title": "Ax Men",
+  "start_year": 2008,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q2325666",
+    "imdb": "tt1197649",
+    "tmdb": 15563
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 153
+}

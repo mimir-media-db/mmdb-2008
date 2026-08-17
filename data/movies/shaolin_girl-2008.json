@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shaolin_girl_2008",
+  "title": "Shaolin Girl",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q957451",
+    "imdb": "tt1133594",
+    "tmdb": 22411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 103
+}

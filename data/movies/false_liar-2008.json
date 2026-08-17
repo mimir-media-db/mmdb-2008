@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_false_liar_2008",
+  "title": "The False Liar",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3793897",
+    "imdb": "tt1256623",
+    "tmdb": 685786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 77
+}

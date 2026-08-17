@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_24_city_2008",
+  "title": "24 City",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2815231",
+    "imdb": "tt1103963",
+    "tmdb": 29972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 112
+}

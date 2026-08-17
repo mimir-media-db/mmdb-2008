@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhalobasa_bhalobasa_2008",
+  "title": "Bhalobasa Bhalobasa",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900920",
+    "imdb": "tt1398944",
+    "tmdb": 787261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

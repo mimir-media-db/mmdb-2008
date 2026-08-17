@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_305_2008",
+  "title": "305",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4634411",
+    "imdb": "tt1212399",
+    "tmdb": 24149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

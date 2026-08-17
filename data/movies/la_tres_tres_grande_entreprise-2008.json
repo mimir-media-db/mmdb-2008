@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_tres_tres_grande_entreprise_2008",
+  "title": "La très très grande entreprise",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3213344",
+    "imdb": "tt1156170",
+    "tmdb": 17607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

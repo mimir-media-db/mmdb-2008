@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muallaf_2008",
+  "title": "Muallaf",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3472331",
+    "imdb": "tt1263797",
+    "tmdb": 51124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 80
+}

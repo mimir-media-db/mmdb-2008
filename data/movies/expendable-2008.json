@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_expendable_2008",
+  "title": "Ex$pendable",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5419098",
+    "imdb": "tt1392737",
+    "tmdb": 276417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

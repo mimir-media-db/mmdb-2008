@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_les_oreilles_2008",
+  "title": "Les Oreilles",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6529813",
+    "imdb": "tt5221762"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

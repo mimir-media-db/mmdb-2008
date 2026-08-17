@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_otis_2008",
+  "title": "Otis",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2273306",
+    "imdb": "tt0996967",
+    "tmdb": 15527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

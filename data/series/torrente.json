@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_torrente",
+  "title": "Torrente",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3533912",
+    "imdb": "tt1320221",
+    "tmdb": 30912
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 132
+}

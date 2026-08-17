@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grand_canyon_adventure_river_at_risk_2008",
+  "title": "Grand Canyon Adventure: River at Risk",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5594340",
+    "imdb": "tt0858497",
+    "tmdb": 15557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 44
+}

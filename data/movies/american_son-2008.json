@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_son_2008",
+  "title": "American Son",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4745123",
+    "imdb": "tt1037004",
+    "tmdb": 22819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

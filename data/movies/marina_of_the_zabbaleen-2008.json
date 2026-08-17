@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marina_of_the_zabbaleen_2008",
+  "title": "Marina of the Zabbaleen",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6763954",
+    "imdb": "tt1057535",
+    "tmdb": 321444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

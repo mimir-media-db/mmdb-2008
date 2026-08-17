@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_laptop_2008",
+  "title": "Laptop",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6488421",
+    "imdb": "tt20771434"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

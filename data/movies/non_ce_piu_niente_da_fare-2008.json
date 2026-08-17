@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_non_ce_piu_niente_da_fare_2008",
+  "title": "Non c'è più niente da fare",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3878001",
+    "imdb": "tt1031236",
+    "tmdb": 231037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

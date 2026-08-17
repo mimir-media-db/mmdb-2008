@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_howard_years",
+  "title": "The Howard Years",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7740745",
+    "imdb": "tt7667792",
+    "tmdb": 59014
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

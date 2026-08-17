@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_luck_2008",
+  "title": "Good Luck!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5582726",
+    "imdb": "tt1961330",
+    "tmdb": 544286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

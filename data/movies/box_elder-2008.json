@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_box_elder_2008",
+  "title": "Box Elder",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4951504",
+    "imdb": "tt1215458",
+    "tmdb": 176163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aba_2008",
+  "title": "Aba",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4663104",
+    "imdb": "tt3184474",
+    "tmdb": 804045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

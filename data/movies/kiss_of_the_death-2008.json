@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_of_the_death_2008",
+  "title": "Kiss of the Death",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4188390",
+    "imdb": "tt2088840",
+    "tmdb": 18328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

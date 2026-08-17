@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pluton_brb_nero",
+  "title": "Plutón B.R.B. Nero",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q9061169",
+    "imdb": "tt1245696",
+    "tmdb": 37498
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

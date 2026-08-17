@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boyfriend_for_my_wife_2008",
+  "title": "A Boyfriend for My Wife",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2513154",
+    "imdb": "tt1280534",
+    "tmdb": 16916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

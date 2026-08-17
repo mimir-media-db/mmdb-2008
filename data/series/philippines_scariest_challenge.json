@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_philippines_scariest_challenge",
+  "title": "Philippines Scariest Challenge",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7185416",
+    "tmdb": 7997
+  },
+  "last_updated": "2026-08-17"
+}

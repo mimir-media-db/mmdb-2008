@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anvil_the_story_of_anvil_2008",
+  "title": "Anvil! The Story of Anvil",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q612994",
+    "imdb": "tt1157605",
+    "tmdb": 18094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 80
+}

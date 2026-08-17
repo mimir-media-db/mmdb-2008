@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hulla_2008",
+  "title": "Hulla",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5936048",
+    "imdb": "tt1314274",
+    "tmdb": 188284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

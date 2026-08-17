@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pilgrims_progress_journey_to_heaven_2008",
+  "title": "Pilgrim's Progress: Journey to Heaven",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4384260",
+    "imdb": "tt1000768",
+    "tmdb": 46019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 104
+}

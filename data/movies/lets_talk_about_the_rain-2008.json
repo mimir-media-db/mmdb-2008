@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_talk_about_the_rain_2008",
+  "title": "Let's Talk About the Rain",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3365581",
+    "imdb": "tt1065332",
+    "tmdb": 15436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laskar_pelangi_2008",
+  "title": "Laskar Pelangi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6493567",
+    "imdb": "tt1301264",
+    "tmdb": 22421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

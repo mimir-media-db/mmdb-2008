@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ciao_2008",
+  "title": "Ciao",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1607708",
+    "imdb": "tt0870089",
+    "tmdb": 19603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 87
+}

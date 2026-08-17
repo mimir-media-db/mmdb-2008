@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_harvoin_tarjolla",
+  "title": "Harvoin tarjolla",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q11861680",
+    "imdb": "tt1016746",
+    "tmdb": 91129
+  },
+  "last_updated": "2026-08-17"
+}

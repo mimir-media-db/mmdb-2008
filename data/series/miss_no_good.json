@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_no_good",
+  "title": "Miss No Good",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q715289",
+    "imdb": "tt1313168",
+    "tmdb": 7999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

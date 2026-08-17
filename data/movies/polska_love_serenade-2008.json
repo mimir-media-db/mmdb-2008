@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polska_love_serenade_2008",
+  "title": "Polska Love Serenade",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1443690",
+    "imdb": "tt1176704",
+    "tmdb": 45600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 75
+}

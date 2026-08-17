@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_44_2008",
+  "title": "Золушка 4×4. Всё начинается с желаний",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4193721",
+    "imdb": "tt3161248",
+    "tmdb": 1280874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

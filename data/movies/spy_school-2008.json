@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_school_2008",
+  "title": "Spy School",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q961175",
+    "imdb": "tt0484831",
+    "tmdb": 31377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 86
+}

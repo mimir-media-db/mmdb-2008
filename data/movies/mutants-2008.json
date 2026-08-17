@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mutants_2008",
+  "title": "Mutants",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6943701",
+    "imdb": "tt1131742",
+    "tmdb": 25151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

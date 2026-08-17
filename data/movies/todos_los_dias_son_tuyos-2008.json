@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_todos_los_dias_son_tuyos_2008",
+  "title": "Todos los días son tuyos",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5391117",
+    "imdb": "tt0985678",
+    "tmdb": 274536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 113
+}

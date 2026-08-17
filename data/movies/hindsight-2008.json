@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hindsight_2008",
+  "title": "Hindsight",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5766237",
+    "imdb": "tt0902281",
+    "tmdb": 21034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 93
+}

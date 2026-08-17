@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_between_the_lines_2008",
+  "title": "Between the Lines",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4899181",
+    "imdb": "tt1258192",
+    "tmdb": 885402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

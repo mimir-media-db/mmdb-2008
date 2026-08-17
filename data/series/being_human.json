@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_being_human",
+  "title": "Being Human",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2031748",
+    "imdb": "tt1349938",
+    "tmdb": 7087
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 37
+}

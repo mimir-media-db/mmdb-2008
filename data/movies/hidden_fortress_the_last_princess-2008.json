@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_fortress_the_last_princess_2008",
+  "title": "Hidden Fortress: The Last Princess",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6349731",
+    "imdb": "tt1134519",
+    "tmdb": 44056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 118
+}

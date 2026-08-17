@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dim_sum_funeral_2008",
+  "title": "Dim Sum Funeral",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5277123",
+    "imdb": "tt1216477",
+    "tmdb": 20846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

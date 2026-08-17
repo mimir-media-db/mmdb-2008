@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tennessee_2008",
+  "title": "Tennessee",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3234596",
+    "imdb": "tt0770814",
+    "tmdb": 42891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

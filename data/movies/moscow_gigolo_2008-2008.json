@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moscow_gigolo_2008_2008",
+  "title": "Moscow Gigolo (2008)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4304139",
+    "imdb": "tt1095405",
+    "tmdb": 149721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

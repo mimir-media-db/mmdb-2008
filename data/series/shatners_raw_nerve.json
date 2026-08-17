@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_shatners_raw_nerve",
+  "title": "Shatner's Raw Nerve",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7490655",
+    "imdb": "tt1071711",
+    "tmdb": 8492
+  },
+  "last_updated": "2026-08-17"
+}

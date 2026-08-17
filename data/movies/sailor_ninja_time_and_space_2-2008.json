@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sailor_ninja_time_and_space_2_2008",
+  "title": "Sailor Ninja - Time and Space - 2",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6116888"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 64
+}

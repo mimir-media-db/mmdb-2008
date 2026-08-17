@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vermist",
+  "title": "Vermist",
+  "start_year": 2008,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q2004259",
+    "imdb": "tt0955211",
+    "tmdb": 35576
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 60
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nucingen_house_2008",
+  "title": "Nucingen House",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3210326",
+    "imdb": "tt1231273",
+    "tmdb": 204734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

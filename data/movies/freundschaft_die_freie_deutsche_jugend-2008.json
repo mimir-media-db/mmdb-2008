@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freundschaft_die_freie_deutsche_jugend_2008",
+  "title": "Freundschaft! Die Freie Deutsche Jugend",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1125271",
+    "imdb": "tt1250959",
+    "tmdb": 303234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

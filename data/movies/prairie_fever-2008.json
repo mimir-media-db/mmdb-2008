@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prairie_fever_2008",
+  "title": "Prairie Fever",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3283818",
+    "imdb": "tt1160018",
+    "tmdb": 16926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 81
+}

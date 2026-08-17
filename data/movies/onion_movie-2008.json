@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_onion_movie_2008",
+  "title": "The Onion Movie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1983756",
+    "imdb": "tt0392878",
+    "tmdb": 14771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 80
+}

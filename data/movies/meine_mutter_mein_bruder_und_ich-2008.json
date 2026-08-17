@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meine_mutter_mein_bruder_und_ich_2008",
+  "title": "Meine Mutter, mein Bruder und ich!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1918018",
+    "imdb": "tt0935101",
+    "tmdb": 10816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

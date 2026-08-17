@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_in_sudan_conversations_with_gadalla_gubara_2008",
+  "title": "Cinema in Sudan: Conversations with Gadalla Gubara",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2973135",
+    "imdb": "tt1668070",
+    "tmdb": 319139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

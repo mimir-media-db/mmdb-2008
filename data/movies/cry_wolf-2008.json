@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cry_wolf_2008",
+  "title": "Cry Wolf",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1142202",
+    "imdb": "tt1250727",
+    "tmdb": 191154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 129
+}

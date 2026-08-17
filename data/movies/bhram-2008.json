@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhram_2008",
+  "title": "Bhram",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4902070",
+    "imdb": "tt1214948",
+    "tmdb": 539733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

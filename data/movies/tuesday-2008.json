@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tuesday_2008",
+  "title": "Tuesday",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3382323",
+    "imdb": "tt1042570",
+    "tmdb": 18507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_si_beau_voyage_2008",
+  "title": "Un si beau voyage",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549036",
+    "imdb": "tt1334288",
+    "tmdb": 189014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deception_2008",
+  "title": "Deception",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q522015",
+    "imdb": "tt0800240",
+    "tmdb": 13018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 108
+}

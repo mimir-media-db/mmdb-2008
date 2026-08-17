@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vice_2008",
+  "title": "Vice",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q841761",
+    "imdb": "tt0762145",
+    "tmdb": 14252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

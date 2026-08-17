@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jollitown",
+  "title": "Jollitown",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6270057",
+    "imdb": "tt3340722",
+    "tmdb": 39838
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 283
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_custe_o_que_custar",
+  "title": "Custe o Que Custar",
+  "start_year": 2008,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q672363",
+    "imdb": "tt1518344",
+    "tmdb": 42369
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 399
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carnera_the_walking_mountain_2008",
+  "title": "Carnera - The Walking Mountain",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3660412",
+    "imdb": "tt0928124",
+    "tmdb": 34155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 125
+}

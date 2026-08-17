@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krauts_doubts_rock_n_roll_2008",
+  "title": "Krauts, Doubts & Rock ‘n’ Roll",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1427789",
+    "imdb": "tt1112828",
+    "tmdb": 7297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 101
+}

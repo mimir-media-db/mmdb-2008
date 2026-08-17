@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chamas_da_vida",
+  "title": "Chamas da Vida",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3282640",
+    "imdb": "tt1339218",
+    "tmdb": 17416
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 253
+}

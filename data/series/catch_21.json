@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_catch_21",
+  "title": "Catch 21",
+  "start_year": 2008,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q5051644",
+    "imdb": "tt1277975",
+    "tmdb": 7591
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 367
+}

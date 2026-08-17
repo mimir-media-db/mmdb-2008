@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_botero_born_in_medellin_2008",
+  "title": "Botero Born in Medellin",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q894695",
+    "imdb": "tt0926279",
+    "tmdb": 55542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 88
+}

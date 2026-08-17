@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grande_grosso_e_verdone_2008",
+  "title": "Grande, grosso e... Verdone",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3775515",
+    "imdb": "tt1077026",
+    "tmdb": 20414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_twilight_2008",
+  "title": "Before Twilight",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4880305",
+    "imdb": "tt1210349",
+    "tmdb": 38519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

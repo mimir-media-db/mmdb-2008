@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_in_24_2008",
+  "title": "Truth in 24",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2254287",
+    "imdb": "tt1320302",
+    "tmdb": 16900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_morbid_a_love_story_2008",
+  "title": "Morbid: A Love Story",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6909476",
+    "imdb": "tt1283923",
+    "tmdb": 153109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gunnin_for_that_1_spot_2008",
+  "title": "Gunnin' For That #1 Spot",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5619254",
+    "imdb": "tt1204298",
+    "tmdb": 30106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

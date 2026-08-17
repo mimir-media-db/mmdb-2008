@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_law_and_disorder_in_johannesburg_2008",
+  "title": "Law and Disorder in Johannesburg",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6503138",
+    "imdb": "tt2585192",
+    "tmdb": 241620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

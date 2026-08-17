@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peri_tozu_2008",
+  "title": "Peri Tozu",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6068257",
+    "imdb": "tt0929273",
+    "tmdb": 52158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

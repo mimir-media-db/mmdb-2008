@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memory_books_2008",
+  "title": "Memory Books",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3854511",
+    "imdb": "tt1223963",
+    "tmdb": 8400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

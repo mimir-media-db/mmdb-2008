@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_360",
+  "title": "Crime 360",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5185167",
+    "imdb": "tt1159604",
+    "tmdb": 7182
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

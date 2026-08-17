@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_cocuklari_2008",
+  "title": "O... Çocuklari",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6075780",
+    "imdb": "tt1202363",
+    "tmdb": 27956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 120
+}

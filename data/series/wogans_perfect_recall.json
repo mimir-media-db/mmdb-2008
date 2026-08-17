@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wogans_perfect_recall",
+  "title": "Wogan's Perfect Recall",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q8029057",
+    "imdb": "tt2007311",
+    "tmdb": 7762
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 150
+}

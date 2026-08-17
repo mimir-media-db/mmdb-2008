@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brahmanandam_drama_company_2008",
+  "title": "Brahmanandam Drama Company",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4955550",
+    "imdb": "tt1601813",
+    "tmdb": 255069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

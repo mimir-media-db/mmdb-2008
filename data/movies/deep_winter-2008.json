@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_winter_2008",
+  "title": "Deep Winter",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3704678",
+    "imdb": "tt0780500",
+    "tmdb": 15571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

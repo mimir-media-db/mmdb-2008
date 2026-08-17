@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colin_2008",
+  "title": "Colin",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3278815",
+    "imdb": "tt1278322",
+    "tmdb": 27231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

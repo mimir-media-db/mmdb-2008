@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalidasu_2008",
+  "title": "Kalidasu",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6352549",
+    "imdb": "tt1285123",
+    "tmdb": 531031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

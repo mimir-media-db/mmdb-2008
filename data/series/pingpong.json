@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pingpong",
+  "title": "Ping-Pong",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q11888164",
+    "imdb": "tt1190810",
+    "tmdb": 36173
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

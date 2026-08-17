@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ah_long_pte_ltd_2008",
+  "title": "Ah Long Pte Ltd",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4694877",
+    "imdb": "tt1182615",
+    "tmdb": 20284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 158
+}

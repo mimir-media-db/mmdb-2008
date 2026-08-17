@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ramirez_2008",
+  "title": "Ramírez",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6099368",
+    "imdb": "tt1149605",
+    "tmdb": 100779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}
