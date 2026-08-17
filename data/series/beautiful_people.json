@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_people",
+  "title": "Beautiful People",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q665750",
+    "imdb": "tt1246607",
+    "tmdb": 7871
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

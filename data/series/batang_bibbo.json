@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_batang_bibbo",
+  "title": "Batang Bibbo",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4868580",
+    "imdb": "tt3456084",
+    "tmdb": 44860
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 55
+}

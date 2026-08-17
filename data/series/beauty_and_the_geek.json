@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beauty_and_the_geek",
+  "title": "Beauty and the Geek",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q27430337",
+    "imdb": "tt1322247",
+    "tmdb": 105783
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 48
+}
