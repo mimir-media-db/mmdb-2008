@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_par_suite_dun_arret_de_travail_2008",
+  "title": "Par suite d'un arrêt de travail...",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3363043",
+    "imdb": "tt1073671",
+    "tmdb": 15336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

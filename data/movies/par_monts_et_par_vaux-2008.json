@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_par_monts_et_par_vaux_2008",
+  "title": "Par monts et par vaux",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q819371",
+    "imdb": "tt1472019",
+    "tmdb": 360104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 101
+}

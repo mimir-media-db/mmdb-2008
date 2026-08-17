@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pleasure_of_being_robbed_2008",
+  "title": "The Pleasure of Being Robbed",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3522259",
+    "imdb": "tt1189259",
+    "tmdb": 42585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

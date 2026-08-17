@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pulse_2_afterlife_2008",
+  "title": "Pulse 2: Afterlife",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4383669",
+    "imdb": "tt1038072",
+    "tmdb": 14212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}

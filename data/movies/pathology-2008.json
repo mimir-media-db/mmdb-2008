@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pathology_2008",
+  "title": "Pathology",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1780174",
+    "imdb": "tt0964539",
+    "tmdb": 12192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

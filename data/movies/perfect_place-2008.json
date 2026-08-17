@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_place_2008",
+  "title": "A Perfect Place",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658783",
+    "imdb": "tt1177935",
+    "tmdb": 15054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 25
+}
