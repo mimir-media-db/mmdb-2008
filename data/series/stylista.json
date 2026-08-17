@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stylista",
+  "title": "Stylista",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1049931",
+    "imdb": "tt1179369",
+    "tmdb": 5927
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

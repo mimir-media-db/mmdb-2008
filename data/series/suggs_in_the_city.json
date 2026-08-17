@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_suggs_in_the_city",
+  "title": "Suggs in the City",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7635100",
+    "imdb": "tt1472505"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

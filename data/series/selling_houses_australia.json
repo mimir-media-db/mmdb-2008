@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_selling_houses_australia",
+  "title": "Selling Houses Australia",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7448656",
+    "imdb": "tt2238348",
+    "tmdb": 56578
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10
+}

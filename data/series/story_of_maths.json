@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_story_of_maths",
+  "title": "The Story of Maths",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3522870",
+    "imdb": "tt1926910",
+    "tmdb": 19735
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_socias",
+  "title": "Socias",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6130733",
+    "imdb": "tt1230218",
+    "tmdb": 216123
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

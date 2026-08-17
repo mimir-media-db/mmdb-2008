@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_spotlight",
+  "title": "Spotlight",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q625059",
+    "imdb": "tt6284106",
+    "tmdb": 46561
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

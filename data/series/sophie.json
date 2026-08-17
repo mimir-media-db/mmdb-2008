@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sophie",
+  "title": "Sophie",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7562947",
+    "imdb": "tt0947080",
+    "tmdb": 14925
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}
