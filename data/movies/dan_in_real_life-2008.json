@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dan_in_real_life_2008",
+  "title": "Dan in Real Life",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1159199",
+    "imdb": "tt0480242",
+    "tmdb": 7211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-20",
+  "runtime_minutes": 99
+}

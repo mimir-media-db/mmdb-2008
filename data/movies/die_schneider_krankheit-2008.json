@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_schneider_krankheit_2008",
+  "title": "Die Schneider Krankheit",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768355",
+    "imdb": "tt1339678",
+    "tmdb": 655717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 10
+}

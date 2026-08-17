@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_natur_vor_uns_2008",
+  "title": "Die Natur vor uns",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75837393",
+    "imdb": "tt1278417",
+    "tmdb": 115848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-01"
+}

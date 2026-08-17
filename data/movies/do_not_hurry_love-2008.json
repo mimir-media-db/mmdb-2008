@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_do_not_hurry_love_2008",
+  "title": "Do Not Hurry Love",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16708826",
+    "imdb": "tt3629662",
+    "tmdb": 508693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

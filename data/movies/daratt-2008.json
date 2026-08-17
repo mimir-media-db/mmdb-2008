@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daratt_2008",
+  "title": "Daratt",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q689067",
+    "imdb": "tt0825241",
+    "tmdb": 24171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-06",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_des_indes_a_la_planete_mars_2008",
+  "title": "Des Indes à la planète Mars",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48752046",
+    "imdb": "tt1216286",
+    "tmdb": 575546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 80
+}

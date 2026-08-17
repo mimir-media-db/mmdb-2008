@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreamseller_2008",
+  "title": "Dreamseller",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17413076",
+    "imdb": "tt5215966",
+    "tmdb": 857462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 30
+}

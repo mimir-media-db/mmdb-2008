@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_look_down_2008",
+  "title": "Don't Look Down",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15545323",
+    "imdb": "tt1233487",
+    "tmdb": 45722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

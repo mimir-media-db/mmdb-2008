@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dig_og_mig_2008",
+  "title": "Dig og mig",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12308608",
+    "imdb": "tt1221129",
+    "tmdb": 15777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-01",
+  "runtime_minutes": 89
+}

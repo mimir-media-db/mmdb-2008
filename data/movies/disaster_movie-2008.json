@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disaster_movie_2008",
+  "title": "Disaster Movie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q837945",
+    "imdb": "tt1213644",
+    "tmdb": 13805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-29",
+  "runtime_minutes": 90
+}

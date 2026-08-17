@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_double_trouble_2008",
+  "title": "Double Trouble",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11545312",
+    "imdb": "tt1160551",
+    "tmdb": 824407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_schwarze_lowe_2008",
+  "title": "Der schwarze Löwe",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140166509",
+    "imdb": "tt1233352",
+    "tmdb": 381390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

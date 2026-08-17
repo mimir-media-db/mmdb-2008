@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_man_drinking_2008",
+  "title": "Dead Man Drinking",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599802",
+    "imdb": "tt1334226",
+    "tmdb": 39803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

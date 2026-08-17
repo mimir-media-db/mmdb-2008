@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dar_fur_war_for_water_2008",
+  "title": "Dar Fur: War for Water",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28750126",
+    "imdb": "tt1443344",
+    "tmdb": 573892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

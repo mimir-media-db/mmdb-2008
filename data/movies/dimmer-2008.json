@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dimmer_2008",
+  "title": "Dimmer",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19598987",
+    "tmdb": 1008276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-11"
+}

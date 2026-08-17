@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_lange_weg_ans_licht_2008",
+  "title": "Der lange Weg ans Licht",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1199325",
+    "imdb": "tt1141725",
+    "tmdb": 6502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-28",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_dunnen_madchen_2008",
+  "title": "Die dünnen Mädchen",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20183924",
+    "imdb": "tt1356752",
+    "tmdb": 503184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-24",
+  "runtime_minutes": 95
+}

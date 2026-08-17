@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_defying_gravity_2008",
+  "title": "Defying Gravity",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5251741",
+    "imdb": "tt1204031",
+    "tmdb": 176247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-29"
+}

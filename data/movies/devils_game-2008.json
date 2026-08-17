@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_game_2008",
+  "title": "The Devil's Game",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18550504",
+    "imdb": "tt1310501",
+    "tmdb": 96954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-31"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dollar_girl_2008",
+  "title": "Dollar Girl",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25388535",
+    "imdb": "tt1391546",
+    "tmdb": 616562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

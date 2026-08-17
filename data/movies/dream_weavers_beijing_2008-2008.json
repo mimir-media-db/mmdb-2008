@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_weavers_beijing_2008_2008",
+  "title": "Dream Weavers: Beijing 2008",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15904064",
+    "imdb": "tt1313270",
+    "tmdb": 341565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

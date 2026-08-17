@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_davie_golimyr_2008",
+  "title": "Davie & Golimyr",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128601204",
+    "imdb": "tt1252478"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

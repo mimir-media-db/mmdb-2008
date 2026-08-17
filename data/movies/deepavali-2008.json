@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deepavali_2008",
+  "title": "Deepavali",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15704256",
+    "imdb": "tt1583234",
+    "tmdb": 618172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-26"
+}

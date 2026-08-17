@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dakar_dk_1739_2008",
+  "title": "Dakar DK 1739",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126082506"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 13
+}

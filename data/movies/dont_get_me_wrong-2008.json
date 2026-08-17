@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_get_me_wrong_2008",
+  "title": "Don't Get Me Wrong",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44869820",
+    "imdb": "tt1185595",
+    "tmdb": 83999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-04"
+}
