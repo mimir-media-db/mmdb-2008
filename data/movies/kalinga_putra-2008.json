@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kalinga_putra_2008",
+  "title": "Kalinga Putra",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6352875",
+    "imdb": "tt1433304"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khufu_revealed_2008",
+  "title": "Khufu Revealed",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4388309",
+    "imdb": "tt2331400",
+    "tmdb": 125897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 52
+}

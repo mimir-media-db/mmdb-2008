@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_the_camp_2008",
+  "title": "King of the Camp",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3197059",
+    "imdb": "tt1289413",
+    "tmdb": 60454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

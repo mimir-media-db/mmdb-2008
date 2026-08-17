@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_kill_faster_faster_2008",
+  "title": "Kill Kill Faster Faster",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6407114",
+    "imdb": "tt0785016",
+    "tmdb": 18849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

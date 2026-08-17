@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kicking_it_2008",
+  "title": "Kicking It",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3815087",
+    "imdb": "tt1157668",
+    "tmdb": 31552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}

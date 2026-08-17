@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_k20_legend_of_the_mask_2008",
+  "title": "K-20: Legend of the Mask",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3082948",
+    "imdb": "tt1156395",
+    "tmdb": 24410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 137
+}
