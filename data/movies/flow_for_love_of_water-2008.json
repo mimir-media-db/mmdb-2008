@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flow_for_love_of_water_2008",
+  "title": "Flow: For Love of Water",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5462058",
+    "imdb": "tt1149583",
+    "tmdb": 18187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

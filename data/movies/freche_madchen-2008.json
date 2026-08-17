@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freche_madchen_2008",
+  "title": "Freche Mädchen",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1452143",
+    "imdb": "tt1224151",
+    "tmdb": 11752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

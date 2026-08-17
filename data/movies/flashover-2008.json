@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_flashover_2008",
+  "title": "Flashover",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5457660",
+    "imdb": "tt1270831"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

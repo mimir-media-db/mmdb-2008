@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_that_preys_2008",
+  "title": "The Family That Preys",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2411262",
+    "imdb": "tt1142798",
+    "tmdb": 15450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 106
+}

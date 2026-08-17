@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fakir_of_venice_2008",
+  "title": "The Fakir of Venice",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3986976",
+    "imdb": "tt0456407",
+    "tmdb": 460001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 114
+}

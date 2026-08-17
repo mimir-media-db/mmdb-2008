@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forever_plaid_the_movie_2008",
+  "title": "Forever Plaid: The Movie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5469435",
+    "imdb": "tt1262896",
+    "tmdb": 107031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

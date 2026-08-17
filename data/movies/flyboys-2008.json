@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flyboys_2008",
+  "title": "The Flyboys",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2293262",
+    "imdb": "tt0357668",
+    "tmdb": 20789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 118
+}

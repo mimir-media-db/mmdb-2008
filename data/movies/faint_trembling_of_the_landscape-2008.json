@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faint_trembling_of_the_landscape_2008",
+  "title": "A Faint Trembling of the Landscape",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3270183",
+    "imdb": "tt1370388",
+    "tmdb": 575767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

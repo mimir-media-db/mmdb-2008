@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_christmases_2008",
+  "title": "Four Christmases",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q315592",
+    "imdb": "tt0369436",
+    "tmdb": 12193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 88
+}

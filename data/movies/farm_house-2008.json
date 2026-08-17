@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farm_house_2008",
+  "title": "Farm House",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5435507",
+    "imdb": "tt0996934",
+    "tmdb": 14866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

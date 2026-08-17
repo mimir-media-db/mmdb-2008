@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_foxglove_2008",
+  "title": "Foxglove",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5477150",
+    "imdb": "tt1267830"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

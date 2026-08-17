@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_style_2008",
+  "title": "Free Style",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2576418",
+    "imdb": "tt1128071",
+    "tmdb": 39055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

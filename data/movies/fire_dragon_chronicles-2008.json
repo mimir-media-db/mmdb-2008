@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_dragon_chronicles_2008",
+  "title": "The Fire Dragon Chronicles",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1647766",
+    "imdb": "tt1290472",
+    "tmdb": 31221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}
