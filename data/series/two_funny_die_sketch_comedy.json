@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_two_funny_die_sketch_comedy",
+  "title": "Two Funny – Die Sketch Comedy",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2462391",
+    "imdb": "tt1172145",
+    "tmdb": 41109
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

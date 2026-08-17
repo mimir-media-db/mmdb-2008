@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tengo_todo_excepto_a_ti",
+  "title": "Tengo todo excepto a ti",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6141563",
+    "imdb": "tt1221823",
+    "tmdb": 258458
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

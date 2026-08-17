@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_take_home_nanny",
+  "title": "Take Home Nanny",
+  "start_year": 2008,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q16952927",
+    "imdb": "tt1237341",
+    "tmdb": 34374
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

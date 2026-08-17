@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tres_irmas",
+  "title": "Três Irmãs",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q10385206",
+    "imdb": "tt1309406",
+    "tmdb": 46155
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 179
+}
