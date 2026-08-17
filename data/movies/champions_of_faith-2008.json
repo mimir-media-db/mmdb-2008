@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_champions_of_faith_2008",
+  "title": "Champions of Faith",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5070091",
+    "imdb": "tt1017429"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_choke_2008",
+  "title": "Choke",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1075839",
+    "imdb": "tt1024715",
+    "tmdb": 13973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 88
+}

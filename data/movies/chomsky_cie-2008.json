@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chomsky_cie_2008",
+  "title": "Chomsky & Cie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2964410",
+    "imdb": "tt1333068",
+    "tmdb": 259560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

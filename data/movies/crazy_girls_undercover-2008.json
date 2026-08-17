@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_girls_undercover_2008",
+  "title": "Crazy Girls Undercover",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5183159",
+    "imdb": "tt1350917",
+    "tmdb": 17773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 87
+}

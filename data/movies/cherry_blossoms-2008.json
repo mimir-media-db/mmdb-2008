@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cherry_blossoms_2008",
+  "title": "Cherry Blossoms",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q663960",
+    "imdb": "tt0910559",
+    "tmdb": 6461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 121
+}

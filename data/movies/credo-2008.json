@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_credo_2008",
+  "title": "Credo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5183809",
+    "imdb": "tt0854670",
+    "tmdb": 26208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_of_huang_shi_2008",
+  "title": "The Children of Huang Shi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q164663",
+    "imdb": "tt0889588",
+    "tmdb": 13405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 125
+}

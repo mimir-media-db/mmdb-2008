@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carolina_jones_and_the_broken_covenant_2008",
+  "title": "Carolina Jones and the Broken Covenant",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1044398",
+    "imdb": "tt1236887",
+    "tmdb": 47073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 101
+}

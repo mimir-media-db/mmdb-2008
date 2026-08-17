@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_courting_condi_2008",
+  "title": "Courting Condi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5178538",
+    "imdb": "tt1202230",
+    "tmdb": 311370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

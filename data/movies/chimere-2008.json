@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_chimere_2008",
+  "title": "Chimère",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2963685",
+    "imdb": "tt4092572"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

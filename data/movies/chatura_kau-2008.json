@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_chatura_kau_2008",
+  "title": "Chatura Kau",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5087980",
+    "imdb": "tt1462418"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

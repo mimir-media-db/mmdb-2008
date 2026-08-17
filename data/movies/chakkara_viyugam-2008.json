@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chakkara_viyugam_2008",
+  "title": "Chakkara Viyugam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5068353",
+    "imdb": "tt8577306",
+    "tmdb": 372400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coronation_street_out_of_africa_2008",
+  "title": "Coronation Street: Out of Africa",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5172224",
+    "imdb": "tt1322288",
+    "tmdb": 15210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

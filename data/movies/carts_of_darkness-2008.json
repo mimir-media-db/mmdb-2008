@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carts_of_darkness_2008",
+  "title": "Carts of Darkness",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5047441",
+    "imdb": "tt1633175",
+    "tmdb": 49957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

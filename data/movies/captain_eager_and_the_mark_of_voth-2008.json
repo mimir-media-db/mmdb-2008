@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_eager_and_the_mark_of_voth_2008",
+  "title": "Captain Eager and the Mark of Voth",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5036626",
+    "imdb": "tt1193624",
+    "tmdb": 55029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

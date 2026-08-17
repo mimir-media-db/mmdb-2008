@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chirodini_tumi_je_amar_2008",
+  "title": "Chirodini Tumi Je Amar",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5101954",
+    "imdb": "tt1390821",
+    "tmdb": 327665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

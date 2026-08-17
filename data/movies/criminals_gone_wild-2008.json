@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_criminals_gone_wild_2008",
+  "title": "Criminals Gone Wild",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5185646",
+    "imdb": "tt9401672",
+    "tmdb": 1690730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
