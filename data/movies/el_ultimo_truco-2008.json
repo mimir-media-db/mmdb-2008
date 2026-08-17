@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_ultimo_truco_2008",
+  "title": "El último truco",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95406822",
+    "imdb": "tt1314885",
+    "tmdb": 121496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-21",
+  "runtime_minutes": 91
+}

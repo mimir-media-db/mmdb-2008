@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_embodiment_of_evil_2008",
+  "title": "Embodiment of Evil",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5370113",
+    "imdb": "tt0082328",
+    "tmdb": 23508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-08",
+  "runtime_minutes": 93
+}

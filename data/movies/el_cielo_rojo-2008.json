@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_cielo_rojo_2008",
+  "title": "El Cielo Rojo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5351024",
+    "imdb": "tt1280502",
+    "tmdb": 402685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-01",
+  "runtime_minutes": 82
+}

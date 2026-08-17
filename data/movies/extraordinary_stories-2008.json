@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extraordinary_stories_2008",
+  "title": "Extraordinary Stories",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962260",
+    "imdb": "tt1225831",
+    "tmdb": 111188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 245
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_police_2008",
+  "title": "Ek Police",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138894808"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

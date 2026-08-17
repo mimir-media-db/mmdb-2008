@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eye_for_eye_2008",
+  "title": "Eye for eye",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495429",
+    "imdb": "tt1190913",
+    "tmdb": 34040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-03",
+  "runtime_minutes": 80
+}

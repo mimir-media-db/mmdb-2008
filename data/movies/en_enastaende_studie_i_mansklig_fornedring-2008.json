@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_enastaende_studie_i_mansklig_fornedring_2008",
+  "title": "En enastående studie i mänsklig förnedring",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18289123",
+    "imdb": "tt1283281",
+    "tmdb": 328562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 83
+}

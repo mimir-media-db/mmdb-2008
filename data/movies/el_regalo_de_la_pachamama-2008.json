@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_regalo_de_la_pachamama_2008",
+  "title": "El regalo de la Pachamama",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11328966",
+    "imdb": "tt1417034",
+    "tmdb": 354422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 104
+}

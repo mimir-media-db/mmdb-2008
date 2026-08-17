@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evilution_2008",
+  "title": "Evilution",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121264252",
+    "imdb": "tt1032749",
+    "tmdb": 24555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 91
+}

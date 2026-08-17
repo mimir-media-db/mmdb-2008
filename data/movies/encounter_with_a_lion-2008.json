@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_encounter_with_a_lion_2008",
+  "title": "Encounter With A Lion",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93735901"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

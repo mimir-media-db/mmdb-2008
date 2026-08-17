@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_easy_way_2008",
+  "title": "The Easy Way",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q948389",
+    "imdb": "tt1139806",
+    "tmdb": 13740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-16",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_takar_bou_2008",
+  "title": "Ek Takar Bou",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21161231",
+    "imdb": "tt5279742",
+    "tmdb": 1032352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_sistema_2008",
+  "title": "El sistema",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12346876",
+    "imdb": "tt1350508",
+    "tmdb": 127044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 120
+}

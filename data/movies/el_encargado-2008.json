@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_encargado_2008",
+  "title": "El encargado",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10271192",
+    "imdb": "tt1221134",
+    "tmdb": 107156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 9
+}

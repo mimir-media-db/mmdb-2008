@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_epitome_of_hyperbole_2008",
+  "title": "Epitome of Hyperbole",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5383737",
+    "imdb": "tt1284973",
+    "tmdb": 19626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-07"
+}

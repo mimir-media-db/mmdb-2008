@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eye_to_eye_all_about_german_film_2008",
+  "title": "Eye to Eye: All About German Film...",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25597087",
+    "imdb": "tt1179024",
+    "tmdb": 10902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-03",
+  "runtime_minutes": 106
+}

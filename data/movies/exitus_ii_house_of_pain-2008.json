@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exitus_ii_house_of_pain_2008",
+  "title": "Exitus II: House of Pain",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22077188",
+    "imdb": "tt1290500",
+    "tmdb": 211156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_early_bird_catches_the_worm_2008",
+  "title": "The Early Bird Catches the Worm",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3794605",
+    "imdb": "tt1087864",
+    "tmdb": 134500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-29",
+  "runtime_minutes": 100
+}
