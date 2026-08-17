@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_article_vi_2008",
+  "title": "Article VI",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4800902",
+    "imdb": "tt1337448"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

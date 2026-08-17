@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_african_hunting_holiday_2008",
+  "title": "African Hunting Holiday",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4689789",
+    "imdb": "tt1285125",
+    "tmdb": 143431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 58
+}

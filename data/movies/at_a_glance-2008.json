@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_a_glance_2008",
+  "title": "At a Glance",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3683700",
+    "imdb": "tt1073660",
+    "tmdb": 82145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

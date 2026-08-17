@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_art_of_war_ii_betrayal_2008",
+  "title": "The Art of War II: Betrayal",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1629016",
+    "imdb": "tt1233571",
+    "tmdb": 13988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}

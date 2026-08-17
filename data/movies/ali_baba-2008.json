@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ali_baba_2008",
+  "title": "Ali Baba",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4724689",
+    "imdb": "tt2359760",
+    "tmdb": 230105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

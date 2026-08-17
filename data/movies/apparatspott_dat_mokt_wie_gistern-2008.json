@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apparatspott_dat_mokt_wie_gistern_2008",
+  "title": "Apparatspott - Dat mokt wie gistern",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q620704",
+    "imdb": "tt0463867",
+    "tmdb": 572742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 108
+}

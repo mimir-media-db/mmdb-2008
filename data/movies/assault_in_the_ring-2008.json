@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assault_in_the_ring_2008",
+  "title": "Assault in the Ring",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4808589",
+    "imdb": "tt1207649",
+    "tmdb": 45766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agathe_clery_2008",
+  "title": "Agathe Cléry",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1112171",
+    "imdb": "tt1068632",
+    "tmdb": 20072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 113
+}

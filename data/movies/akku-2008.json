@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_akku_2008",
+  "title": "Akku",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4701401",
+    "imdb": "tt13569514",
+    "tmdb": 1423986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

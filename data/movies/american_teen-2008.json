@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_teen_2008",
+  "title": "American Teen",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4745224",
+    "imdb": "tt0486259",
+    "tmdb": 13259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

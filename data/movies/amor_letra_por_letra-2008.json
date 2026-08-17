@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amor_letra_por_letra_2008",
+  "title": "Amor letra por letra",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5673077",
+    "imdb": "tt1277997",
+    "tmdb": 66768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

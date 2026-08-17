@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_akiko_2008",
+  "title": "Akiko",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2630155",
+    "imdb": "tt1343359",
+    "tmdb": 352524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

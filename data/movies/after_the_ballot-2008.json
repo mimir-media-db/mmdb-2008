@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_after_the_ballot_2008",
+  "title": "After the Ballot",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2962788",
+    "imdb": "tt3168618",
+    "tmdb": 725572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

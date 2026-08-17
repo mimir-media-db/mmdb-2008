@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arropiero_el_vagabundo_de_la_muerte_2008",
+  "title": "Arropiero, el vagabundo de la muerte",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5559169",
+    "imdb": "tt1364385",
+    "tmdb": 209146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 80
+}

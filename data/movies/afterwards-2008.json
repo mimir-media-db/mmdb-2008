@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_afterwards_2008",
+  "title": "Afterwards",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q162037",
+    "imdb": "tt0940580",
+    "tmdb": 1782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 104
+}
