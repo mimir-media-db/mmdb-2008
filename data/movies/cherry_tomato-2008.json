@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cherry_tomato_2008",
+  "title": "Cherry Tomato",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19483824",
+    "imdb": "tt1606176",
+    "tmdb": 296783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 102
+}

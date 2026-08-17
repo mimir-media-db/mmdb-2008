@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_child_by_children_2008",
+  "title": "Child by Children",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95587889",
+    "imdb": "tt1298774",
+    "tmdb": 517561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cook_of_president_or_chef_of_president_2008",
+  "title": "Cook of President or Chef of President",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12221585",
+    "imdb": "tt2175963",
+    "tmdb": 447203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-23"
+}

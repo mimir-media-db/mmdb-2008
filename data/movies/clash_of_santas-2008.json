@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clash_of_santas_2008",
+  "title": "Clash of Santas",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123735712",
+    "imdb": "tt1286742",
+    "tmdb": 63597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 120
+}

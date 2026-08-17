@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_classic_artists_yes_2008",
+  "title": "Classic Artists: Yes",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1117069"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-15"
+}

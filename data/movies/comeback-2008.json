@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comeback_2008",
+  "title": "Comeback",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20493619",
+    "imdb": "tt1143149",
+    "tmdb": 707626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-03",
+  "runtime_minutes": 82
+}

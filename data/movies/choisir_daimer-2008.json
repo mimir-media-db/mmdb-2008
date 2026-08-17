@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_choisir_daimer_2008",
+  "title": "Choisir d'aimer",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39072201",
+    "imdb": "tt1238283",
+    "tmdb": 159578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 53
+}

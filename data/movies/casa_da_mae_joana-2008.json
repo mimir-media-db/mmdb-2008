@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casa_da_mae_joana_2008",
+  "title": "Casa da Mãe Joana",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9698204",
+    "imdb": "tt0831904",
+    "tmdb": 16821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

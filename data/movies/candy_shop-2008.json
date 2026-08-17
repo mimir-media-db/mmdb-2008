@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_candy_shop_2008",
+  "title": "The Candy Shop",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60443475",
+    "imdb": "tt0497339",
+    "tmdb": 716628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

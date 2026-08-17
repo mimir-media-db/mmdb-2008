@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cruising_bar_2_2008",
+  "title": "Cruising Bar 2",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3005568",
+    "imdb": "tt1166094",
+    "tmdb": 33989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-16",
+  "runtime_minutes": 103
+}

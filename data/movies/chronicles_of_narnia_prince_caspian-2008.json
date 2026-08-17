@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chronicles_of_narnia_prince_caspian_2008",
+  "title": "The Chronicles of Narnia: Prince Caspian",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q222023",
+    "imdb": "tt0499448",
+    "tmdb": 2454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-15",
+  "runtime_minutes": 140
+}

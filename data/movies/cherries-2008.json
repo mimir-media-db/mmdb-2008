@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cherries_2008",
+  "title": "Cherries",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17991853",
+    "imdb": "tt1619892",
+    "tmdb": 387480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

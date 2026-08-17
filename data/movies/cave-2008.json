@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cave_2008",
+  "title": "Cave",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11879819",
+    "imdb": "tt1303758"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

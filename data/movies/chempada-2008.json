@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chempada_2008",
+  "title": "Chempada",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5090633",
+    "imdb": "tt7589656",
+    "tmdb": 1118253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-31"
+}

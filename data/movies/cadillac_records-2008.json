@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cadillac_records_2008",
+  "title": "Cadillac Records",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q149431",
+    "imdb": "tt1042877",
+    "tmdb": 14299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-24",
+  "runtime_minutes": 109
+}

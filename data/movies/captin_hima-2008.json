@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_captin_hima_2008",
+  "title": "Captin Hima",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5036904",
+    "imdb": "tt1282428",
+    "tmdb": 144182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-25"
+}

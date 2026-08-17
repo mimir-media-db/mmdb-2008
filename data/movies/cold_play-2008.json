@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_play_2008",
+  "title": "Cold Play",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23056423",
+    "imdb": "tt1219680",
+    "tmdb": 71338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
