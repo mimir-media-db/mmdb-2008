@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_human_wrecking_balls",
+  "title": "Human Wrecking Balls",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5937683",
+    "imdb": "tt1372526",
+    "tmdb": 17394
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

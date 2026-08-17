@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_here_is_greenwood",
+  "title": "Here Is Greenwood",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1388243",
+    "imdb": "tt0102230",
+    "tmdb": 43340
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

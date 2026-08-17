@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hallo_taxi",
+  "title": "Hallo Taxi",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1571804",
+    "imdb": "tt1207276",
+    "tmdb": 25567
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

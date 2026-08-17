@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_het_mooiste_meisje_van_de_klas",
+  "title": "Het Mooiste Meisje Van De Klas",
+  "start_year": 2008,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q2542401",
+    "imdb": "tt1213450",
+    "tmdb": 23348
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

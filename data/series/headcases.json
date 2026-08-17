@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_headcases",
+  "title": "Headcases",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5689527",
+    "imdb": "tt1219972",
+    "tmdb": 7212
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ho_sposato_uno_sbirro",
+  "title": "Ho sposato uno sbirro",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3786047",
+    "imdb": "tt1020917",
+    "tmdb": 126934
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 34
+}
