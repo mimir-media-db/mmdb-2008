@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neandertal_2008",
+  "title": "Neandertal",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15990822",
+    "imdb": "tt0495932",
+    "tmdb": 8200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-24",
+  "runtime_minutes": 107
+}

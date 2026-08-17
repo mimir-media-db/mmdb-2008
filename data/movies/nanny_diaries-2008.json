@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nanny_diaries_2008",
+  "title": "The Nanny Diaries",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1346729",
+    "imdb": "tt0489237",
+    "tmdb": 12435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-14",
+  "runtime_minutes": 105
+}

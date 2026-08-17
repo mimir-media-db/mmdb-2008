@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nights_in_rodanthe_2008",
+  "title": "Nights in Rodanthe",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q287385",
+    "imdb": "tt0956038",
+    "tmdb": 14326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-26",
+  "runtime_minutes": 97
+}

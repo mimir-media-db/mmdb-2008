@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nightdragon_2008",
+  "title": "NightDragon",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7033180",
+    "imdb": "tt1104699",
+    "tmdb": 113993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

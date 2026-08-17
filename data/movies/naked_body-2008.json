@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_body_2008",
+  "title": "A Naked Body",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112633498",
+    "imdb": "tt1496472",
+    "tmdb": 863466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_new_type_just_for_your_love_2008",
+  "title": "New Type: Just For Your Love",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11324872",
+    "imdb": "tt1493027",
+    "tmdb": 301505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

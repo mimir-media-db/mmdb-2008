@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neel_rajar_deshe_2008",
+  "title": "Neel Rajar Deshe",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6986709",
+    "imdb": "tt1422708",
+    "tmdb": 695715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-25"
+}

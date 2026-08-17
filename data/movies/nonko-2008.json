@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nonko_2008",
+  "title": "Non-ko",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11325822",
+    "imdb": "tt1239408",
+    "tmdb": 317920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_special_2008",
+  "title": "Nobody Special",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123413245",
+    "imdb": "tt1377338",
+    "tmdb": 1372513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

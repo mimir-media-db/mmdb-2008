@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_numeri_book_of_the_new_spawn_2008",
+  "title": "Nu-Meri: Book of the New Spawn",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646799",
+    "imdb": "tt1296845",
+    "tmdb": 138476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

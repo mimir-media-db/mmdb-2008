@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nous_nirons_plus_au_bois_2008",
+  "title": "Nous n'irons plus au bois",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106231313",
+    "imdb": "tt1227885",
+    "tmdb": 608244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-01",
+  "runtime_minutes": 90
+}

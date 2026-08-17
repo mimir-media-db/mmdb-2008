@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nayagan_2008",
+  "title": "Nayagan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6983059",
+    "imdb": "tt13578214",
+    "tmdb": 263906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

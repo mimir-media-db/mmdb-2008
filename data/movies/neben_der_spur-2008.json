@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neben_der_spur_2008",
+  "title": "Neben der Spur",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43550440",
+    "imdb": "tt0865533",
+    "tmdb": 328437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-04"
+}

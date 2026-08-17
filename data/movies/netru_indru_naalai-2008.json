@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_netru_indru_naalai_2008",
+  "title": "Netru Indru Naalai",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6999960",
+    "imdb": "tt1582564",
+    "tmdb": 1324933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

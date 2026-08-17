@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_bewitched_xxx_2008",
+  "title": "Not Bewitched XXX",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1536819",
+    "imdb": "tt1282224",
+    "tmdb": 13152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-23",
+  "runtime_minutes": 143
+}
