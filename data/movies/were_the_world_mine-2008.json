@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_were_the_world_mine_2008",
+  "title": "Were the World Mine",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1814925",
+    "imdb": "tt0476991",
+    "tmdb": 19375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_home_roscoe_jenkins_2008",
+  "title": "Welcome Home Roscoe Jenkins",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2032336",
+    "imdb": "tt0494652",
+    "tmdb": 13490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 114
+}

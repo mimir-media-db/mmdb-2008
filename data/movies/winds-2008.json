@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_winds_2008",
+  "title": "Winds",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3453928",
+    "imdb": "tt11416436"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 13
+}

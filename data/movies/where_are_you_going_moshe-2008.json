@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_are_you_going_moshe_2008",
+  "title": "Where Are You Going Moshé?",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3887838",
+    "imdb": "tt1210330",
+    "tmdb": 275149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

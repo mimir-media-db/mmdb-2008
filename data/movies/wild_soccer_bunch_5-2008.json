@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_soccer_bunch_5_2008",
+  "title": "The Wild Soccer Bunch 5",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3824690",
+    "imdb": "tt1058579",
+    "tmdb": 51610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 103
+}
