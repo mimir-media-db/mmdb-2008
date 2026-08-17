@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_x_femmes",
+  "title": "X Femmes",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q284246",
+    "imdb": "tt1329988",
+    "tmdb": 44793
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}
