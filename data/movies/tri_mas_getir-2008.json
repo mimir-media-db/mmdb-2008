@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tri_mas_getir_2008",
+  "title": "Tri Mas Getir",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14917495",
+    "imdb": "tt1252526",
+    "tmdb": 465682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-03"
+}

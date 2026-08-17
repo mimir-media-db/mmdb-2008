@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teacher_and_three_children_2008",
+  "title": "Teacher and Three Children",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11585180",
+    "imdb": "tt1149594",
+    "tmdb": 268814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 118
+}

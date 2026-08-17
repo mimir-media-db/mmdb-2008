@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tintorettor_jishu_2008",
+  "title": "Tintorettor Jishu",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7808536",
+    "imdb": "tt0458178",
+    "tmdb": 245523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

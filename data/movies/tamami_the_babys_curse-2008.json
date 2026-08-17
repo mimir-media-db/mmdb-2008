@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tamami_the_babys_curse_2008",
+  "title": "Tamami: The Baby's Curse",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7680607",
+    "imdb": "tt1188674",
+    "tmdb": 64980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

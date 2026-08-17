@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_men_and_a_fish_pond_2008",
+  "title": "Three Men and a Fish Pond",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56379284",
+    "imdb": "tt1346297",
+    "tmdb": 772284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

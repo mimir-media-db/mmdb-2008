@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_team_batista_no_eiko_2008",
+  "title": "Team Batista no Eikō",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125101209",
+    "imdb": "tt1167825",
+    "tmdb": 18399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 120
+}

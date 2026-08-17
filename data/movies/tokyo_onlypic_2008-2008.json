@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_onlypic_2008_2008",
+  "title": "Tokyo Onlypic 2008",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11524098",
+    "imdb": "tt1265173",
+    "tmdb": 101587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

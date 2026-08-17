@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_talita_kum_2008",
+  "title": "Talitá Kum",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141015239",
+    "imdb": "tt2288063"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_things_we_lost_in_the_fire_2008",
+  "title": "Things We Lost in the Fire",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1306840",
+    "imdb": "tt0469623",
+    "tmdb": 3877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-29",
+  "runtime_minutes": 118
+}

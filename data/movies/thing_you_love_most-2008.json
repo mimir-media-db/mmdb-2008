@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thing_you_love_most_2008",
+  "title": "The Thing You Love Most",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12868304",
+    "imdb": "tt1830783",
+    "tmdb": 432637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-25"
+}

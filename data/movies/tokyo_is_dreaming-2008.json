@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_is_dreaming_2008",
+  "title": "Tokyo Is Dreaming",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7813899",
+    "imdb": "tt1338686",
+    "tmdb": 803460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

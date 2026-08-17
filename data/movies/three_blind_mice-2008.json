@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_blind_mice_2008",
+  "title": "Three Blind Mice",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7797343",
+    "imdb": "tt1239388",
+    "tmdb": 35358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

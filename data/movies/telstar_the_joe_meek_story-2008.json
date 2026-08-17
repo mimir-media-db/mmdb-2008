@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_telstar_the_joe_meek_story_2008",
+  "title": "Telstar: The Joe Meek Story",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7697846",
+    "imdb": "tt1068669",
+    "tmdb": 26796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 119
+}

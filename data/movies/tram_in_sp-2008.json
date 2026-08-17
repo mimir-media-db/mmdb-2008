@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tram_in_sp_2008",
+  "title": "A Tram in SP",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5841434",
+    "imdb": "tt1095432",
+    "tmdb": 257745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-23",
+  "runtime_minutes": 96
+}

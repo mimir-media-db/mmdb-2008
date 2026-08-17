@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_t_takes_2008",
+  "title": "T Takes",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7672682",
+    "imdb": "tt1404421"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

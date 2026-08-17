@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tender_throbbing_twilight_2008",
+  "title": "The Tender Throbbing Twilight",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43564244",
+    "imdb": "tt1190687",
+    "tmdb": 229876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-04"
+}

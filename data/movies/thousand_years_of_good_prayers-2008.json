@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thousand_years_of_good_prayers_2008",
+  "title": "A Thousand Years of Good Prayers",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1342267",
+    "imdb": "tt0838233",
+    "tmdb": 4890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-10",
+  "runtime_minutes": 83
+}

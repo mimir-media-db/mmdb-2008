@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_spirit_2008",
+  "title": "Tiger Spirit",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122750924",
+    "imdb": "tt1292042",
+    "tmdb": 548436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-20",
+  "runtime_minutes": 90
+}

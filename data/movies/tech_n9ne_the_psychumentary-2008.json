@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tech_n9ne_the_psychumentary_2008",
+  "title": "Tech N9ne: The Psychumentary",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7692167",
+    "imdb": "tt1560986",
+    "tmdb": 48418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

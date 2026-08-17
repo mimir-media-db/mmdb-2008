@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_taj_mahal_2008",
+  "title": "Taj Mahal",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16952900",
+    "imdb": "tt14253670"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

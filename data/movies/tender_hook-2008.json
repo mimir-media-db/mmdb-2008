@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tender_hook_2008",
+  "title": "The Tender Hook",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7768424",
+    "imdb": "tt0452692",
+    "tmdb": 15810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

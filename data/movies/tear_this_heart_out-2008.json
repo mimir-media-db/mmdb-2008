@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tear_this_heart_out_2008",
+  "title": "Tear This Heart Out",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94478",
+    "imdb": "tt1130981",
+    "tmdb": 16382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-12",
+  "runtime_minutes": 107
+}

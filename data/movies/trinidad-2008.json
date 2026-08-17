@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trinidad_2008",
+  "title": "Trinidad",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7842381",
+    "imdb": "tt0780481",
+    "tmdb": 110495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

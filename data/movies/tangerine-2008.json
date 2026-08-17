@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tangerine_2008",
+  "title": "Tangerine",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43279424",
+    "imdb": "tt1352455",
+    "tmdb": 78401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-23"
+}

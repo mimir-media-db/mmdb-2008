@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_truck_2008",
+  "title": "The Truck",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16181497",
+    "imdb": "tt1430638",
+    "tmdb": 47830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-25",
+  "runtime_minutes": 96
+}
