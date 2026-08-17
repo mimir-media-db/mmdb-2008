@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_roxy",
+  "title": "Roxy",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3445720",
+    "imdb": "tt1852565"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 36
+}

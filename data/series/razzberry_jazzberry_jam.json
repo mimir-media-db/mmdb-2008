@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_razzberry_jazzberry_jam",
+  "title": "Razzberry Jazzberry Jam",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7299687",
+    "imdb": "tt1468273",
+    "tmdb": 16221
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
