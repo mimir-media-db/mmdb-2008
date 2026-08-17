@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_blueberry_nights_2008",
+  "title": "My Blueberry Nights",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q737650",
+    "imdb": "tt0765120",
+    "tmdb": 1989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-03",
+  "runtime_minutes": 95
+}

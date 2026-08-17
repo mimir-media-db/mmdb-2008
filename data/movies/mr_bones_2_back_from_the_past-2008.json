@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_bones_2_back_from_the_past_2008",
+  "title": "Mr. Bones 2: Back from the Past",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6929374",
+    "imdb": "tt0995857",
+    "tmdb": 30245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-13"
+}

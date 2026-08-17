@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mate_ta_love_helare_2008",
+  "title": "Mate Ta Love Helare",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6786343",
+    "imdb": "tt1437855",
+    "tmdb": 1018201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

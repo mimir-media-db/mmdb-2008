@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mawson_life_and_death_in_antarctica_2008",
+  "title": "Mawson - Life and Death in Antarctica",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121809379",
+    "imdb": "tt1145531",
+    "tmdb": 100022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

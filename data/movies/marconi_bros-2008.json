@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marconi_bros_2008",
+  "title": "The Marconi Bros.",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7750298",
+    "imdb": "tt0485675",
+    "tmdb": 22009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

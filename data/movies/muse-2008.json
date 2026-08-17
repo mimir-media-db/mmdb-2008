@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muse_2008",
+  "title": "The Muse",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4379045",
+    "imdb": "tt1120908",
+    "tmdb": 282553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-22",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morrison_krijgt_een_zusje_2008",
+  "title": "Morrison krijgt een zusje",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2000868",
+    "imdb": "tt1153113",
+    "tmdb": 45789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-23",
+  "runtime_minutes": 72
+}

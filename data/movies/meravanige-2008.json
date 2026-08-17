@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meravanige_2008",
+  "title": "Meravanige",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6817966",
+    "imdb": "tt14253714",
+    "tmdb": 1657336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

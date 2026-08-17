@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maggie_in_wonderland_2008",
+  "title": "Maggie in Wonderland",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10575242",
+    "imdb": "tt1225681",
+    "tmdb": 442548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 72
+}

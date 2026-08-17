@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_moosgeschichten_2008",
+  "title": "Moosgeschichten",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23652737",
+    "imdb": "tt1434934"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-16"
+}

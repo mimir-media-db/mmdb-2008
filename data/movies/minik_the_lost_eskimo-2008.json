@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_minik_the_lost_eskimo_2008",
+  "title": "Minik, the Lost Eskimo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14379387",
+    "imdb": "tt1253601"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-31"
+}

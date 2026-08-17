@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meu_nome_nao_e_johnny_2008",
+  "title": "Meu Nome Não É Johnny",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6825594",
+    "imdb": "tt1092016",
+    "tmdb": 17358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-04",
+  "runtime_minutes": 118
+}

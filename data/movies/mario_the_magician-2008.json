@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mario_the_magician_2008",
+  "title": "Mario the Magician",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137821344",
+    "imdb": "tt0830924",
+    "tmdb": 255347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

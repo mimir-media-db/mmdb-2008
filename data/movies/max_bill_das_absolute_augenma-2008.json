@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_bill_das_absolute_augenma_2008",
+  "title": "Max Bill – Das absolute Augenmaß",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32868665",
+    "imdb": "tt1404020",
+    "tmdb": 194672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

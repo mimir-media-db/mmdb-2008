@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marbles_2008",
+  "title": "Marbles",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33108682",
+    "imdb": "tt1408031",
+    "tmdb": 89277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-01",
+  "runtime_minutes": 90
+}

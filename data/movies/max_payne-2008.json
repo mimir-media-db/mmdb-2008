@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_payne_2008",
+  "title": "Max Payne",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1165314",
+    "imdb": "tt0467197",
+    "tmdb": 13051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-17",
+  "runtime_minutes": 100
+}

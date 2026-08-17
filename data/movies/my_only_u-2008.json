@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_only_u_2008",
+  "title": "My Only Ü",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6946208",
+    "imdb": "tt1302017",
+    "tmdb": 25064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mum_deaw_2008",
+  "title": "Mum Deaw",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13023301",
+    "imdb": "tt3204242",
+    "tmdb": 238859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 108
+}

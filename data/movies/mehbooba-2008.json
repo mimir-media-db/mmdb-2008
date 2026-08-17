@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mehbooba_2008",
+  "title": "Mehbooba",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6809263",
+    "imdb": "tt1234250",
+    "tmdb": 277615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

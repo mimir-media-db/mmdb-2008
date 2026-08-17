@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mummy_tomb_of_the_dragon_emperor_2008",
+  "title": "The Mummy: Tomb of the Dragon Emperor",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q240713",
+    "imdb": "tt0859163",
+    "tmdb": 1735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-24",
+  "runtime_minutes": 112
+}

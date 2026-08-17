@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_at_the_bottom_of_the_well_2008",
+  "title": "The moon at the bottom of the well",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96899737",
+    "imdb": "tt1343749",
+    "tmdb": 78025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-08",
+  "runtime_minutes": 121
+}

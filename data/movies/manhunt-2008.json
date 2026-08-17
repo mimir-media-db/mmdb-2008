@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manhunt_2008",
+  "title": "Manhunt",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1755118",
+    "imdb": "tt1054115",
+    "tmdb": 11927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-11",
+  "runtime_minutes": 78
+}

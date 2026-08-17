@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dear_enemy_2008",
+  "title": "My Dear Enemy",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945241",
+    "imdb": "tt1330205",
+    "tmdb": 19482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 123
+}

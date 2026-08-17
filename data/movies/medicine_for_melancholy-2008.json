@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_medicine_for_melancholy_2008",
+  "title": "Medicine for Melancholy",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6806762",
+    "imdb": "tt1133989",
+    "tmdb": 24885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-07",
+  "runtime_minutes": 88
+}
