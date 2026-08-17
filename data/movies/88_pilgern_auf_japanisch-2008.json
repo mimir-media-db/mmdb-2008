@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_88_pilgern_auf_japanisch_2008",
+  "title": "88 - Pilgern auf Japanisch",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42887545",
+    "imdb": "tt1308718",
+    "tmdb": 97934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-23",
+  "runtime_minutes": 88
+}
