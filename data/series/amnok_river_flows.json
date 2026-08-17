@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amnok_river_flows",
+  "title": "Amnok River Flows",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18203678",
+    "imdb": "tt1371592",
+    "tmdb": 78011
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

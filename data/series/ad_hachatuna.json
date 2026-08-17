@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ad_hachatuna",
+  "title": "Ad Hachatuna",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q12410200",
+    "imdb": "tt6287244",
+    "tmdb": 255804
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_alma_legal",
+  "title": "Alma legal",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5669591",
+    "imdb": "tt1217222",
+    "tmdb": 313855
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

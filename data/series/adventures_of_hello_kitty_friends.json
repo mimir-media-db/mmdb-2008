@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adventures_of_hello_kitty_friends",
+  "title": "The Adventures of Hello Kitty & Friends",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2912551",
+    "imdb": "tt3869396",
+    "tmdb": 7163
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

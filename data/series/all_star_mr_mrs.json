@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_star_mr_mrs",
+  "title": "All Star Mr & Mrs",
+  "start_year": 2008,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16824837",
+    "imdb": "tt1219862",
+    "tmdb": 28985
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 73
+}

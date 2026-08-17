@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_atom_tv",
+  "title": "Atom TV",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q20313188",
+    "imdb": "tt1381421",
+    "tmdb": 113296
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}
