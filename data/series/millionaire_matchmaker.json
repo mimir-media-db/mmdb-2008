@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_millionaire_matchmaker",
+  "title": "Millionaire Matchmaker",
+  "start_year": 2008,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6859832",
+    "imdb": "tt1024167",
+    "tmdb": 7077
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 106
+}

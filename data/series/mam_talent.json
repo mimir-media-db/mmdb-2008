@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mam_talent",
+  "title": "Mam talent!",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6745239",
+    "imdb": "tt3895796",
+    "tmdb": 25767
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mighty_jungle",
+  "title": "The Mighty Jungle",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7751372",
+    "imdb": "tt1372558",
+    "tmdb": 31314
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 46
+}

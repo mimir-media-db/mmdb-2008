@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mentalist",
+  "title": "The Mentalist",
+  "start_year": 2008,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q204228",
+    "imdb": "tt1196946",
+    "tmdb": 5920
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 151
+}

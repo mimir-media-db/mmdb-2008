@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mordkommission_istanbul",
+  "title": "Mordkommission Istanbul",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1947456",
+    "imdb": "tt1593539",
+    "tmdb": 41015
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}
