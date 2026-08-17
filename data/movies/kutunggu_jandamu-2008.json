@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kutunggu_jandamu_2008",
+  "title": "Kutunggu Jandamu",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12492685",
+    "imdb": "tt1308965",
+    "tmdb": 515272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-26",
+  "runtime_minutes": 86
+}

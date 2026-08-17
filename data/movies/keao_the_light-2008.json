@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keao_the_light_2008",
+  "title": "Keao (The Light)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72881862",
+    "imdb": "tt1378710",
+    "tmdb": 979657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 10
+}

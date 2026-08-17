@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kimi_ni_todoku_koe_2008",
+  "title": "Kimi ni todoku koe",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11264967",
+    "imdb": "tt9099702",
+    "tmdb": 616047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

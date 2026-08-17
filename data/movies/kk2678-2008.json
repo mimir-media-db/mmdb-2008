@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_kk2678_2008",
+  "title": "KK-2678",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55286121"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

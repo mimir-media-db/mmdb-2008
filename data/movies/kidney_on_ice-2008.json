@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kidney_on_ice_2008",
+  "title": "Kidney on Ice",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76450269"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 52
+}

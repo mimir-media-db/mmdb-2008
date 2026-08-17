@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kung_fu_hiphop_2008",
+  "title": "Kung Fu Hip-Hop",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16691572",
+    "imdb": "tt1287843",
+    "tmdb": 45250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
