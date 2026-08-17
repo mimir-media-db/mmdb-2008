@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_0_1_0_2008",
+  "title": "0 1 0",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9127812",
+    "imdb": "tt1277693",
+    "tmdb": 62299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-14"
+}
