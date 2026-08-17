@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_in_appletown_2008",
+  "title": "Adventures in Appletown",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3178291",
+    "imdb": "tt1133933",
+    "tmdb": 178002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-12",
+  "runtime_minutes": 93
+}

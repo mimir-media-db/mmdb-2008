@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anatomy_of_gag_2008",
+  "title": "The Anatomy of Gag",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9150766",
+    "imdb": "tt1327694",
+    "tmdb": 1309405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 20
+}

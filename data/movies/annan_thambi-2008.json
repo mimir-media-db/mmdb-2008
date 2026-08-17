@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_annan_thambi_2008",
+  "title": "Annan Thambi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1518840",
+    "imdb": "tt1305879",
+    "tmdb": 234586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-17"
+}

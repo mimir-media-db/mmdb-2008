@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_accidental_gangster_and_the_mistaken_courtesan_2008",
+  "title": "The Accidental Gangster and the Mistaken Courtesan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7712207",
+    "imdb": "tt1430633",
+    "tmdb": 31184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-03",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_african_twintowers_2008",
+  "title": "The African Twintowers",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41653227",
+    "imdb": "tt1418267",
+    "tmdb": 259329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

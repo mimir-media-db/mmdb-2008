@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_academy_of_doom_2008",
+  "title": "Academy of Doom",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33730493",
+    "imdb": "tt0814397",
+    "tmdb": 29774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

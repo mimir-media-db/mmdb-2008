@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_or_demon_2008",
+  "title": "Angel or Demon",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16632247",
+    "imdb": "tt3005166",
+    "tmdb": 584662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

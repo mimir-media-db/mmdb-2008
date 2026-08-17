@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_america_betrayed_2008",
+  "title": "America Betrayed",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59725606",
+    "imdb": "tt1268175",
+    "tmdb": 40018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

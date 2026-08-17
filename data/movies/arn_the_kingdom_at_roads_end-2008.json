@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arn_the_kingdom_at_roads_end_2008",
+  "title": "Arn – The Kingdom at Road's End",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4069758",
+    "imdb": "tt0950739",
+    "tmdb": 13522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-22",
+  "runtime_minutes": 128
+}

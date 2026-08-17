@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_art_of_negative_thinking_2008",
+  "title": "The Art of Negative Thinking",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q909546",
+    "imdb": "tt0945356",
+    "tmdb": 12167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-18",
+  "runtime_minutes": 79
+}

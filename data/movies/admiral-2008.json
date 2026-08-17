@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_admiral_2008",
+  "title": "The Admiral",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q358985",
+    "imdb": "tt1101026",
+    "tmdb": 13506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-22",
+  "runtime_minutes": 120
+}

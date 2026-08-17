@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_air_india_182_2008",
+  "title": "Air India 182",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18639411",
+    "imdb": "tt1310359",
+    "tmdb": 160836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

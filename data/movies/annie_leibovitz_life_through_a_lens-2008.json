@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_annie_leibovitz_life_through_a_lens_2008",
+  "title": "Annie Leibovitz: Life Through a Lens",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11284437",
+    "imdb": "tt0887304",
+    "tmdb": 49255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

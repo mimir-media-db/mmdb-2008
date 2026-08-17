@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avalanche_2008",
+  "title": "Avalanche",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2873237",
+    "imdb": "tt1206489",
+    "tmdb": 151561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-19",
+  "runtime_minutes": 82
+}
