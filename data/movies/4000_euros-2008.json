@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4000_euros_2008",
+  "title": "4.000 euros",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5652302",
+    "imdb": "tt1312938",
+    "tmdb": 323436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-26",
+  "runtime_minutes": 100
+}
