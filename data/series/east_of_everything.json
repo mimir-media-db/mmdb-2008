@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_east_of_everything",
+  "title": "East of Everything",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5329766",
+    "imdb": "tt1095324",
+    "tmdb": 14867
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

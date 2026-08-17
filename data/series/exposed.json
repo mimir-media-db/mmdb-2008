@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_exposed",
+  "title": "Exposed",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q12407610",
+    "imdb": "tt1789282",
+    "tmdb": 256670
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 160
+}
