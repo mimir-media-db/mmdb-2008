@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flame_citron_2008",
+  "title": "Flame & Citron",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q682574",
+    "imdb": "tt0920458",
+    "tmdb": 8883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-28",
+  "runtime_minutes": 136
+}

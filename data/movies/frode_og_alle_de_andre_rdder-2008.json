@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frode_og_alle_de_andre_rdder_2008",
+  "title": "Frode og alle de andre rødder",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3743976",
+    "imdb": "tt1105728",
+    "tmdb": 21278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-08",
+  "runtime_minutes": 80
+}

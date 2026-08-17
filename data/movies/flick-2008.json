@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flick_2008",
+  "title": "Flick",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8563771",
+    "imdb": "tt0950749",
+    "tmdb": 26772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 92
+}

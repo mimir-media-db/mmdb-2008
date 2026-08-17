@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ferragosto_a_pezzi_2008",
+  "title": "Ferragosto a pezzi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15918651",
+    "imdb": "tt3504574"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

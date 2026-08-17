@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faded_memories_2008",
+  "title": "Faded Memories",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76336427",
+    "imdb": "tt1092001",
+    "tmdb": 56013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

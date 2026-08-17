@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fking_different_tel_aviv_2008",
+  "title": "F**king Different Tel Aviv",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49982436",
+    "imdb": "tt1362076",
+    "tmdb": 44319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

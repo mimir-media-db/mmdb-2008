@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_full_circle_2008",
+  "title": "Full Circle",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5507996"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-13"
+}

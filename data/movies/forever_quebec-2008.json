@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forever_quebec_2008",
+  "title": "Forever Quebec",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105559453",
+    "imdb": "tt2047760",
+    "tmdb": 1337072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

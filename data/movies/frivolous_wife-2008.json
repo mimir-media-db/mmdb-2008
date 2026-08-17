@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frivolous_wife_2008",
+  "title": "Frivolous Wife",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255665",
+    "imdb": "tt1240955",
+    "tmdb": 57140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

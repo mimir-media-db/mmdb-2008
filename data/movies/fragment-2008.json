@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fragment_2008",
+  "title": "Fragment",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600818",
+    "imdb": "tt0973836",
+    "tmdb": 48668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
