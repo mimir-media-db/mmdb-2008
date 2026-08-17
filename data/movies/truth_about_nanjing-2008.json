@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_about_nanjing_2008",
+  "title": "The Truth about Nanjing",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q715622",
+    "imdb": "tt2002738",
+    "tmdb": 1725467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

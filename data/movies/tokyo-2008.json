@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_2008",
+  "title": "Tokyo!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q485759",
+    "imdb": "tt0976060",
+    "tmdb": 8938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 107
+}

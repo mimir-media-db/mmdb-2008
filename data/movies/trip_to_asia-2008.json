@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trip_to_asia_2008",
+  "title": "Trip to Asia",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2453907",
+    "imdb": "tt0497990",
+    "tmdb": 6467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 108
+}

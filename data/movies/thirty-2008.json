@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thirty_2008",
+  "title": "Thirty",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3519449",
+    "imdb": "tt9345114",
+    "tmdb": 878744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

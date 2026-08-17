@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tulpan_2008",
+  "title": "Tulpan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q584029",
+    "imdb": "tt0436854",
+    "tmdb": 8939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

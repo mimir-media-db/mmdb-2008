@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tre_lire_primo_giorno_2008",
+  "title": "Tre lire primo giorno",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3998125",
+    "imdb": "tt1346858",
+    "tmdb": 1296822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}

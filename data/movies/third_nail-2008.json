@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_third_nail_2008",
+  "title": "The Third Nail",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q429835",
+    "imdb": "tt0482613",
+    "tmdb": 17242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 88
+}

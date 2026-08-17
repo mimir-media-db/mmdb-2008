@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiro_en_la_cabeza_bullet_in_the_head_2008",
+  "title": "Tiro en la cabeza (Bullet in the Head)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549090",
+    "imdb": "tt1198410",
+    "tmdb": 28137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}
