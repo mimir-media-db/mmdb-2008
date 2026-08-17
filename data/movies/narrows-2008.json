@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_narrows_2008",
+  "title": "The Narrows",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2368575",
+    "imdb": "tt1008010",
+    "tmdb": 24567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 106
+}

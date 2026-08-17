@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nohit_norun_summer_2008",
+  "title": "A No-Hit No-Run Summer",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1115830",
+    "imdb": "tt1202539",
+    "tmdb": 65663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 104
+}

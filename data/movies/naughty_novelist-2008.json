@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naughty_novelist_2008",
+  "title": "Naughty Novelist",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3337150",
+    "imdb": "tt1281857",
+    "tmdb": 398883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

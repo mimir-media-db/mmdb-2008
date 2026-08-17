@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nights_and_weekends_2008",
+  "title": "Nights and Weekends",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7034012",
+    "imdb": "tt1186248",
+    "tmdb": 48204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
