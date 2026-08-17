@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_restraint_2008",
+  "title": "Restraint",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2386658",
+    "imdb": "tt0441782",
+    "tmdb": 14215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

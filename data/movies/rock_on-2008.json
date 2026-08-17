@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_on_2008",
+  "title": "Rock On!!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3437772",
+    "imdb": "tt1230165",
+    "tmdb": 19672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

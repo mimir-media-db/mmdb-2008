@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_road_to_mecca_the_journey_of_muhammad_asad_2008",
+  "title": "A Road to Mecca - The Journey of Muhammad Asad",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1197953",
+    "imdb": "tt1293660",
+    "tmdb": 294480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 92
+}

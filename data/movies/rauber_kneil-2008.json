@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rauber_kneil_2008",
+  "title": "Räuber Kneißl",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q544208",
+    "imdb": "tt1151827",
+    "tmdb": 12523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 114
+}
