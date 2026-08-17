@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_alone_in_paris_2008",
+  "title": "2 Alone in Paris",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3480756",
+    "imdb": "tt1077097",
+    "tmdb": 13741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 93
+}

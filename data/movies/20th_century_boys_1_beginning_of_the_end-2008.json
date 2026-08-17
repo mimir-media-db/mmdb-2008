@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_20th_century_boys_1_beginning_of_the_end_2008",
+  "title": "20th Century Boys 1: Beginning of the End",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2814791",
+    "imdb": "tt1155705",
+    "tmdb": 36683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 144
+}
