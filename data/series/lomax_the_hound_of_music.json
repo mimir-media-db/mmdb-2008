@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lomax_the_hound_of_music",
+  "title": "Lomax, the Hound of Music",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q16961139",
+    "imdb": "tt1519554",
+    "tmdb": 17540
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

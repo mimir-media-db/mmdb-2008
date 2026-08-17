@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lalola",
+  "title": "LaLola",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3206247",
+    "imdb": "tt1250896",
+    "tmdb": 7385
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 85
+}

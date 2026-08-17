@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lab_rats_challenge",
+  "title": "Lab Rats Challenge",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6466650",
+    "imdb": "tt1804894"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 260
+}

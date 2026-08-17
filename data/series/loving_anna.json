@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_loving_anna",
+  "title": "Loving Anna",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6647645",
+    "imdb": "tt2314713",
+    "tmdb": 105361
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lokomoko",
+  "title": "Lokomoko",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6668725",
+    "imdb": "tt4210456"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 250
+}

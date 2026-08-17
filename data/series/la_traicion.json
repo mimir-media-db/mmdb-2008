@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_traicion",
+  "title": "La Traición",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q650861",
+    "imdb": "tt1228573",
+    "tmdb": 133031
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 106
+}

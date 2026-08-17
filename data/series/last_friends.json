@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_friends",
+  "title": "Last Friends",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1316466",
+    "imdb": "tt1200618",
+    "tmdb": 7815
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

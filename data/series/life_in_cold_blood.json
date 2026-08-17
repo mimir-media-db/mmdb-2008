@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_in_cold_blood",
+  "title": "Life in Cold Blood",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2947792",
+    "imdb": "tt1181716",
+    "tmdb": 1236
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

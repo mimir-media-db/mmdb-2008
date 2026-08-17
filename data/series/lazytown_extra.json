@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lazytown_extra",
+  "title": "LazyTown Extra",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3828226",
+    "imdb": "tt1394003",
+    "tmdb": 213586
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

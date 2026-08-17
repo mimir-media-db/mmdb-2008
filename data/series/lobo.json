@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lobo",
+  "title": "Lobo",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3551382",
+    "imdb": "tt1168411",
+    "tmdb": 12787
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 118
+}

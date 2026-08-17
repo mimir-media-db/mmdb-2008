@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lily_allen_and_friends",
+  "title": "Lily Allen and Friends",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3446704",
+    "imdb": "tt1186339",
+    "tmdb": 7076
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

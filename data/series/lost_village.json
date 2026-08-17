@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_village",
+  "title": "A Lost Village",
+  "start_year": 2007,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q12220663",
+    "imdb": "tt2110659",
+    "tmdb": 84781
+  },
+  "last_updated": "2026-08-17"
+}
