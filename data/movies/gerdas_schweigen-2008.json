@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gerdas_schweigen_2008",
+  "title": "Gerdas Schweigen",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1511040",
+    "imdb": "tt1266569",
+    "tmdb": 583564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-06",
+  "runtime_minutes": 92
+}

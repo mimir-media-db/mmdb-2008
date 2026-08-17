@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gunde_jhallumandi_2008",
+  "title": "Gunde Jhallumandi",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11702900",
+    "imdb": "tt1606231",
+    "tmdb": 927586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-12"
+}

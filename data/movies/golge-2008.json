@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golge_2008",
+  "title": "Gölge",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25480394",
+    "imdb": "tt1385906",
+    "tmdb": 552819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

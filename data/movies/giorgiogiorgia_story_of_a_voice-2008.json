@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giorgiogiorgia_story_of_a_voice_2008",
+  "title": "Giorgio/Giorgia - Story Of a Voice",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48809013",
+    "imdb": "tt7767500",
+    "tmdb": 603707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 52
+}

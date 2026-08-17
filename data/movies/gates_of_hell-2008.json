@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gates_of_hell_2008",
+  "title": "The Gates Of Hell",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600199",
+    "imdb": "tt1191114",
+    "tmdb": 24132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 78
+}

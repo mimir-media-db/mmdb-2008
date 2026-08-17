@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_cartoonist_the_comic_crusade_of_jack_chick_2008",
+  "title": "God's Cartoonist: The Comic Crusade of Jack Chick",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108801753",
+    "imdb": "tt1236451",
+    "tmdb": 26897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 77
+}

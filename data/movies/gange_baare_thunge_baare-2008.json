@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gange_baare_thunge_baare_2008",
+  "title": "Gange Baare Thunge Baare",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13159037",
+    "imdb": "tt7624228",
+    "tmdb": 1281458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-02"
+}

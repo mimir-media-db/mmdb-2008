@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_smart_2008",
+  "title": "Get Smart",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q570652",
+    "imdb": "tt0425061",
+    "tmdb": 11665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-19",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gekijo_ban_gegege_no_kitaro_nippon_bakuretsu_2008",
+  "title": "Gekijô ban Gegege no Kitarô: Nippon bakuretsu",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10899320",
+    "imdb": "tt1344107",
+    "tmdb": 450999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

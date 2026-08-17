@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_performance_2008",
+  "title": "The Great Performance",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113381482",
+    "imdb": "tt1320300",
+    "tmdb": 555114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-08",
+  "runtime_minutes": 85
+}

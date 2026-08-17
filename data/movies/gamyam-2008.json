@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gamyam_2008",
+  "title": "Gamyam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5520428",
+    "imdb": "tt1583256",
+    "tmdb": 80994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-29"
+}

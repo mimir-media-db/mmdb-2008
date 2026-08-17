@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gente_de_mala_calidad_2008",
+  "title": "Gente de mala calidad",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5877247",
+    "imdb": "tt1047870",
+    "tmdb": 83275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-11",
+  "runtime_minutes": 90
+}

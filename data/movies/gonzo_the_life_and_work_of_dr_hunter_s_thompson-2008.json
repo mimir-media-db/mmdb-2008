@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gonzo_the_life_and_work_of_dr_hunter_s_thompson_2008",
+  "title": "Gonzo: The Life and Work of Dr. Hunter S. Thompson",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2091211",
+    "imdb": "tt0479468",
+    "tmdb": 13003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-20",
+  "runtime_minutes": 120
+}

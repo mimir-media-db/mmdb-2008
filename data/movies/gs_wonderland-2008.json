@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gs_wonderland_2008",
+  "title": "GS Wonderland",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11201948",
+    "imdb": "tt1339300",
+    "tmdb": 320689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

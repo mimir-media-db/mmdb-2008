@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gypsies_of_the_sulu_sea_2008",
+  "title": "Gypsies of the Sulu Sea",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495481"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 11
+}

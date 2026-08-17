@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_smile_or_the_odessa_story_2008",
+  "title": "God's Smile or The Odessa Story",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4474887",
+    "imdb": "tt1264881",
+    "tmdb": 71389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-12",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grand_hotel_2008",
+  "title": "Grand Hotel",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9358916",
+    "imdb": "tt1267831",
+    "tmdb": 68793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-14",
+  "runtime_minutes": 101
+}
