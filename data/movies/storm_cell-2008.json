@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_storm_cell_2008",
+  "title": "Storm Cell",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2444230",
+    "imdb": "tt0983922",
+    "tmdb": 16200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strictly_sexual_2008",
+  "title": "Strictly Sexual",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3500400",
+    "imdb": "tt0494277",
+    "tmdb": 13808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

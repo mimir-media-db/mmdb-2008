@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_men_2008",
+  "title": "Soul Men",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1122149",
+    "imdb": "tt1111948",
+    "tmdb": 14655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

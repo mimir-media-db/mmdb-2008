@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stag_night_2008",
+  "title": "Stag Night",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4368562",
+    "imdb": "tt1082599",
+    "tmdb": 24421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

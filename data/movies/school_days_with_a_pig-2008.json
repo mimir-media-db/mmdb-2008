@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_school_days_with_a_pig_2008",
+  "title": "School Days with a Pig",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5968414",
+    "imdb": "tt1293094",
+    "tmdb": 197077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salto_mortale_2008",
+  "title": "Salto Mortale",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2205871",
+    "imdb": "tt8870896",
+    "tmdb": 325414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 10
+}

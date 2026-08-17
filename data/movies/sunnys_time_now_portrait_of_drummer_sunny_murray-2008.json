@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunnys_time_now_portrait_of_drummer_sunny_murray_2008",
+  "title": "Sunny’s Time Now - Portrait of Drummer Sunny Murray",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2366608",
+    "imdb": "tt1446849",
+    "tmdb": 250179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 108
+}

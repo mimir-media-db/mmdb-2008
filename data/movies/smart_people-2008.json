@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smart_people_2008",
+  "title": "Smart People",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1437261",
+    "imdb": "tt0858479",
+    "tmdb": 12890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}

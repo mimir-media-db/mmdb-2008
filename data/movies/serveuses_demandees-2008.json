@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_serveuses_demandees_2008",
+  "title": "Serveuses demandées",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3480048",
+    "imdb": "tt0992928",
+    "tmdb": 36726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

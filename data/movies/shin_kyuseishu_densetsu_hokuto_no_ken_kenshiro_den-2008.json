@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shin_kyuseishu_densetsu_hokuto_no_ken_kenshiro_den_2008",
+  "title": "Shin Kyûseishu densetsu Hokuto no Ken - Kenshirô den",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4154888",
+    "imdb": "tt0456978",
+    "tmdb": 105231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

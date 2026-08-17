@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stolen_kosovo_2008",
+  "title": "Stolen Kosovo",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3498177",
+    "imdb": "tt3720926",
+    "tmdb": 307674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 57
+}

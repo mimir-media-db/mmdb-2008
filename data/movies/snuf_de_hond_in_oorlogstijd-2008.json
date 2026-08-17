@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snuf_de_hond_in_oorlogstijd_2008",
+  "title": "Snuf de hond in oorlogstijd",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2072880",
+    "imdb": "tt1252338",
+    "tmdb": 20141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

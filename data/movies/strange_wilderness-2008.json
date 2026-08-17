@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strange_wilderness_2008",
+  "title": "Strange Wilderness",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q187651",
+    "imdb": "tt0489282",
+    "tmdb": 14220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 82
+}

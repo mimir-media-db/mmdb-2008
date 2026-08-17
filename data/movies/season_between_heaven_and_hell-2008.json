@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_season_between_heaven_and_hell_2008",
+  "title": "A Season Between Heaven and Hell",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4659372",
+    "imdb": "tt11764892",
+    "tmdb": 1073761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

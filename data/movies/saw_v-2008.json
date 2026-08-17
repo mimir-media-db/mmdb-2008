@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saw_v_2008",
+  "title": "Saw V",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q326177",
+    "imdb": "tt1132626",
+    "tmdb": 11917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 92
+}

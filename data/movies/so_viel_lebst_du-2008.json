@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_viel_lebst_du_2008",
+  "title": "So viel lebst du",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2296262",
+    "imdb": "tt1296433",
+    "tmdb": 476141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 75
+}

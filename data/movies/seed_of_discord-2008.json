@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seed_of_discord_2008",
+  "title": "The Seed of Discord",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q978849",
+    "imdb": "tt1275799",
+    "tmdb": 12426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

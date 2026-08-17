@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swamp_devil_2008",
+  "title": "Swamp Devil",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3224753",
+    "imdb": "tt1105742",
+    "tmdb": 56109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

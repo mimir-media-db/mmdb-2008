@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spinnin_2008",
+  "title": "Spinnin'",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6133266",
+    "imdb": "tt1132271",
+    "tmdb": 69747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 110
+}

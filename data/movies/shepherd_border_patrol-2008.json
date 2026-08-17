@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shepherd_border_patrol_2008",
+  "title": "The Shepherd: Border Patrol",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q477593",
+    "imdb": "tt0827521",
+    "tmdb": 24411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 95
+}
