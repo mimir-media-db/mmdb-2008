@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_is_in_the_factory_2008",
+  "title": "The Queen is in the Factory",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6076906",
+    "imdb": "tt10821456",
+    "tmdb": 775091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
