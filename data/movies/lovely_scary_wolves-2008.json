@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lovely_scary_wolves_2008",
+  "title": "Lovely Scary Wolves",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600202",
+    "imdb": "tt15197112",
+    "tmdb": 977145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

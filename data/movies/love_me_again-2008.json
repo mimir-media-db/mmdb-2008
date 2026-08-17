@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_me_again_2008",
+  "title": "Love Me Again",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12967391",
+    "imdb": "tt1333093",
+    "tmdb": 71693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_amants_cinema_2008",
+  "title": "Les Amants cinéma",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59641314",
+    "imdb": "tt1381026",
+    "tmdb": 625868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 66
+}

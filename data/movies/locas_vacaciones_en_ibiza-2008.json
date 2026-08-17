@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_locas_vacaciones_en_ibiza_2008",
+  "title": "Locas vacaciones en Ibiza",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138206905",
+    "imdb": "tt0388425",
+    "tmdb": 302713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-08",
+  "runtime_minutes": 105
+}

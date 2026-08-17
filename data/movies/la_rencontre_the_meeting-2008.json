@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_rencontre_the_meeting_2008",
+  "title": "La rencontre (The Meeting)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72881866"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 210
+}

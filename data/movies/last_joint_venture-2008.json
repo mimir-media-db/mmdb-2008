@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_joint_venture_2008",
+  "title": "The Last Joint Venture",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11965269",
+    "imdb": "tt1054116",
+    "tmdb": 13774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-29",
+  "runtime_minutes": 84
+}

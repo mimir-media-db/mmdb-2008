@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lalas_gun_2008",
+  "title": "Lala's Gun",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6480109",
+    "imdb": "tt1301262",
+    "tmdb": 263330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-24",
+  "runtime_minutes": 103
+}

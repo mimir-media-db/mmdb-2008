@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_petits_poucets_2008",
+  "title": "Les Petits Poucets",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597863",
+    "imdb": "tt0781455",
+    "tmdb": 459169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-02"
+}

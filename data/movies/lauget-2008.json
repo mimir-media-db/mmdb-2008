@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lauget_2008",
+  "title": "Lauget",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17414947",
+    "imdb": "tt1233211"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-06"
+}

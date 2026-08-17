@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_superagentes_nueva_generacion_2008",
+  "title": "Los superagentes, nueva generación",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11313673",
+    "imdb": "tt1254785",
+    "tmdb": 334577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

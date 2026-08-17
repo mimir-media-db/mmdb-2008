@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_queue_de_la_souris_2008",
+  "title": "La Queue de la souris",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133273047",
+    "imdb": "tt2071502",
+    "tmdb": 131013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 4
+}

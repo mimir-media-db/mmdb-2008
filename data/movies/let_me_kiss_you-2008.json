@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_me_kiss_you_2008",
+  "title": "Let Me Kiss You",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20076417",
+    "imdb": "tt3159442",
+    "tmdb": 163821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

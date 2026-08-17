@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lappel_au_secours_2008",
+  "title": "L'Appel au secours",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41616160",
+    "imdb": "tt1124404",
+    "tmdb": 321992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-06",
+  "runtime_minutes": 96
+}

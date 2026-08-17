@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lena_the_bride_of_ice_2008",
+  "title": "Lena: The Bride of Ice",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18915076",
+    "imdb": "tt0493265",
+    "tmdb": 652220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

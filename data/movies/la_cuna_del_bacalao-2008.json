@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_cuna_del_bacalao_2008",
+  "title": "La cuna del bacalao",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137834760",
+    "imdb": "tt9564458"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_the_time_of_cholera_2008",
+  "title": "Love in the Time of Cholera",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q849169",
+    "imdb": "tt0484740",
+    "tmdb": 6639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-21",
+  "runtime_minutes": 133
+}

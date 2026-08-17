@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_avventure_di_monella_e_la_sua_famiglia_2008",
+  "title": "Le Avventure di Monella e la sua famiglia",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140925474",
+    "imdb": "tt1660613",
+    "tmdb": 75573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}

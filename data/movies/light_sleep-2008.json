@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_sleep_2008",
+  "title": "A Light Sleep",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16175640",
+    "imdb": "tt1666821",
+    "tmdb": 17693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lonely_old_slogan_2008",
+  "title": "Lonely Old Slogan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q334589",
+    "imdb": "tt1122894",
+    "tmdb": 94122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-06",
+  "runtime_minutes": 89
+}

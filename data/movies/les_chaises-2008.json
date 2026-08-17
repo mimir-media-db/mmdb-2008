@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_chaises_2008",
+  "title": "Les Chaises",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55717096",
+    "imdb": "tt2543182",
+    "tmdb": 256871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 13
+}
