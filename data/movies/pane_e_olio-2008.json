@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pane_e_olio_2008",
+  "title": "Pane e olio",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590223",
+    "imdb": "tt9087524",
+    "tmdb": 457843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

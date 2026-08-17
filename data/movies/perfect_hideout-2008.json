@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_hideout_2008",
+  "title": "Perfect Hideout",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363750",
+    "imdb": "tt1082064",
+    "tmdb": 24350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pocong_vs_kuntilanak_2008",
+  "title": "Pocong vs Kuntilanak",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7206516",
+    "imdb": "tt1369688",
+    "tmdb": 670265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-06"
+}

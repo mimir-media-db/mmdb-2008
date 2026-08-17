@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_premabhishekam_2008",
+  "title": "Premabhishekam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7240205",
+    "imdb": "tt1575659",
+    "tmdb": 1221598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

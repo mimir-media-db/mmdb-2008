@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parents_2008",
+  "title": "Parents",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16424132",
+    "imdb": "tt0997062",
+    "tmdb": 72654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-02-29",
+  "runtime_minutes": 87
+}

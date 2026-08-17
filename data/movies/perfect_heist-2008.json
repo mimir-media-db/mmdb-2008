@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_heist_2008",
+  "title": "The Perfect Heist",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12308501",
+    "imdb": "tt0477812",
+    "tmdb": 44580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-21",
+  "runtime_minutes": 78
+}

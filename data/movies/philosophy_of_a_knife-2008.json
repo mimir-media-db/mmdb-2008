@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_philosophy_of_a_knife_2008",
+  "title": "Philosophy of a Knife",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3381240",
+    "imdb": "tt0961119",
+    "tmdb": 27284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-07-08",
+  "runtime_minutes": 247
+}

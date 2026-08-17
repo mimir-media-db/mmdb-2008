@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prison_girl_2008",
+  "title": "Prison Girl",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5442733",
+    "imdb": "tt1294998",
+    "tmdb": 296349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-19"
+}

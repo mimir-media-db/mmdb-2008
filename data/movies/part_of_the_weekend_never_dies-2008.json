@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_part_of_the_weekend_never_dies_2008",
+  "title": "Part of the Weekend Never Dies",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14046019",
+    "imdb": "tt1224448",
+    "tmdb": 38601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 60
+}

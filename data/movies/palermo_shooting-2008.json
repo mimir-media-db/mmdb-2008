@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_palermo_shooting_2008",
+  "title": "Palermo Shooting",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q703034",
+    "imdb": "tt1008017",
+    "tmdb": 8886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-24",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_place_to_live_the_story_of_triangle_square_2008",
+  "title": "A Place to Live: The Story of Triangle Square",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11450154",
+    "imdb": "tt1270107",
+    "tmdb": 580539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

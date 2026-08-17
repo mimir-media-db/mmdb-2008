@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_postcards_from_rome_2008",
+  "title": "Postcards from Rome",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130760734",
+    "imdb": "tt1414855",
+    "tmdb": 1014498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-31",
+  "runtime_minutes": 82
+}

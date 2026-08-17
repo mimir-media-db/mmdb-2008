@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pazhani_2008",
+  "title": "Pazhani",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7156981",
+    "imdb": "tt2063749",
+    "tmdb": 66230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

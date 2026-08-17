@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prodigal_sons_2008",
+  "title": "Prodigal Sons",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7247609",
+    "imdb": "tt1295068",
+    "tmdb": 46391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

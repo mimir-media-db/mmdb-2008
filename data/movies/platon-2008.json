@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_platon_2008",
+  "title": "Platon",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4364633",
+    "imdb": "tt1202532",
+    "tmdb": 71322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polaroides_urbanas_2008",
+  "title": "Polaróides Urbanas",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10350791",
+    "imdb": "tt0798732",
+    "tmdb": 156341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parthan_kanda_paralokam_2008",
+  "title": "Parthan Kanda Paralokam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7140216",
+    "imdb": "tt1506966",
+    "tmdb": 216346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pizza_und_marmelade_2008",
+  "title": "Pizza und Marmelade",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44434760",
+    "imdb": "tt1279478",
+    "tmdb": 290888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-21"
+}

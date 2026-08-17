@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_primal_doubt_2008",
+  "title": "Primal Doubt",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11320592",
+    "imdb": "tt1092028",
+    "tmdb": 85460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-05",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_passage_2008",
+  "title": "Passage",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7142454",
+    "imdb": "tt1048154",
+    "tmdb": 488414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

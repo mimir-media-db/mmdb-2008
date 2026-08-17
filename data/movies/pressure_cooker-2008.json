@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pressure_cooker_2008",
+  "title": "Pressure Cooker",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7241699",
+    "imdb": "tt1185833",
+    "tmdb": 43400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

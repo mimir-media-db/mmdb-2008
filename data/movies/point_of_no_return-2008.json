@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_point_of_no_return_2008",
+  "title": "A Point of No Return",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65326739",
+    "imdb": "tt30133238"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

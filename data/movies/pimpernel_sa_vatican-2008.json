@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pimpernel_sa_vatican_2008",
+  "title": "Pimpernel sa Vatican",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643414",
+    "imdb": "tt1640166",
+    "tmdb": 1554808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

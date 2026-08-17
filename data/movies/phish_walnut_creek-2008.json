@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phish_walnut_creek_2008",
+  "title": "Phish: Walnut Creek",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7186456",
+    "imdb": "tt1653705",
+    "tmdb": 64602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-08-05"
+}

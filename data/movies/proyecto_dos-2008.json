@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_proyecto_dos_2008",
+  "title": "Proyecto Dos",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7252911",
+    "imdb": "tt0791231",
+    "tmdb": 27433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
