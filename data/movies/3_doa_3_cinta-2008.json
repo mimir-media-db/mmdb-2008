@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_doa_3_cinta_2008",
+  "title": "3 Doa 3 Cinta",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12470375",
+    "imdb": "tt1619803",
+    "tmdb": 131702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-18",
+  "runtime_minutes": 110
+}
