@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gentlemen_officers_save_the_emperor_2008",
+  "title": "Gentlemen Officers: Save the Emperor",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1196940",
+    "imdb": "tt1126391",
+    "tmdb": 126149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 101
+}

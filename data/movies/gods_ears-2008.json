@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_ears_2008",
+  "title": "God's Ears",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5575685",
+    "imdb": "tt0822811",
+    "tmdb": 275279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

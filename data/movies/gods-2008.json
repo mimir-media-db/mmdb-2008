@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_2008",
+  "title": "Gods",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5807695",
+    "imdb": "tt1283896",
+    "tmdb": 12413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 91
+}

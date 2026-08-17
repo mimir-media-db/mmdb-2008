@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_game_for_girls_2008",
+  "title": "A Game for Girls",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1568171",
+    "imdb": "tt1143140",
+    "tmdb": 41167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 96
+}

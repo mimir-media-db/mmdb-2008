@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gigantes_de_valdes_2008",
+  "title": "Gigantes de Valdés",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5879427",
+    "imdb": "tt1017437",
+    "tmdb": 127316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 111
+}

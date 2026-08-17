@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_the_bad_the_weird_2008",
+  "title": "The Good, the Bad, the Weird",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q488947",
+    "imdb": "tt0901487",
+    "tmdb": 15067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 139
+}

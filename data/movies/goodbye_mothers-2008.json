@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_mothers_2008",
+  "title": "Goodbye Mothers",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2824432",
+    "imdb": "tt1300562",
+    "tmdb": 110930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 115
+}

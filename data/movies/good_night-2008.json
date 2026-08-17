@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_night_2008",
+  "title": "Good Night",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5582857",
+    "imdb": "tt1353170",
+    "tmdb": 16352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 30
+}

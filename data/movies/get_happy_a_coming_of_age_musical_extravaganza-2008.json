@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_get_happy_a_coming_of_age_musical_extravaganza_2008",
+  "title": "Get Happy: A Coming of Age Musical Extravaganza",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5553895",
+    "imdb": "tt1362413",
+    "tmdb": 682061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_graveyard_of_the_living_dead_2008",
+  "title": "Graveyard of the Living Dead",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1543964",
+    "imdb": "tt1437214",
+    "tmdb": 212511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}
