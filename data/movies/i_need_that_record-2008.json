@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_need_that_record_2008",
+  "title": "I Need That Record!",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23680641",
+    "imdb": "tt1274725",
+    "tmdb": 51522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-03",
+  "runtime_minutes": 78
+}

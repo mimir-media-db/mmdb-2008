@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_valley_of_elah_2008",
+  "title": "In the Valley of Elah",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126896",
+    "imdb": "tt0478134",
+    "tmdb": 6973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-03-06",
+  "runtime_minutes": 122
+}

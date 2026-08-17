@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ilha_dos_escravos_2008",
+  "title": "A Ilha dos Escravos",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21999953",
+    "imdb": "tt0487913",
+    "tmdb": 721049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

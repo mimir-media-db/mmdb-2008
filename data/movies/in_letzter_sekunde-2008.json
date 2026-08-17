@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_letzter_sekunde_2008",
+  "title": "In letzter Sekunde",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79052895",
+    "imdb": "tt1248231",
+    "tmdb": 11182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

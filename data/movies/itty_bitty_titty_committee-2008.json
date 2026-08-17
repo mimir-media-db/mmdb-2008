@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_itty_bitty_titty_committee_2008",
+  "title": "Itty Bitty Titty Committee",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1509644",
+    "imdb": "tt0496328",
+    "tmdb": 10520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-24",
+  "runtime_minutes": 87
+}

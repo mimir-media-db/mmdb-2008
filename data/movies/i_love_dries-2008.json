@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_dries_2008",
+  "title": "I Love Dries",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1956879",
+    "imdb": "tt1396479",
+    "tmdb": 73699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-20",
+  "runtime_minutes": 80
+}

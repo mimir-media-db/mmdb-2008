@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_indra_2008",
+  "title": "Indra",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18125989",
+    "imdb": "tt12189502",
+    "tmdb": 1502690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-05-25"
+}

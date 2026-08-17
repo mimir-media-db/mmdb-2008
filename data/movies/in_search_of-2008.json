@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_search_of_2008",
+  "title": "In Search Of",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6010624",
+    "imdb": "tt0482525",
+    "tmdb": 61704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-01"
+}

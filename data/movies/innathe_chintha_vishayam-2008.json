@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_innathe_chintha_vishayam_2008",
+  "title": "Innathe Chintha Vishayam",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6035291",
+    "imdb": "tt1217634",
+    "tmdb": 240542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-04-11"
+}

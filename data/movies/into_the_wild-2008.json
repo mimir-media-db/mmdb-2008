@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_wild_2008",
+  "title": "Into the Wild",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q269912",
+    "imdb": "tt0758758",
+    "tmdb": 5915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-09",
+  "runtime_minutes": 148
+}

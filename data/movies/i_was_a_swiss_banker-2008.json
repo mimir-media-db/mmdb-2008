@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_was_a_swiss_banker_2008",
+  "title": "I was a Swiss Banker",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1655324",
+    "imdb": "tt0969277",
+    "tmdb": 75943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-09-11",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_going_to_explode_2008",
+  "title": "I'm Going to Explode",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20077054",
+    "imdb": "tt1080857",
+    "tmdb": 86440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 106
+}

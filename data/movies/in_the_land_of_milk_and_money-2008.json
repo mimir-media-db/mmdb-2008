@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_land_of_milk_and_money_2008",
+  "title": "In the Land of Milk and Money",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130455602",
+    "imdb": "tt0405042",
+    "tmdb": 106464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-12-03",
+  "runtime_minutes": 89
+}

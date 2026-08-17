@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_imperfect_angels_5_2008",
+  "title": "Imperfect Angels 5",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92610567",
+    "imdb": "tt1623251"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 148
+}

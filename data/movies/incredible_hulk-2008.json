@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_incredible_hulk_2008",
+  "title": "The Incredible Hulk",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q466611",
+    "imdb": "tt0800080",
+    "tmdb": 1724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-06-13",
+  "runtime_minutes": 112
+}
