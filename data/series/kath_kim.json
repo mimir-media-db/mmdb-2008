@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kath_kim",
+  "title": "Kath & Kim",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3284289",
+    "imdb": "tt0948539",
+    "tmdb": 15131
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 17
+}

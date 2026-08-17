@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kablog",
+  "title": "Ka-Blog!",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q6343095",
+    "imdb": "tt2027740",
+    "tmdb": 32416
+  },
+  "last_updated": "2026-08-17"
+}

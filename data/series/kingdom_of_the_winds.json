@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kingdom_of_the_winds",
+  "title": "The Kingdom of The Winds",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q493035",
+    "imdb": "tt2819226",
+    "tmdb": 38932
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}
