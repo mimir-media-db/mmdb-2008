@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dea",
+  "title": "D.E.A.",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5204763",
+    "imdb": "tt1172988",
+    "tmdb": 154800
+  },
+  "last_updated": "2026-08-17"
+}
