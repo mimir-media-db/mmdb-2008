@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_que_vida_mas_triste",
+  "title": "Qué vida más triste",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3916298",
+    "imdb": "tt1534366",
+    "tmdb": 77351
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 178
+}
