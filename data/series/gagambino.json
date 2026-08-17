@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gagambino",
+  "title": "Gagambino",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5516791",
+    "imdb": "tt1250885",
+    "tmdb": 7004
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 90
+}

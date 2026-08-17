@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_get_squiggling",
+  "title": "Get Squiggling",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q612710",
+    "imdb": "tt6997354",
+    "tmdb": 244059
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 50
+}

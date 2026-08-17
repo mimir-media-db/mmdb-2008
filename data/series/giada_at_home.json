@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_giada_at_home",
+  "title": "Giada at Home",
+  "start_year": 2008,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5557951",
+    "imdb": "tt1443927",
+    "tmdb": 8051
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 215
+}

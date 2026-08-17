@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_adventures",
+  "title": "Ghost Adventures",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3243445",
+    "imdb": "tt1319900",
+    "tmdb": 17937
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 18,
+  "total_episodes": 202
+}

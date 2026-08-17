@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gemini_division",
+  "title": "Gemini Division",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5530649",
+    "imdb": "tt1261559",
+    "tmdb": 15530
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}
