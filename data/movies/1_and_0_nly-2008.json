@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1_and_0_nly_2008",
+  "title": "1 And 0 Nly",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599796",
+    "imdb": "tt1319553",
+    "tmdb": 693509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 84
+}
