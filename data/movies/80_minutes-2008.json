@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_80_minutes_2008",
+  "title": "80 Minutes",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q271311",
+    "imdb": "tt1119178",
+    "tmdb": 15068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 89
+}
