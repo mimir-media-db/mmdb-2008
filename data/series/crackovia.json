@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crackovia",
+  "title": "Crackòvia",
+  "start_year": 2008,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q2014249",
+    "imdb": "tt1288419",
+    "tmdb": 59142
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 341
+}

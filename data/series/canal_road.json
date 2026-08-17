@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_canal_road",
+  "title": "Canal Road",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5031015",
+    "imdb": "tt1087880",
+    "tmdb": 15275
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_capadocia",
+  "title": "Capadocia",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q858094",
+    "imdb": "tt1068899",
+    "tmdb": 31388
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

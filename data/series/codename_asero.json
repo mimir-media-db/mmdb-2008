@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_codename_asero",
+  "title": "Codename: Asero",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5140141",
+    "imdb": "tt1230181",
+    "tmdb": 7241
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 90
+}

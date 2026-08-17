@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_colocstv",
+  "title": "Colocs.tv",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2984101",
+    "imdb": "tt1585733"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

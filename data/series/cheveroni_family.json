@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cheveroni_family",
+  "title": "The Cheveroni Family",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60946053",
+    "imdb": "tt1846155"
+  },
+  "last_updated": "2026-08-17"
+}
