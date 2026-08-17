@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_herb_and_dorothy_2008",
+  "title": "Herb and Dorothy",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5733257",
+    "imdb": "tt1227929",
+    "tmdb": 37583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 87
+}

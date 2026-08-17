@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hell_purgatory_paradise_2008",
+  "title": "Hell, Purgatory, Paradise",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5710711",
+    "imdb": "tt4704766",
+    "tmdb": 1266004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

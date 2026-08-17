@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hats_off_2008",
+  "title": "Hats Off",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5681786",
+    "imdb": "tt1194127",
+    "tmdb": 297513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

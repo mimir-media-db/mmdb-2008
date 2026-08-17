@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hari_puttar_a_comedy_of_terrors_2008",
+  "title": "Hari Puttar: A Comedy of Terrors",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1585332",
+    "imdb": "tt1255873",
+    "tmdb": 383405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 90
+}

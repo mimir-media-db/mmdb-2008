@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_bunny_2008",
+  "title": "The House Bunny",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q466959",
+    "imdb": "tt0852713",
+    "tmdb": 12620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 97
+}

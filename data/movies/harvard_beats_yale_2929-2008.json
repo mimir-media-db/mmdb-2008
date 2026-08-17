@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_harvard_beats_yale_2929_2008",
+  "title": "Harvard Beats Yale 29-29",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5676278",
+    "imdb": "tt1286800",
+    "tmdb": 45852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

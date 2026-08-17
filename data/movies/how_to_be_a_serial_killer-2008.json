@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_be_a_serial_killer_2008",
+  "title": "How to Be a Serial Killer",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5918470",
+    "imdb": "tt1038971",
+    "tmdb": 23532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 91
+}

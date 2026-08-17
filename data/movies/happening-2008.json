@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happening_2008",
+  "title": "The Happening",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q681092",
+    "imdb": "tt0949731",
+    "tmdb": 8645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 91
+}

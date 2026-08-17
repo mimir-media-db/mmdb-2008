@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_school_musical_el_desafio_mexican_film_2008",
+  "title": "High School Musical: El Desafio (Mexican film)",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2636649",
+    "imdb": "tt35580689",
+    "tmdb": 347701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 100
+}

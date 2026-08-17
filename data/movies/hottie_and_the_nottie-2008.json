@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hottie_and_the_nottie_2008",
+  "title": "The Hottie and the Nottie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1585146",
+    "imdb": "tt0804492",
+    "tmdb": 63315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 91
+}

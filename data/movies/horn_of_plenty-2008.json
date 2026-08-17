@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horn_of_plenty_2008",
+  "title": "Horn of Plenty",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5824561",
+    "imdb": "tt1284978",
+    "tmdb": 24814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 99
+}

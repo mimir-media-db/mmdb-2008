@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_2008",
+  "title": "Hello",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4062658",
+    "imdb": "tt1087856",
+    "tmdb": 20365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 129
+}
