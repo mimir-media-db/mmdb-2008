@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombi_kampung_pisang_2008",
+  "title": "Zombi Kampung Pisang",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040634",
+    "imdb": "tt1172550",
+    "tmdb": 54996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

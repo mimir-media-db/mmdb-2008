@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zilleshah_2008",
+  "title": "Zill-e-Shah",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8071890",
+    "imdb": "tt1611223",
+    "tmdb": 1507733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-10-05"
+}

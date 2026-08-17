@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zarco_2008",
+  "title": "Zarco",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10394925",
+    "imdb": "tt2712282",
+    "tmdb": 614036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
