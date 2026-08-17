@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johnny_mad_dog_2008",
+  "title": "Johnny Mad Dog",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3182939",
+    "imdb": "tt1042424",
+    "tmdb": 8929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 98
+}

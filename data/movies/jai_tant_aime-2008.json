@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_tant_aime_2008",
+  "title": "J'ai tant aimé...",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3156611",
+    "imdb": "tt2870930",
+    "tmdb": 760583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

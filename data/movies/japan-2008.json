@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_japan_2008",
+  "title": "Japan",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6156469",
+    "imdb": "tt0469925",
+    "tmdb": 806381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_ne_suis_pas_morte_2008",
+  "title": "Je ne suis pas morte",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3163471",
+    "imdb": "tt1278381",
+    "tmdb": 309838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 190
+}

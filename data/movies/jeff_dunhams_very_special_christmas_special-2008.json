@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jeff_dunhams_very_special_christmas_special_2008",
+  "title": "Jeff Dunham's Very Special Christmas Special",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4489951",
+    "imdb": "tt1295909",
+    "tmdb": 14541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

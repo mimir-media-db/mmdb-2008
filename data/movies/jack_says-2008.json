@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_says_2008",
+  "title": "Jack Says",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6115019",
+    "imdb": "tt1031607",
+    "tmdb": 26281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01",
+  "runtime_minutes": 85
+}
