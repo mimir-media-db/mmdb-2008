@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ugly_melanie_2008",
+  "title": "Ugly Melanie",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q973623",
+    "imdb": "tt1132608",
+    "tmdb": 17630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-11-12",
+  "runtime_minutes": 93
+}

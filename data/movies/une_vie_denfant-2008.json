@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_une_vie_denfant_2008",
+  "title": "Une vie d'enfant",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16681953",
+    "imdb": "tt2288131"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}

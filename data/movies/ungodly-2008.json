@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ungodly_2008",
+  "title": "The Ungodly",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117794536",
+    "imdb": "tt0489318",
+    "tmdb": 21800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-28",
+  "runtime_minutes": 100
+}

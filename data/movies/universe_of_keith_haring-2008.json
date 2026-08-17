@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_universe_of_keith_haring_2008",
+  "title": "The Universe of Keith Haring",
+  "year": 2008,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7771603",
+    "imdb": "tt1204341",
+    "tmdb": 65275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2008-01-01"
+}
