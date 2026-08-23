@@ -15,5 +15,8 @@
     "children's television series",
     "television in Ireland"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "IE"
+  ]
 }

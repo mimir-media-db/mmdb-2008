@@ -14,5 +14,8 @@
     "talk show",
     "LGBT-related television series"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
 }
