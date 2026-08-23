@@ -8,6 +8,10 @@
     "wikidata": "Q7763659",
     "tmdb": 39697
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 34
+  "last_updated": "2026-08-23",
+  "total_episodes": 34,
+  "genres": [
+    "wuxia"
+  ],
+  "is_adult": false
 }

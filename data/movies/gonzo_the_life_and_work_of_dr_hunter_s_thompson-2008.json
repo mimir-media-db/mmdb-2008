@@ -9,7 +9,13 @@
     "imdb": "tt0479468",
     "tmdb": 13003
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-01-20",
-  "runtime_minutes": 120
+  "runtime_minutes": 120,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

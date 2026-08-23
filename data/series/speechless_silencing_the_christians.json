@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q7575413"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 1
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Documentary",
+    "LGBT-related television series"
+  ],
+  "is_adult": false
 }

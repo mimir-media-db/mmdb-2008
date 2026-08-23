@@ -9,7 +9,12 @@
     "imdb": "tt1127884",
     "tmdb": 253353
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-02-01",
-  "runtime_minutes": 77
+  "runtime_minutes": 77,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

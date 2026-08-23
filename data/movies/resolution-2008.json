@@ -8,7 +8,11 @@
     "wikidata": "Q12058853",
     "imdb": "tt1289835"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-09-01",
-  "runtime_minutes": 81
+  "runtime_minutes": 81,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false
 }

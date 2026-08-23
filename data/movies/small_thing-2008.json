@@ -8,6 +8,11 @@
     "wikidata": "Q114766147",
     "imdb": "tt1380951"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-01-01",
+  "genres": [
+    "Drama",
+    "Short"
+  ],
+  "is_adult": false
 }

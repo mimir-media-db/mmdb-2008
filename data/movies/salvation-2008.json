@@ -9,6 +9,10 @@
     "imdb": "tt1297299",
     "tmdb": 254865
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-10-12"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-10-12",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

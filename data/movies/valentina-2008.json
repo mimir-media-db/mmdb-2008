@@ -8,7 +8,13 @@
     "wikidata": "Q7910841",
     "imdb": "tt1287507"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-01-01",
-  "runtime_minutes": 75
+  "runtime_minutes": 75,
+  "genres": [
+    "Animation",
+    "Family",
+    "Music"
+  ],
+  "is_adult": false
 }

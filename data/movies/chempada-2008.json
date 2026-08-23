@@ -9,6 +9,12 @@
     "imdb": "tt7589656",
     "tmdb": 1118253
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-12-31"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-12-31",
+  "genres": [
+    "Crime",
+    "Musical",
+    "Thriller"
+  ],
+  "is_adult": false
 }

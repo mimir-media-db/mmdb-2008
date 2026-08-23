@@ -9,7 +9,12 @@
     "imdb": "tt4161520",
     "tmdb": 32137
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-01-01",
-  "runtime_minutes": 119
+  "runtime_minutes": 119,
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,13 @@
     "imdb": "tt1891849",
     "tmdb": 81249
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-07-09",
-  "runtime_minutes": 158
+  "runtime_minutes": 158,
+  "genres": [
+    "Adult",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": true
 }

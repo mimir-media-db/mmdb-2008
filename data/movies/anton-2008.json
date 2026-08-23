@@ -9,6 +9,12 @@
     "imdb": "tt0929730",
     "tmdb": 48726
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-01-01",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false
 }

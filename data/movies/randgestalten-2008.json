@@ -9,7 +9,12 @@
     "imdb": "tt1442530",
     "tmdb": 972498
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-01-01",
-  "runtime_minutes": 55
+  "runtime_minutes": 55,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false
 }

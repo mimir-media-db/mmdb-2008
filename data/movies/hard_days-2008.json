@@ -8,7 +8,11 @@
     "wikidata": "Q12181342",
     "imdb": "tt1608762"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-01-01",
-  "runtime_minutes": 100
+  "runtime_minutes": 100,
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false
 }

@@ -8,6 +8,11 @@
     "wikidata": "Q6628704",
     "imdb": "tt4682662"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 3
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "genres": [
+    "Comedy",
+    "News"
+  ],
+  "is_adult": false
 }

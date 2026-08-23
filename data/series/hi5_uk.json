@@ -8,6 +8,12 @@
     "wikidata": "Q3283348",
     "imdb": "tt2016490"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 40
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Adventure",
+    "Family",
+    "Music"
+  ],
+  "is_adult": false
 }

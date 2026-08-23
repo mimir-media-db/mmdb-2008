@@ -9,7 +9,12 @@
     "imdb": "tt1322330",
     "tmdb": 336484
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-01-01",
-  "runtime_minutes": 94
+  "runtime_minutes": 94,
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false
 }

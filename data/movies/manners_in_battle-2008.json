@@ -8,6 +8,10 @@
     "wikidata": "Q129348374",
     "tmdb": 540296
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-05-16"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-05-16",
+  "genres": [
+    "romantic comedy film"
+  ],
+  "is_adult": false
 }

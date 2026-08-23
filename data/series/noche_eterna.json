@@ -8,6 +8,12 @@
     "wikidata": "Q6044214",
     "imdb": "tt1266616"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 13
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "is_adult": false
 }

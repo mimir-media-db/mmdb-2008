@@ -9,7 +9,13 @@
     "imdb": "tt1071203",
     "tmdb": 50714
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-06-24",
-  "runtime_minutes": 95
+  "runtime_minutes": 95,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "is_adult": false
 }

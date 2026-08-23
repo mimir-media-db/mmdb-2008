@@ -9,7 +9,13 @@
     "imdb": "tt0478087",
     "tmdb": 8065
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-03-07",
-  "runtime_minutes": 123
+  "runtime_minutes": 123,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false
 }

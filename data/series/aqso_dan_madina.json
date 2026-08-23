@@ -8,6 +8,12 @@
     "wikidata": "Q17998266",
     "tmdb": 49941
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 132
+  "last_updated": "2026-08-23",
+  "total_episodes": 132,
+  "genres": [
+    "Drama",
+    "Spy",
+    "religious film"
+  ],
+  "is_adult": false
 }

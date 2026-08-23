@@ -9,6 +9,11 @@
     "imdb": "tt7275234",
     "tmdb": 655750
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-07-20"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-07-20",
+  "genres": [
+    "History",
+    "Short"
+  ],
+  "is_adult": false
 }

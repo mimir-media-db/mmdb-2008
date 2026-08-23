@@ -8,6 +8,10 @@
     "wikidata": "Q6409006",
     "tmdb": 19157
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 137
+  "last_updated": "2026-08-23",
+  "total_episodes": 137,
+  "genres": [
+    "variety show"
+  ],
+  "is_adult": false
 }

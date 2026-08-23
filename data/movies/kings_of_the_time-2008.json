@@ -9,7 +9,13 @@
     "imdb": "tt1585557",
     "tmdb": 493239
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-01-01",
-  "runtime_minutes": 72
+  "runtime_minutes": 72,
+  "genres": [
+    "Animation",
+    "Biography",
+    "Documentary"
+  ],
+  "is_adult": false
 }

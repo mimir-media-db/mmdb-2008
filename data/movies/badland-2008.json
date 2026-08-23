@@ -9,7 +9,12 @@
     "imdb": "tt0493395",
     "tmdb": 8343
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-05-08",
-  "runtime_minutes": 165
+  "runtime_minutes": 165,
+  "genres": [
+    "Action",
+    "Horror"
+  ],
+  "is_adult": false
 }
