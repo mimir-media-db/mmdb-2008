@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_jurassic_fight_club_2008",
+  "title": "Jurassic Fight Club",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2539491",
+    "imdb": "tt1258908",
+    "tmdb": 7466
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

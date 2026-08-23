@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_family_outing_2008",
+  "title": "Family Outing",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q495698",
+    "imdb": "tt3444304",
+    "tmdb": 18618
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 85,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

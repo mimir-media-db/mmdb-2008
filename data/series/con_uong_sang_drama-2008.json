@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_con_uong_sang_drama_2008",
+  "title": "Con đường sáng (drama)",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q134017369"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 15,
+  "genres": [
+    "biographical film"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VN"
+  ]
+}

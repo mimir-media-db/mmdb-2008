@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_o_pai_o_2008",
+  "title": "Ó Paí, Ó",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10396488",
+    "imdb": "tt1547617",
+    "tmdb": 218090
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

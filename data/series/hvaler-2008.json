@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hvaler_2008",
+  "title": "Hvaler",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q11976207",
+    "imdb": "tt1291440",
+    "tmdb": 57573
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 24,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

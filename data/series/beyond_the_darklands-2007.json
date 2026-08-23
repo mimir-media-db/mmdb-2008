@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_beyond_the_darklands_2007",
+  "title": "Beyond the Darklands",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4900109",
+    "imdb": "tt2262631",
+    "tmdb": 46637
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "NZ"
+  ]
+}

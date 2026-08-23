@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_srugim_2008",
+  "title": "Srugim",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7586586",
+    "imdb": "tt1266462",
+    "tmdb": 32210
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 45,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

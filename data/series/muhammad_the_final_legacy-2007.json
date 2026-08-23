@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_muhammad_the_final_legacy_2007",
+  "title": "Muhammad: The Final Legacy",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17271663",
+    "imdb": "tt9500124",
+    "tmdb": 239391
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "genres": [
+    "Biography",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "LB"
+  ]
+}

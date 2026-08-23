@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_project_runway_philippines_2008",
+  "title": "Project Runway Philippines",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7249297",
+    "imdb": "tt1286763",
+    "tmdb": 5727
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 32,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

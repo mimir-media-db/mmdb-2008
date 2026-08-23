@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_write_environment_2007",
+  "title": "The Write Environment",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7776320",
+    "imdb": "tt1236405",
+    "tmdb": 21779
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Biography",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

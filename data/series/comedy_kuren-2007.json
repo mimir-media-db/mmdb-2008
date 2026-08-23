@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_kuren_2007",
+  "title": "Comedy kuren",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q12306587",
+    "imdb": "tt1475523",
+    "tmdb": 127905
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": []
+}

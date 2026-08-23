@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_year_in_tibet_2007",
+  "title": "A Year in Tibet",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2184646",
+    "imdb": "tt1686685",
+    "tmdb": 154210
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_lawyers_of_the_great_republic_korea_2008",
+  "title": "The Lawyers of The Great Republic Korea",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q624099",
+    "tmdb": 46556
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

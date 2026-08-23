@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_battleground_earth_2008",
+  "title": "Battleground Earth",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4873155",
+    "imdb": "tt1229845",
+    "tmdb": 8760
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

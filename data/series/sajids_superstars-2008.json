@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_sajids_superstars_2008",
+  "title": "Sajid's Superstars",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7402636"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "talk show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

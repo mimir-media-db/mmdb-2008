@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dogs_101_2008",
+  "title": "Dogs 101",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5288428",
+    "imdb": "tt1313176",
+    "tmdb": 18616
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 36,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

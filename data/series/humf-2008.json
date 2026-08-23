@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_humf_2008",
+  "title": "Humf",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5940755",
+    "imdb": "tt2661836",
+    "tmdb": 58471
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 80,
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

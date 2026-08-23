@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_police_interceptors_2008",
+  "title": "Police Interceptors",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7209472",
+    "imdb": "tt1397259",
+    "tmdb": 7734
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 61,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

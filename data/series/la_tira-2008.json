@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_la_tira_2008",
+  "title": "La tira",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5968251",
+    "imdb": "tt1315572",
+    "tmdb": 71253
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_merlin_2008",
+  "title": "Merlin",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1176076",
+    "imdb": "tt1199099",
+    "tmdb": 7225
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 65,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

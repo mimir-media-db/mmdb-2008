@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_passion_2008",
+  "title": "The Passion",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6510647",
+    "imdb": "tt1100959",
+    "tmdb": 14180
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_dona_barbara_2008",
+  "title": "Doña Bárbara",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q650903",
+    "imdb": "tt1287391",
+    "tmdb": 5522
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 191,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bread_n_butter_2008",
+  "title": "Bread N' Butter",
+  "start_year": 2008,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17023218",
+    "tmdb": 39150
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "PH"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_you_are_my_destiny_2008",
+  "title": "You Are My Destiny",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q490407",
+    "imdb": "tt2275419",
+    "tmdb": 39068
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 178,
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

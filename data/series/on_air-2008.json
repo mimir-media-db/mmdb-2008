@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_on_air_2008",
+  "title": "On Air",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q484212",
+    "imdb": "tt7902742",
+    "tmdb": 18371
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 21,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

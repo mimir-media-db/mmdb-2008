@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wendy_williams_show_2008",
+  "title": "The Wendy Williams Show",
+  "start_year": 2008,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q3283662",
+    "imdb": "tt1261356",
+    "tmdb": 21676
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 2332,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

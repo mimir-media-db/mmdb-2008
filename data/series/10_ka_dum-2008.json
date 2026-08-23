@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_10_ka_dum_2008",
+  "title": "10 Ka Dum",
+  "start_year": 2008,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q4546883",
+    "imdb": "tt1442411"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

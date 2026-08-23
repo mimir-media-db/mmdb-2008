@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_amanda_o_2008",
+  "title": "Amanda O",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q971777",
+    "imdb": "tt1440409",
+    "tmdb": 8341
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 120,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

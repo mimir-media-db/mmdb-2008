@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_toren_c_2008",
+  "title": "Toren C",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5396573",
+    "imdb": "tt1409991",
+    "tmdb": 26512
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": []
+}

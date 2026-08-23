@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_laululahing_2007",
+  "title": "Laululahing",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102152033"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "EE"
+  ]
+}

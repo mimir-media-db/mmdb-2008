@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_extreme_pilgrim_2008",
+  "title": "Extreme Pilgrim",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5422362",
+    "imdb": "tt1169930",
+    "tmdb": 16381
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

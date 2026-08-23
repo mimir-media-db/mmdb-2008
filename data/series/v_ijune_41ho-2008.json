@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_v_ijune_41ho_2008",
+  "title": "V ijune 41-ho",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q580347",
+    "imdb": "tt1270849",
+    "tmdb": 112453
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BY",
+    "RU"
+  ]
+}

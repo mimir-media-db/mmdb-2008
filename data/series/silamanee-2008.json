@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_silamanee_2008",
+  "title": "Silamanee",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6632107"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 17,
+  "genres": [
+    "soap opera"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

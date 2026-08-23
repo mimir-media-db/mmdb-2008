@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_uma_cancao_para_ti_2008",
+  "title": "Uma Canção para Ti",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q17104149",
+    "imdb": "tt1346860",
+    "tmdb": 329846
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 52,
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

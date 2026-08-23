@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_tiga_talk_2008",
+  "title": "Tiga Talk",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7801312"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 43,
+  "countries": [
+    "CA"
+  ]
+}

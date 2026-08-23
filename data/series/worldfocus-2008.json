@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_worldfocus_2008",
+  "title": "Worldfocus",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q8036701"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_akbingo_2008",
+  "title": "AKBingo!",
+  "start_year": 2008,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q1188717",
+    "imdb": "tt5600618",
+    "tmdb": 40049
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 502,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_lab_rats_challenge_2008",
+  "title": "Lab Rats Challenge",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6466650",
+    "imdb": "tt1804894"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 260,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

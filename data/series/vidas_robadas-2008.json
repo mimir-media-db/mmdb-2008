@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_vidas_robadas_2008",
+  "title": "Vidas robadas",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1976162",
+    "imdb": "tt1191078",
+    "tmdb": 108540
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 131,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

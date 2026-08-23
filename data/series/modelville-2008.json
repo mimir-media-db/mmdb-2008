@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_modelville_2008",
+  "title": "Modelville",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6888439"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "countries": [
+    "US"
+  ]
+}

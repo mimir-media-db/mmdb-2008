@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_lalola_2008",
+  "title": "LaLola",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3206247",
+    "imdb": "tt1250896",
+    "tmdb": 7385
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 85,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

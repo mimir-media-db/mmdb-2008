@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_el_juramento_2008",
+  "title": "El Juramento",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1247613",
+    "imdb": "tt1244313",
+    "tmdb": 208376
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 104,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

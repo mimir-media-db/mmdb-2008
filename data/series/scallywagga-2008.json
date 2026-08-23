@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_scallywagga_2008",
+  "title": "Scallywagga",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7429801",
+    "imdb": "tt1510172"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

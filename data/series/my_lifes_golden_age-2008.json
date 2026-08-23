@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_my_lifes_golden_age_2008",
+  "title": "My Life's Golden Age",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6797387",
+    "tmdb": 46555
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 56,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

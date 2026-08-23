@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_band_2007",
+  "title": "The Band",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3985775"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 64,
+  "genres": [
+    "sitcom"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

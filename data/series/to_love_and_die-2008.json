@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_to_love_and_die_2008",
+  "title": "To Love and Die",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7811027",
+    "imdb": "tt0811112",
+    "tmdb": 6783
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

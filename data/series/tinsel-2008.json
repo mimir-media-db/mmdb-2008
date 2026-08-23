@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tinsel_2008",
+  "title": "Tinsel",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16957482",
+    "imdb": "tt2389428",
+    "tmdb": 279364
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 1589,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NG"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_city_of_glass_2008",
+  "title": "City of Glass",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1129628",
+    "imdb": "tt8482786",
+    "tmdb": 31347
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 51,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

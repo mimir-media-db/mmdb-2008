@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mikkel_og_guldkortet_2008",
+  "title": "Mikkel og guldkortet",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q12327204",
+    "imdb": "tt1016278",
+    "tmdb": 136425
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 24,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

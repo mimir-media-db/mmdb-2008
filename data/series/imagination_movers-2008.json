@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_imagination_movers_2008",
+  "title": "Imagination Movers",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q941517",
+    "imdb": "tt1101237",
+    "tmdb": 30916
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 75,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

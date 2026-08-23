@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_peligro_sin_codificar_2008",
+  "title": "Peligro: sin codificar",
+  "start_year": 2008,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q6128974",
+    "imdb": "tt2051684"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

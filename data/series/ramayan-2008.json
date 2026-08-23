@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ramayan_2008",
+  "title": "Ramayan",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7289124",
+    "imdb": "tt8230598",
+    "tmdb": 15620
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 300,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

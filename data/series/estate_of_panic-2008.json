@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_estate_of_panic_2008",
+  "title": "Estate of Panic",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5400687",
+    "imdb": "tt1305785",
+    "tmdb": 8280
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

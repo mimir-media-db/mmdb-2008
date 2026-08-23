@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_my_dad_is_better_than_your_dad_2008",
+  "title": "My Dad Is Better Than Your Dad",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2565285",
+    "imdb": "tt1134663",
+    "tmdb": 14145
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 60,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

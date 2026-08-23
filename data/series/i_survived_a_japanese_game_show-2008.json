@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_i_survived_a_japanese_game_show_2008",
+  "title": "I Survived a Japanese Game Show",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q648546",
+    "imdb": "tt1233427",
+    "tmdb": 7345
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 15,
+  "genres": [
+    "Adventure",
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

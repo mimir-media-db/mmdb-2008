@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_2_de_mayo_la_libertad_de_una_nacion_2008",
+  "title": "2 de mayo, la libertad de una nación",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q9551239",
+    "imdb": "tt1245188"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 22,
+  "genres": [
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

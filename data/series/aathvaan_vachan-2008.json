@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_aathvaan_vachan_2008",
+  "title": "Aathvaan Vachan",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4662774",
+    "imdb": "tt7514418"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 152,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

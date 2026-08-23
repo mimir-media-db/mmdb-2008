@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_richard_hammonds_engineering_connections_2008",
+  "title": "Richard Hammond's Engineering Connections",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2901803",
+    "imdb": "tt1289217",
+    "tmdb": 7905
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 16,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

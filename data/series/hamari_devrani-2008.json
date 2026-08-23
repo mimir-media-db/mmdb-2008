@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hamari_devrani_2008",
+  "title": "Hamari Devrani",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5644100",
+    "imdb": "tt8765598"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 951,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

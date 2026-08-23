@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mommas_boys_2008",
+  "title": "Momma's Boys",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q594422",
+    "imdb": "tt1232197",
+    "tmdb": 8465
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

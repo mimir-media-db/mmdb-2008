@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_unutma_beni_2007",
+  "title": "Unutma Beni",
+  "start_year": 2007,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6070815",
+    "imdb": "tt2155153",
+    "tmdb": 274352
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

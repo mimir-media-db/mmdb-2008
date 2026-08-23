@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_amnok_river_flows_2008",
+  "title": "Amnok River Flows",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18203678",
+    "imdb": "tt1371592",
+    "tmdb": 78011
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

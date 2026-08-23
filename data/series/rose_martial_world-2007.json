@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_rose_martial_world_2007",
+  "title": "Rose Martial World",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5225980",
+    "tmdb": 206937
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "countries": [
+    "CN"
+  ]
+}

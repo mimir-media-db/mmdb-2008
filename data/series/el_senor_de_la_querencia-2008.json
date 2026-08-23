@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_el_senor_de_la_querencia_2008",
+  "title": "El Señor de la Querencia",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5352153",
+    "imdb": "tt1244386",
+    "tmdb": 18854
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 64,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

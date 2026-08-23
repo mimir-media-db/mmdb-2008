@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_brave_man_standing_2008",
+  "title": "Brave Man Standing",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4958362"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 19,
+  "genres": [
+    "soap opera"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

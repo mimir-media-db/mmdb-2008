@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_rebel_way_2008",
+  "title": "Rebel Way",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3284327",
+    "imdb": "tt1277987",
+    "tmdb": 158866
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 230,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

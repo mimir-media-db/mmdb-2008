@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_hollands_got_talent_2008",
+  "title": "Holland's Got Talent",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q14941962",
+    "imdb": "tt1219297",
+    "tmdb": 21935
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": []
+}

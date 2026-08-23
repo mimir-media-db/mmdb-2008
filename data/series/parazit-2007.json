@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_parazit_2007",
+  "title": "Parazit",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6628704",
+    "imdb": "tt4682662"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "genres": [
+    "Comedy",
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

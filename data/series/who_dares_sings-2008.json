@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_who_dares_sings_2008",
+  "title": "Who Dares, Sings!",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7997193",
+    "imdb": "tt1270253"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

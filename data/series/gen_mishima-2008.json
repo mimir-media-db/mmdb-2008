@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_gen_mishima_2008",
+  "title": "Gen Mishima",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5876732"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "science fiction television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_skinny_dip_2008",
+  "title": "The Skinny Dip",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15030929",
+    "imdb": "tt1832207",
+    "tmdb": 16196
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Adventure"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

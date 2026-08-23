@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_danny_hollywood_2008",
+  "title": "Danny Hollywood",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q11084345",
+    "imdb": "tt35671929"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 198,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_big_difference_2007",
+  "title": "Big Difference",
+  "start_year": 2007,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2472357",
+    "imdb": "tt6085558",
+    "tmdb": 91288
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 85,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU",
+    "UA"
+  ]
+}

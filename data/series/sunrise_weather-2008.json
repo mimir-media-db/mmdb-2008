@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sunrise_weather_2008",
+  "title": "Sunrise Weather",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7641137"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

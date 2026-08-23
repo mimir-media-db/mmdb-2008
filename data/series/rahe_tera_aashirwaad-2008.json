@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_rahe_tera_aashirwaad_2008",
+  "title": "Rahe Tera Aashirwaad",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7283352"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 200,
+  "genres": [
+    "fantasy television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

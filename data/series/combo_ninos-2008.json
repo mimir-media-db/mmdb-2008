@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_combo_ninos_2008",
+  "title": "Combo Niños",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2985095",
+    "imdb": "tt1286910"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

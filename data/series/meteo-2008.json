@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_meteo_2008",
+  "title": "Météo+",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3333908",
+    "imdb": "tt1420759"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 58,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

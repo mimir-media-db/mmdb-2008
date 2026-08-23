@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_singles_enamorat_2007",
+  "title": "Singles enamora't",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6129319"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "sitcom",
+    "romantic fiction"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

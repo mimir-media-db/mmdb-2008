@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_londynczycy_2008",
+  "title": "Londyńczycy",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6671251",
+    "imdb": "tt1319358",
+    "tmdb": 19489
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 29,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

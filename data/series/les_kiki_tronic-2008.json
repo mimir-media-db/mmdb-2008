@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_les_kiki_tronic_2008",
+  "title": "Les Kiki Tronic",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q48751969",
+    "imdb": "tt1960498",
+    "tmdb": 90562
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Adventure"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

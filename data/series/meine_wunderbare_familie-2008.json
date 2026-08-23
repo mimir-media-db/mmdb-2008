@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_meine_wunderbare_familie_2008",
+  "title": "Meine wunderbare Familie",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1918055",
+    "imdb": "tt1184902",
+    "tmdb": 37196
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 7,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

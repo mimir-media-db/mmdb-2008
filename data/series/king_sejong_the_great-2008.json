@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_king_sejong_the_great_2008",
+  "title": "King Sejong the Great",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q487952",
+    "imdb": "tt3375978",
+    "tmdb": 14085
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 86,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

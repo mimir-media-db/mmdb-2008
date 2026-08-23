@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_masterpiece_mystery_2007",
+  "title": "Masterpiece Mystery",
+  "start_year": 2007,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3869166",
+    "imdb": "tt0080249",
+    "tmdb": 23633
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 27,
+  "total_episodes": 648,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

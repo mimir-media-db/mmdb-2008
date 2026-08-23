@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_what_the_dickens_2008",
+  "title": "What the Dickens",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7991609",
+    "imdb": "tt1289330",
+    "tmdb": 8275
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

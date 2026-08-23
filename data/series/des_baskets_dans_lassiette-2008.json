@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_des_baskets_dans_lassiette_2008",
+  "title": "Des baskets dans l'assiette",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16628514",
+    "imdb": "tt1471298",
+    "tmdb": 134306
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": []
+}

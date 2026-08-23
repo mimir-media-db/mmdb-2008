@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_judge_jeanine_pirro_2008",
+  "title": "Judge Jeanine Pirro",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6302565",
+    "imdb": "tt1482616",
+    "tmdb": 17948
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 382,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

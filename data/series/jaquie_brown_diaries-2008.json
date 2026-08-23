@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jaquie_brown_diaries_2008",
+  "title": "The Jaquie Brown Diaries",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7742997",
+    "imdb": "tt1269660",
+    "tmdb": 31785
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NZ"
+  ]
+}

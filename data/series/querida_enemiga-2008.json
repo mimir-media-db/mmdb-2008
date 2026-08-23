@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_querida_enemiga_2008",
+  "title": "Querida Enemiga",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1068166",
+    "imdb": "tt1230187",
+    "tmdb": 15666
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 110,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

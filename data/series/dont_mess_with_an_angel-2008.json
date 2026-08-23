@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dont_mess_with_an_angel_2008",
+  "title": "Don't Mess with an Angel",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q924727",
+    "imdb": "tt1245565",
+    "tmdb": 5459
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 194,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

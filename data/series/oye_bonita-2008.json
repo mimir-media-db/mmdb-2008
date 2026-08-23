@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_oye_bonita_2008",
+  "title": "Oye bonita",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5794167",
+    "imdb": "tt1825433",
+    "tmdb": 107135
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 305,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

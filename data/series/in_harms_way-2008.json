@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_in_harms_way_2008",
+  "title": "In Harm's Way",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6009591",
+    "imdb": "tt1280618",
+    "tmdb": 5924
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

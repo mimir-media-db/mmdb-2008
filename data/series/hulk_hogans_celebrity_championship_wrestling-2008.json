@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hulk_hogans_celebrity_championship_wrestling_2008",
+  "title": "Hulk Hogan's Celebrity Championship Wrestling",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1162792",
+    "imdb": "tt1228322",
+    "tmdb": 7374
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

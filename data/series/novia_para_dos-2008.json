@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_novia_para_dos_2008",
+  "title": "Novia para dos",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6046011",
+    "imdb": "tt1381214",
+    "tmdb": 155615
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 180,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

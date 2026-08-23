@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_master_of_tai_chi_2008",
+  "title": "The Master of Tai Chi",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2510990",
+    "imdb": "tt1245831",
+    "tmdb": 15892
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 25,
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

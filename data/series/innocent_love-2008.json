@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_innocent_love_2008",
+  "title": "Innocent Love",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2759319",
+    "imdb": "tt1315267",
+    "tmdb": 24013
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

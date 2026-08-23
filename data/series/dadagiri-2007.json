@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_dadagiri_2007",
+  "title": "Dadagiri",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5207896"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

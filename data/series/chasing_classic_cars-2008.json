@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_chasing_classic_cars_2008",
+  "title": "Chasing Classic Cars",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16829302",
+    "imdb": "tt1357604",
+    "tmdb": 37129
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 131,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

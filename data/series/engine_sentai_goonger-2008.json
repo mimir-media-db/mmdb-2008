@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_engine_sentai_goonger_2008",
+  "title": "Engine Sentai Go-onger",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q375062",
+    "imdb": "tt1263228",
+    "tmdb": 5615
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 32,
+  "total_episodes": 50,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

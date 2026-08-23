@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_camouflage_2008",
+  "title": "Camouflage",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q11621502"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

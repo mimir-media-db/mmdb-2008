@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_litsacom_2008",
+  "title": "Litsa.com",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q109324865",
+    "imdb": "tt1288434",
+    "tmdb": 101311
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 37,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ren_bishi_2008",
+  "title": "Ren Bishi",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10884685"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "countries": [
+    "CN"
+  ]
+}

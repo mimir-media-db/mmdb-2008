@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_comprado_2008",
+  "title": "Amor Comprado",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3555508",
+    "imdb": "tt1077437",
+    "tmdb": 13182
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 123,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

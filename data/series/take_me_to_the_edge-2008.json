@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_take_me_to_the_edge_2008",
+  "title": "Take Me to the Edge",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q16933852",
+    "imdb": "tt1309549"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

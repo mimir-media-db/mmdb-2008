@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_revenge_files_of_alistair_fury_2008",
+  "title": "The Revenge Files of Alistair Fury",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7760504",
+    "imdb": "tt1105126",
+    "tmdb": 7193
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_la_brigade_volante_2008",
+  "title": "La Brigade volante",
+  "start_year": 2008,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3820638",
+    "imdb": "tt1285405"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "FR",
+    "IT"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_terminator_the_sarah_connor_chronicles_2008",
+  "title": "Terminator: The Sarah Connor Chronicles",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q94713",
+    "imdb": "tt0851851",
+    "tmdb": 433
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 31,
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nyc_arts_2008",
+  "title": "NYC Arts",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16959661"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

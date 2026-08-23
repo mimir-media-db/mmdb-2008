@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_hunters_international_2008",
+  "title": "Ghost Hunters International",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5557092",
+    "imdb": "tt1122725",
+    "tmdb": 14058
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 62,
+  "genres": [
+    "Adventure",
+    "Documentary",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

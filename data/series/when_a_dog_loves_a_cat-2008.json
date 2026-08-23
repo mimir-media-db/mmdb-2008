@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_when_a_dog_loves_a_cat_2008",
+  "title": "When a Dog Loves a Cat",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q986587",
+    "tmdb": 15954
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "soap opera",
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

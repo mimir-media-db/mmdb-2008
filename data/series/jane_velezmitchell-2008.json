@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_jane_velezmitchell_2008",
+  "title": "Jane Velez-Mitchell",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3155724"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "current affairs"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

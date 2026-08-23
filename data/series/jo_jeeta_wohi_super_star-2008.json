@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jo_jeeta_wohi_super_star_2008",
+  "title": "Jo Jeeta Wohi Super Star",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6204302",
+    "imdb": "tt8694106"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 2,
+  "genres": [
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

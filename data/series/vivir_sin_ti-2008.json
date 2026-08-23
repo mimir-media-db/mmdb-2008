@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_vivir_sin_ti_2008",
+  "title": "Vivir sin ti",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6164259",
+    "imdb": "tt1230091"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 99,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_worlds_toughest_fixes_2008",
+  "title": "World's Toughest Fixes",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4353571",
+    "imdb": "tt1315027",
+    "tmdb": 7992
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 29,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

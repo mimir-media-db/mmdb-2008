@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_prophet_joseph_2008",
+  "title": "Prophet Joseph",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4115461",
+    "imdb": "tt3084150",
+    "tmdb": 70802
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 45,
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

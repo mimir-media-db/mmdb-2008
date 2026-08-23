@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ashes_to_ashes_2008",
+  "title": "Ashes to Ashes",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q725195",
+    "imdb": "tt1008108",
+    "tmdb": 1180
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 24,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

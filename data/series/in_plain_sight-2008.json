@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_in_plain_sight_2008",
+  "title": "In Plain Sight",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1247535",
+    "imdb": "tt0935095",
+    "tmdb": 7235
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 61,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

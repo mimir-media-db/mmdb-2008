@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_one_hour_in_hell_2007",
+  "title": "one hour in hell",
+  "start_year": 2007,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q22688213",
+    "imdb": "tt3588320",
+    "tmdb": 271844
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MA"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_day_day_up_2008",
+  "title": "Day Day Up",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5974018",
+    "imdb": "tt5430268",
+    "tmdb": 136377
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "genres": [
+    "Game-Show",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

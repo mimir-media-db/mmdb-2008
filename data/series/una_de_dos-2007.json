@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_una_de_dos_2007",
+  "title": "Una de dos",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6155779"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "sitcom"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

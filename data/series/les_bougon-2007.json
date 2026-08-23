@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_les_bougon_2007",
+  "title": "Les Bougon",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3231116",
+    "imdb": "tt1281482",
+    "tmdb": 201634
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

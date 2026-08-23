@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_geekette_2008",
+  "title": "Hello Geekette",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3129896",
+    "imdb": "tt2580130"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 28,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": []
+}

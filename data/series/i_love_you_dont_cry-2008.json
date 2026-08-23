@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_i_love_you_dont_cry_2008",
+  "title": "I Love You, Don't Cry",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q851193",
+    "tmdb": 46548
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 132,
+  "genres": [
+    "children's film"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

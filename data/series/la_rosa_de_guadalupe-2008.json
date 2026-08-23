@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_rosa_de_guadalupe_2008",
+  "title": "La rosa de Guadalupe",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6466395",
+    "imdb": "tt1192302",
+    "tmdb": 30826
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 17,
+  "total_episodes": 1971,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

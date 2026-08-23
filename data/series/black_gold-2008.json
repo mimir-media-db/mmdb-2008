@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_black_gold_2008",
+  "title": "Black Gold",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4920843",
+    "imdb": "tt1239472",
+    "tmdb": 7409
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 34,
+  "genres": [
+    "Documentary",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

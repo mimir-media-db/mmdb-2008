@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_transamerican_love_story_2008",
+  "title": "Transamerican Love Story",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7833759",
+    "imdb": "tt1152813",
+    "tmdb": 7101
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

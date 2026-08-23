@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_power_of_10_2008",
+  "title": "Power of 10",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7236536",
+    "imdb": "tt1288442",
+    "tmdb": 7012
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

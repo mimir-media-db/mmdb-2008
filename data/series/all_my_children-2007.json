@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_all_my_children_2007",
+  "title": "All My Children",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56357835",
+    "imdb": "tt29079084"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 42,
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

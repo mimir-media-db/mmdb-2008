@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_celebracadabra_2008",
+  "title": "Celebracadabra",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5057563",
+    "imdb": "tt1173669",
+    "tmdb": 7204
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 9,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

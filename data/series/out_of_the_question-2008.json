@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_out_of_the_question_2008",
+  "title": "Out of the Question",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7111779",
+    "imdb": "tt1189415"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

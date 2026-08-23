@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dagvaktin_2008",
+  "title": "Dagvaktin",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5208688",
+    "imdb": "tt1370331",
+    "tmdb": 19128
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

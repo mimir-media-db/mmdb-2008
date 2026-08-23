@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ryokiteki_na_kanojo_2008",
+  "title": "Ryokiteki na Kanojo",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6133269",
+    "imdb": "tt1158105",
+    "tmdb": 5585
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

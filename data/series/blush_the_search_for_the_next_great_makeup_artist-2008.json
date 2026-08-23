@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_blush_the_search_for_the_next_great_makeup_artist_2008",
+  "title": "Blush: The Search for the Next Great Makeup Artist",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4087290",
+    "imdb": "tt1321918",
+    "tmdb": 8467
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

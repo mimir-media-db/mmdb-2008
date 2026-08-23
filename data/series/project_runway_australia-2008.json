@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_project_runway_australia_2008",
+  "title": "Project Runway Australia",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7249283",
+    "imdb": "tt1356887",
+    "tmdb": 5724
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 44,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

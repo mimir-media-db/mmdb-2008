@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_alma_de_hierro_2008",
+  "title": "Alma de Hierro",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3282770",
+    "imdb": "tt1195884",
+    "tmdb": 39045
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 394,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

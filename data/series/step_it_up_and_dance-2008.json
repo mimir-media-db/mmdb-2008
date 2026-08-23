@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_step_it_up_and_dance_2008",
+  "title": "Step It Up and Dance",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7607980",
+    "imdb": "tt1103806",
+    "tmdb": 14155
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

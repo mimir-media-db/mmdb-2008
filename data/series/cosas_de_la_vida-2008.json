@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_cosas_de_la_vida_2008",
+  "title": "Cosas de la vida",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5173843",
+    "imdb": "tt1521822",
+    "tmdb": 239903
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 40,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": []
+}

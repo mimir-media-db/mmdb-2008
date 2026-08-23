@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_dance_machine_2008",
+  "title": "Dance Machine",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5215155",
+    "imdb": "tt1143294",
+    "tmdb": 10210
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Game-Show",
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

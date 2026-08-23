@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dyesebel_2008",
+  "title": "Dyesebel",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5318587",
+    "imdb": "tt1168670",
+    "tmdb": 6869
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 125,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

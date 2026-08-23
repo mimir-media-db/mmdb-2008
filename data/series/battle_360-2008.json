@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_battle_360_2008",
+  "title": "Battle 360°",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4869977",
+    "imdb": "tt1194698",
+    "tmdb": 15549
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

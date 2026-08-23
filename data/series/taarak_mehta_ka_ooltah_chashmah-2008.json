@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_taarak_mehta_ka_ooltah_chashmah_2008",
+  "title": "Taarak Mehta Ka Ooltah Chashmah",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2719817",
+    "imdb": "tt1708446",
+    "tmdb": 8630
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4247,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

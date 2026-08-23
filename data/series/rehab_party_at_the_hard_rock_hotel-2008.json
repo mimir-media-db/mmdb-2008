@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_rehab_party_at_the_hard_rock_hotel_2008",
+  "title": "Rehab: Party at the Hard Rock Hotel",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7309734",
+    "imdb": "tt1348027",
+    "tmdb": 34402
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 29,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

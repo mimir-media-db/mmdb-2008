@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_mutants_pathways_of_the_heart_2008",
+  "title": "The Mutants: Pathways of the Heart",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7752799",
+    "imdb": "tt1321713",
+    "tmdb": 216699
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 243,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

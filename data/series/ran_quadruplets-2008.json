@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ran_quadruplets_2008",
+  "title": "The Ran Quadruplets",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7759392",
+    "imdb": "tt2367158",
+    "tmdb": 256946
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 29,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}
