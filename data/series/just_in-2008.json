@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_just_in_2008",
+  "title": "Just In",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6316058",
+    "imdb": "tt1249227"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_zanes_sex_chronicles_2008",
+  "title": "Zane's Sex Chronicles",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q8066089",
+    "imdb": "tt1242774",
+    "tmdb": 30539
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 25,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

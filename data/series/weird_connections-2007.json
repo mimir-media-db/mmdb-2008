@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_weird_connections_2007",
+  "title": "Weird Connections",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117780613",
+    "imdb": "tt1320063",
+    "tmdb": 37413
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

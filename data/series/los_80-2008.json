@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_los_80_2008",
+  "title": "Los 80",
+  "start_year": 2008,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6681847",
+    "imdb": "tt1569539",
+    "tmdb": 34001
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 78,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_chunjas_happy_events_2008",
+  "title": "Chunja's Happy Events",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6789022",
+    "tmdb": 18381
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 111,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

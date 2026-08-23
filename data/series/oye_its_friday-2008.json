@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_oye_its_friday_2008",
+  "title": "Oye! It's Friday!",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7116249",
+    "imdb": "tt1373021",
+    "tmdb": 16342
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 15,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

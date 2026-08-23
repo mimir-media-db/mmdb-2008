@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_our_happy_ending_2008",
+  "title": "Our Happy Ending",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12968957",
+    "imdb": "tt33799283",
+    "tmdb": 235121
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

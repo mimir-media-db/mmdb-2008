@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_bloody_monday_2008",
+  "title": "Bloody Monday",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3641079",
+    "imdb": "tt1310548",
+    "tmdb": 38634
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

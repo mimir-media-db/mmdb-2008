@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_komiks_presents_kapitan_boom_2008",
+  "title": "Komiks Presents: Kapitan Boom",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6428339",
+    "imdb": "tt1223939",
+    "tmdb": 7155
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 15,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

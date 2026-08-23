@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kriminalka_andel_2007",
+  "title": "Kriminálka Anděl",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6437048",
+    "imdb": "tt1322074",
+    "tmdb": 37732
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 20,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

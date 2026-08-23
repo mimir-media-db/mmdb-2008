@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_jetstream_2008",
+  "title": "Jetstream",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6189178",
+    "imdb": "tt1233987",
+    "tmdb": 8689
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Documentary",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_rock_and_roll_acid_test_2008",
+  "title": "Rock and Roll Acid Test",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7354762",
+    "imdb": "tt1257897",
+    "tmdb": 7598
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_when_were_we_funniest_2008",
+  "title": "When Were We Funniest?",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7992805"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

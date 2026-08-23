@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kevin_bishop_show_2008",
+  "title": "The Kevin Bishop Show",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7744151",
+    "imdb": "tt1267289",
+    "tmdb": 7517
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

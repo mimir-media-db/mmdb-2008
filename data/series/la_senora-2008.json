@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_senora_2008",
+  "title": "La Señora",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q9018965",
+    "imdb": "tt1188965",
+    "tmdb": 63114
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 39,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

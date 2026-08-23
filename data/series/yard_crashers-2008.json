@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_yard_crashers_2008",
+  "title": "Yard Crashers",
+  "start_year": 2008,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18395930",
+    "imdb": "tt1261389",
+    "tmdb": 37135
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 13,
+  "total_episodes": 173,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

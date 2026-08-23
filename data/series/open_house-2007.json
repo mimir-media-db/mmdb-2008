@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_open_house_2007",
+  "title": "Open House",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q104870058",
+    "imdb": "tt1897596"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AT"
+  ]
+}

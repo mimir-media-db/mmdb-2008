@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_guante_blanco_2008",
+  "title": "Guante blanco",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5887185",
+    "imdb": "tt1301480",
+    "tmdb": 71251
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

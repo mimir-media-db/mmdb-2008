@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_nenavist_2007",
+  "title": "Nenavist",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4317081",
+    "imdb": "tt4042108"
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wedding_ring_2007",
+  "title": "Wedding ring",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2817218",
+    "imdb": "tt2823260",
+    "tmdb": 100748
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

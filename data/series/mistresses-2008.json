@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mistresses_2008",
+  "title": "Mistresses",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2699785",
+    "imdb": "tt0969007",
+    "tmdb": 14249
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 16,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

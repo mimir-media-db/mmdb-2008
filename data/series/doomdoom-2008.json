@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_doomdoom_2008",
+  "title": "Doom-doom",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3036884",
+    "imdb": "tt1323558",
+    "tmdb": 137812
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Comedy",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": []
+}

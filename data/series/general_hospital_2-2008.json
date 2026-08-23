@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_general_hospital_2_2008",
+  "title": "General Hospital 2",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q11271760"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 17,
+  "genres": [
+    "drama television series",
+    "medical drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

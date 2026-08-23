@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_green_2008",
+  "title": "Miss Green",
+  "start_year": 2008,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3316502",
+    "imdb": "tt1592542"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

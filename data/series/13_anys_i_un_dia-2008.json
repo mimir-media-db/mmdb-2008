@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_13_anys_i_un_dia_2008",
+  "title": "13 anys i un dia",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q11903534",
+    "imdb": "tt1113760",
+    "tmdb": 328964
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 24,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

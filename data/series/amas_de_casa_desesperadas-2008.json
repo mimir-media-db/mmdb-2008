@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_amas_de_casa_desesperadas_2008",
+  "title": "Amas de Casa Desesperadas",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4740380",
+    "imdb": "tt1160954",
+    "tmdb": 15635
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 24,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

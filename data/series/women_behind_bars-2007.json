@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_women_behind_bars_2007",
+  "title": "Women Behind Bars",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25206062",
+    "imdb": "tt1181320",
+    "tmdb": 29180
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

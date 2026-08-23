@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_taken_out_2008",
+  "title": "Taken Out",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2364116",
+    "imdb": "tt1301963",
+    "tmdb": 7629
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 65,
+  "genres": [
+    "Game-Show",
+    "Reality-TV",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_singende_firma_2007",
+  "title": "Die singende Firma",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1219519"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "countries": [
+    "DE"
+  ]
+}

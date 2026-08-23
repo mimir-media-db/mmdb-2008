@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_byakkotai_2008",
+  "title": "Byakkotai",
+  "start_year": 2008,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3647835",
+    "imdb": "tt1704014",
+    "tmdb": 38797
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

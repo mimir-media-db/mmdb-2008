@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_leverage_2008",
+  "title": "Leverage",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q868835",
+    "imdb": "tt1103987",
+    "tmdb": 7482
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 77,
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

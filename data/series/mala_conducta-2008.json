@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_mala_conducta_2008",
+  "title": "Mala Conducta",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3281131",
+    "imdb": "tt1229770",
+    "tmdb": 16314
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 182,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

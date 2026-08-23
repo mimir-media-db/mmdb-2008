@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_shaolin_warriors_2008",
+  "title": "The Shaolin Warriors",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7763659",
+    "tmdb": 39697
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 34,
+  "genres": [
+    "wuxia"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

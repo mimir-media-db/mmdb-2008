@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_graffiti_2008",
+  "title": "Graffiti",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5884080",
+    "imdb": "tt1353943"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 100,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PE"
+  ]
+}

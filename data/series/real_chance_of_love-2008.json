@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_real_chance_of_love_2008",
+  "title": "Real Chance of Love",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7300863"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

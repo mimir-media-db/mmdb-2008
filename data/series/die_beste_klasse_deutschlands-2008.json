@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_die_beste_klasse_deutschlands_2008",
+  "title": "Die beste Klasse Deutschlands",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1217893",
+    "imdb": "tt1200371",
+    "tmdb": 90989
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 11,
+  "total_episodes": 166,
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

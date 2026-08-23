@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_love_beyond_frontier_2008_tv_series_2007",
+  "title": "Love Beyond Frontier (2008 TV series)",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6652961"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 51,
+  "genres": [
+    "soap opera"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

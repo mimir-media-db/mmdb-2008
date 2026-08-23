@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_as_for_me_and_my_house_2007",
+  "title": "As for Me and My House",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4803057",
+    "imdb": "tt1157546"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

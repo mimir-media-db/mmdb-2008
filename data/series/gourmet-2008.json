@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_gourmet_2008",
+  "title": "Gourmet",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q626013",
+    "imdb": "tt1491379",
+    "tmdb": 31118
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

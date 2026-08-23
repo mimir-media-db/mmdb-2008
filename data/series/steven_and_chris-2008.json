@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_steven_and_chris_2008",
+  "title": "Steven and Chris",
+  "start_year": 2008,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7615414"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 500,
+  "genres": [
+    "talk show",
+    "LGBT-related television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

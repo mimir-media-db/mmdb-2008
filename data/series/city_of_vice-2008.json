@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_city_of_vice_2008",
+  "title": "City of Vice",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5123965",
+    "imdb": "tt1044196",
+    "tmdb": 14347
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

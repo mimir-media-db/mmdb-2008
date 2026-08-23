@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_lecole_des_stars_2008",
+  "title": "L'École des stars",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3205219"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

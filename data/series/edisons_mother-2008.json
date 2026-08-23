@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_edisons_mother_2008",
+  "title": "Edison's Mother",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q847547",
+    "imdb": "tt1157933",
+    "tmdb": 84080
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

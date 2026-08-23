@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_chasing_churchill_in_search_of_my_grandfather_2007",
+  "title": "Chasing Churchill: In Search of My Grandfather",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123681023",
+    "imdb": "tt1267287"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

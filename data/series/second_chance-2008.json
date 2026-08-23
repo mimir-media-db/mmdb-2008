@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_second_chance_2008",
+  "title": "Second Chance",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1972111",
+    "imdb": "tt1324069",
+    "tmdb": 104588
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 180,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

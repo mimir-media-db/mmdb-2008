@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_reinventors_2007",
+  "title": "The Re-Inventors",
+  "start_year": 2007,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7759536",
+    "imdb": "tt1988025",
+    "tmdb": 17428
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

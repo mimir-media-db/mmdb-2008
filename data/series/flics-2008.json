@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_flics_2008",
+  "title": "Flics",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3073709",
+    "imdb": "tt1099219",
+    "tmdb": 69946
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 8,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

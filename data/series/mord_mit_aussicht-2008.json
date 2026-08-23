@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mord_mit_aussicht_2008",
+  "title": "Mord mit Aussicht",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1407012",
+    "imdb": "tt1163573",
+    "tmdb": 41132
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 45,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

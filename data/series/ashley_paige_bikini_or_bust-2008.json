@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ashley_paige_bikini_or_bust_2008",
+  "title": "Ashley Paige: Bikini or Bust",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q99736183",
+    "imdb": "tt1258250",
+    "tmdb": 28291
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

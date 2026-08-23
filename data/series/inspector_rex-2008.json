@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_inspector_rex_2008",
+  "title": "Inspector Rex",
+  "start_year": 2008,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21190670",
+    "imdb": "tt1649795",
+    "tmdb": 95926
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 92,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

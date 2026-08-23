@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_i_love_money_2008",
+  "title": "I Love Money",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q948898",
+    "imdb": "tt1229295",
+    "tmdb": 8560
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 41,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_nuzzle_and_scratch_2008",
+  "title": "Nuzzle and Scratch",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7070705",
+    "imdb": "tt1322779",
+    "tmdb": 30706
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

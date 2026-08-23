@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_pinky_and_perky_show_2008",
+  "title": "The Pinky and Perky Show",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7757212",
+    "imdb": "tt1388822",
+    "tmdb": 32577
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 52,
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

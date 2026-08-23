@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_highland_emergency_2008",
+  "title": "Highland Emergency",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5758760"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "genres": [
+    "reality television",
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

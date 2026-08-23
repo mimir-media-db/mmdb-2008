@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_90210_2008",
+  "title": "90210",
+  "start_year": 2008,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q276071",
+    "imdb": "tt1225901",
+    "tmdb": 5917
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 114,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

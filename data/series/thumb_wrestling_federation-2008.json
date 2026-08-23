@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_thumb_wrestling_federation_2008",
+  "title": "Thumb Wrestling Federation",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7798805",
+    "imdb": "tt0859735",
+    "tmdb": 9170
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 92,
+  "genres": [
+    "Comedy",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

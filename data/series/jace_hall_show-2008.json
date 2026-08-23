@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_jace_hall_show_2008",
+  "title": "The Jace Hall Show",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7742805",
+    "imdb": "tt1245769",
+    "tmdb": 18421
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 94,
+  "genres": [
+    "Sport",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

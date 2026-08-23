@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_here_is_greenwood_2008",
+  "title": "Here Is Greenwood",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1388243",
+    "imdb": "tt0102230",
+    "tmdb": 43340
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

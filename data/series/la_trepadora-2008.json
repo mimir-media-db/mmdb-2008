@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_trepadora_2008",
+  "title": "La Trepadora",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5492604",
+    "imdb": "tt1445552",
+    "tmdb": 324099
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 170,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VE"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_talk_sex_2008",
+  "title": "Let's Talk Sex",
+  "start_year": 2008,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6532608",
+    "imdb": "tt2908580",
+    "tmdb": 17413
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

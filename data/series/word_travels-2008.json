@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_word_travels_2008",
+  "title": "Word Travels",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8034307",
+    "imdb": "tt1392723",
+    "tmdb": 18590
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 40,
+  "genres": [
+    "Adventure",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

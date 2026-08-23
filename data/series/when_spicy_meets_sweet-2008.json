@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_when_spicy_meets_sweet_2008",
+  "title": "When Spicy Meets Sweet",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7992748",
+    "imdb": "tt4982406"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 18,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

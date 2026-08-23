@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_food_paradise_2007",
+  "title": "Food Paradise",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5465350",
+    "imdb": "tt1200227",
+    "tmdb": 37550
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 60,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

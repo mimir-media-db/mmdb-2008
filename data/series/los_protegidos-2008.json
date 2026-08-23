@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_los_protegidos_2008",
+  "title": "Los Protegidos",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6683175",
+    "imdb": "tt1264036",
+    "tmdb": 5542
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 107,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

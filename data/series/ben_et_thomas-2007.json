@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ben_et_thomas_2007",
+  "title": "Ben et Thomas",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2895610",
+    "imdb": "tt1166202",
+    "tmdb": 7247
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

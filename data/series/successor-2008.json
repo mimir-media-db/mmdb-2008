@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_successor_2008",
+  "title": "The Successor",
+  "start_year": 2008,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q262400",
+    "imdb": "tt1171037",
+    "tmdb": 14319
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Mystery",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

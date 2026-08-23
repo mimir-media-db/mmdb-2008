@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hardy_bucks_2008",
+  "title": "Hardy Bucks",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5656544",
+    "imdb": "tt1719837",
+    "tmdb": 21493
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IE"
+  ]
+}

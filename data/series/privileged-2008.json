@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_privileged_2008",
+  "title": "Privileged",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q278078",
+    "imdb": "tt1197567",
+    "tmdb": 5919
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

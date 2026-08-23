@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_worlds_funniest_moments_2008",
+  "title": "The World's Funniest Moments",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7775874"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

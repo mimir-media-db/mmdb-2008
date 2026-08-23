@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_la_guerra_de_los_chistes_2008",
+  "title": "La Guerra de los Chistes",
+  "start_year": 2008,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q6462998",
+    "imdb": "tt1280604",
+    "tmdb": 7706
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

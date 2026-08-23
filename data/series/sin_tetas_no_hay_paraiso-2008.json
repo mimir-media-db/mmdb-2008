@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sin_tetas_no_hay_paraiso_2008",
+  "title": "Sin tetas no hay paraíso",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1248917",
+    "imdb": "tt1077065",
+    "tmdb": 3988
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 43,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_model_latina_2008",
+  "title": "Model Latina",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6888253",
+    "imdb": "tt1216434",
+    "tmdb": 32367
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 61,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_bonekickers_2008",
+  "title": "Bonekickers",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1036337",
+    "imdb": "tt1148181",
+    "tmdb": 7422
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

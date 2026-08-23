@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_nang_tard_2008",
+  "title": "Nang Tard",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6579342"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 19,
+  "genres": [
+    "soap opera"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

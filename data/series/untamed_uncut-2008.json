@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_untamed_uncut_2008",
+  "title": "Untamed & Uncut",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7897559",
+    "imdb": "tt1244657",
+    "tmdb": 17930
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 27,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

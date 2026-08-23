@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_love_it_or_list_it_2008",
+  "title": "Love It or List It",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q610525",
+    "imdb": "tt1773182",
+    "tmdb": 33927
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 10,
+  "total_episodes": 130,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

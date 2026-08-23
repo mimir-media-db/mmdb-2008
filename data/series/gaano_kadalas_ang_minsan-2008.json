@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_gaano_kadalas_ang_minsan_2008",
+  "title": "Gaano Kadalas ang Minsan",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5515217",
+    "imdb": "tt1256144",
+    "tmdb": 7347
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 100,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

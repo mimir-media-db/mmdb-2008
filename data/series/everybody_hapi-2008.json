@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_everybody_hapi_2008",
+  "title": "Everybody Hapi",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q12963868",
+    "imdb": "tt1328156",
+    "tmdb": 33456
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 92,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

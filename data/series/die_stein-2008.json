@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_die_stein_2008",
+  "title": "Die Stein",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1216449",
+    "imdb": "tt1265629"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

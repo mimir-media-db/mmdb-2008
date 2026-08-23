@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_clone_2008",
+  "title": "Clone",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2979565",
+    "imdb": "tt1169424",
+    "tmdb": 18339
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

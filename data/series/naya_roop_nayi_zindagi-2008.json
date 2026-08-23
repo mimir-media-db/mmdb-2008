@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_naya_roop_nayi_zindagi_2008",
+  "title": "Naya Roop Nayi Zindagi",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6983052"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

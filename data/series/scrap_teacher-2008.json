@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_scrap_teacher_2008",
+  "title": "Scrap Teacher",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q705704",
+    "imdb": "tt1277983",
+    "tmdb": 21045
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

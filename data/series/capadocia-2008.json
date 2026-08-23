@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_capadocia_2008",
+  "title": "Capadocia",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q858094",
+    "imdb": "tt1068899",
+    "tmdb": 31388
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 39,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

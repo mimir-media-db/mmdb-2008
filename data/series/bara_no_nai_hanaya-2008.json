@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bara_no_nai_hanaya_2008",
+  "title": "Bara no nai Hanaya",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q711185",
+    "imdb": "tt1165004",
+    "tmdb": 15780
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

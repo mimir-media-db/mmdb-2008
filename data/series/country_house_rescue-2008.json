@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_country_house_rescue_2008",
+  "title": "Country House Rescue",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5177329",
+    "imdb": "tt1541786",
+    "tmdb": 8479
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

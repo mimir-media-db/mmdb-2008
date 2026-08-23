@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_sordid_lives_the_series_2008",
+  "title": "Sordid Lives: The Series",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2303222",
+    "imdb": "tt1078273",
+    "tmdb": 5932
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

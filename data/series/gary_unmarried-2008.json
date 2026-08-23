@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_gary_unmarried_2008",
+  "title": "Gary Unmarried",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1494980",
+    "imdb": "tt1229401",
+    "tmdb": 5911
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 37,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

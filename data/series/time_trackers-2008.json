@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_time_trackers_2008",
+  "title": "Time Trackers",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7805161",
+    "imdb": "tt1425398",
+    "tmdb": 7902
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Adventure",
+    "Family",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "NZ"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ta_chrisa_koritsia_2008",
+  "title": "Ta Chrisa Koritsia",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q101003241",
+    "imdb": "tt1167357",
+    "tmdb": 312059
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 40,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

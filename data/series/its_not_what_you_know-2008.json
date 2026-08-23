@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_its_not_what_you_know_2008",
+  "title": "It's Not What You Know",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q16850494",
+    "imdb": "tt1610469",
+    "tmdb": 15835
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 30,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_random_cartoons_2008",
+  "title": "Random! Cartoons",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q15711109",
+    "imdb": "tt0890874",
+    "tmdb": 10870
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

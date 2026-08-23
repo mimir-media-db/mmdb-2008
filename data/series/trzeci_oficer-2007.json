@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_trzeci_oficer_2007",
+  "title": "Trzeci oficer",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9362223",
+    "imdb": "tt1343303",
+    "tmdb": 38744
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

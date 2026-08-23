@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ex_list_2008",
+  "title": "The Ex List",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2713528",
+    "imdb": "tt1196947",
+    "tmdb": 5922
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

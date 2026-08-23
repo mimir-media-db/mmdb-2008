@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ryusei_no_kizuna_2008",
+  "title": "Ryūsei no Kizuna",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q12970246",
+    "imdb": "tt1315336",
+    "tmdb": 7803
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

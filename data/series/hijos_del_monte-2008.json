@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hijos_del_monte_2008",
+  "title": "Hijos del Monte",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3135483",
+    "imdb": "tt1271993",
+    "tmdb": 20506
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 131,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

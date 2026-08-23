@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_mtvs_top_pop_group_2008",
+  "title": "MTV's Top Pop Group",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6718564"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

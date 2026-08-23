@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_taste_buds_2008",
+  "title": "Taste Buds",
+  "start_year": 2008,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7687668",
+    "imdb": "tt1253286",
+    "tmdb": 21001
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_maligno_2008",
+  "title": "Maligno",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q12967616",
+    "imdb": "tt1166722"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

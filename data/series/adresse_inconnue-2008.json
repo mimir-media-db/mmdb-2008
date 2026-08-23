@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_adresse_inconnue_2008",
+  "title": "Adresse inconnue",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2825000",
+    "imdb": "tt1256553",
+    "tmdb": 91874
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 10,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

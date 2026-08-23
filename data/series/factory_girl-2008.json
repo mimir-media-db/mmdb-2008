@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_factory_girl_2008",
+  "title": "Factory Girl",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q486915",
+    "imdb": "tt2272165"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

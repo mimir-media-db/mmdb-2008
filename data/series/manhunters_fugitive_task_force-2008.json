@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_manhunters_fugitive_task_force_2008",
+  "title": "Manhunters: Fugitive Task Force",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6749381",
+    "imdb": "tt1328268",
+    "tmdb": 16357
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

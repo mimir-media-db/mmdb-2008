@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_palizzi_2007",
+  "title": "Palizzi",
+  "start_year": 2007,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3361460",
+    "imdb": "tt1846254",
+    "tmdb": 91887
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 100,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

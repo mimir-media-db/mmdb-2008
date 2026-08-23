@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_magdusa_ka_2008",
+  "title": "Magdusa Ka",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6730016",
+    "imdb": "tt1202316",
+    "tmdb": 7160
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 80,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

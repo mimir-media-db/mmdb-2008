@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_time_2008",
+  "title": "Crime Time",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5185223",
+    "imdb": "tt0995010",
+    "tmdb": 32321
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 120,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

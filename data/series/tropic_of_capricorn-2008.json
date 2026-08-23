@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_tropic_of_capricorn_2008",
+  "title": "Tropic of Capricorn",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7845740",
+    "imdb": "tt1276915",
+    "tmdb": 20824
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grihasti_2008",
+  "title": "Grihasti",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5609145"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 285,
+  "countries": [
+    "IN"
+  ]
+}

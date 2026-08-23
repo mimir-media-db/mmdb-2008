@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_revelacao_2007",
+  "title": "Revelação",
+  "start_year": 2007,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q10360039"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

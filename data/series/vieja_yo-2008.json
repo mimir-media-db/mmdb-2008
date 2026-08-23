@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_vieja_yo_2008",
+  "title": "¿Vieja Yo?",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6172496",
+    "imdb": "tt1344052"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 122,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VE"
+  ]
+}

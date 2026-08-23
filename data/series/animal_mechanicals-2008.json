@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_mechanicals_2008",
+  "title": "Animal Mechanicals",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3281625",
+    "imdb": "tt1516169",
+    "tmdb": 21086
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 73,
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

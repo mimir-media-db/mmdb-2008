@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ktai_investigator_7_2008",
+  "title": "K-tai Investigator 7",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1003132",
+    "imdb": "tt1201800",
+    "tmdb": 8703
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

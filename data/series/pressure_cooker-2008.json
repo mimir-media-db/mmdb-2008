@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_pressure_cooker_2008",
+  "title": "The Pressure Cooker",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7758098"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 1,
+  "genres": [
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IE"
+  ]
+}

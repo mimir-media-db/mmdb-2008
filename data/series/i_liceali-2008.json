@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_i_liceali_2008",
+  "title": "I liceali",
+  "start_year": 2008,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3790942",
+    "imdb": "tt1170383",
+    "tmdb": 41399
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 20,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

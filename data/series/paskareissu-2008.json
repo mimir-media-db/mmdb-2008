@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_paskareissu_2008",
+  "title": "Paskareissu",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q11886837",
+    "imdb": "tt1213003",
+    "tmdb": 100241
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

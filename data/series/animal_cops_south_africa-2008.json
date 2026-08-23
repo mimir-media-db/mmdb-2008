@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_cops_south_africa_2008",
+  "title": "Animal Cops: South Africa",
+  "start_year": 2008,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4764783"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

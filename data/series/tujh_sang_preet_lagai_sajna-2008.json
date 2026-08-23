@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_tujh_sang_preet_lagai_sajna_2008",
+  "title": "Tujh Sang Preet Lagai Sajna",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q16958395",
+    "imdb": "tt6451280"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 295,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

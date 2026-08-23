@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_find_my_family_2008",
+  "title": "Find My Family",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132176500",
+    "imdb": "tt1286757",
+    "tmdb": 7712
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 44,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

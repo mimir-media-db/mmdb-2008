@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_o_dia_do_regicidio_2008",
+  "title": "O Dia do Regicídio",
+  "start_year": 2008,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10339017",
+    "imdb": "tt1124343",
+    "tmdb": 219520
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": []
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_fat_guy_stuck_in_internet_2008",
+  "title": "Fat Guy Stuck in Internet",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5437196",
+    "imdb": "tt0942905",
+    "tmdb": 5070
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_wayne_rooneys_street_striker_2008",
+  "title": "Wayne Rooney's Street Striker",
+  "start_year": 2008,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7976572"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 10,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_amazon_2008",
+  "title": "Amazon",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4740836",
+    "imdb": "tt1288682",
+    "tmdb": 7785
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

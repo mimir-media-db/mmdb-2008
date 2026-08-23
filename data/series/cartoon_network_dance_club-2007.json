@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_cartoon_network_dance_club_2007",
+  "title": "Cartoon Network Dance Club",
+  "start_year": 2007,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q858755",
+    "imdb": "tt1716405",
+    "tmdb": 232718
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

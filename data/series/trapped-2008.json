@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_trapped_2008",
+  "title": "Trapped",
+  "start_year": 2008,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7835612",
+    "imdb": "tt1343302",
+    "tmdb": 21316
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

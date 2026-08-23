@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_shot_at_love_ii_with_tila_tequila_2008",
+  "title": "A Shot at Love II with Tila Tequila",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1748281",
+    "imdb": "tt1263573"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_16x9_2008",
+  "title": "16x9",
+  "start_year": 2008,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q4551998",
+    "imdb": "tt2290863",
+    "tmdb": 16337
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 33,
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

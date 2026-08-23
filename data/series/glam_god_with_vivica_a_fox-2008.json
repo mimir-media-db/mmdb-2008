@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_glam_god_with_vivica_a_fox_2008",
+  "title": "Glam God with Vivica A. Fox",
+  "start_year": 2008,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5566503",
+    "imdb": "tt1264972",
+    "tmdb": 7751
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}
