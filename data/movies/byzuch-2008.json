@@ -9,6 +9,10 @@
     "imdb": "tt2570398",
     "tmdb": 238252
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-09-28"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-09-28",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

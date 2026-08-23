@@ -8,6 +8,10 @@
     "wikidata": "Q6072800",
     "imdb": "tt1202295"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 14
+  "last_updated": "2026-08-23",
+  "total_episodes": 14,
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false
 }

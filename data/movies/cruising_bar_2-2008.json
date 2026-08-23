@@ -9,7 +9,11 @@
     "imdb": "tt1166094",
     "tmdb": 33989
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-06-16",
-  "runtime_minutes": 103
+  "runtime_minutes": 103,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

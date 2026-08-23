@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q785992"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-06-03"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-06-03",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

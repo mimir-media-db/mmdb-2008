@@ -9,7 +9,13 @@
     "imdb": "tt0489099",
     "tmdb": 8247
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-02-06",
-  "runtime_minutes": 89
+  "runtime_minutes": 89,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

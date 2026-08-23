@@ -9,7 +9,13 @@
     "imdb": "tt1122725",
     "tmdb": 14058
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 62
+  "total_episodes": 62,
+  "genres": [
+    "Adventure",
+    "Documentary",
+    "Horror"
+  ],
+  "is_adult": false
 }

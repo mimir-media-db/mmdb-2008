@@ -8,7 +8,12 @@
     "wikidata": "Q7246455",
     "imdb": "tt28333738"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-07-24",
-  "runtime_minutes": 132
+  "runtime_minutes": 132,
+  "genres": [
+    "Action",
+    "Romance"
+  ],
+  "is_adult": false
 }

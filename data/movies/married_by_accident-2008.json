@@ -7,7 +7,12 @@
   "external_ids": {
     "wikidata": "Q12495742"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-12-04",
-  "runtime_minutes": 95
+  "runtime_minutes": 95,
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,11 @@
     "imdb": "tt1199503",
     "tmdb": 104156
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-07-06"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-07-06",
+  "genres": [
+    "Biography",
+    "Documentary"
+  ],
+  "is_adult": false
 }

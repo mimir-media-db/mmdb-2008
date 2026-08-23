@@ -8,7 +8,12 @@
     "wikidata": "Q7111779",
     "imdb": "tt1189415"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 16
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false
 }

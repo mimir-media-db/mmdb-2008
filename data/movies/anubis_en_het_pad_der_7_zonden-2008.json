@@ -9,6 +9,11 @@
     "imdb": "tt1214946",
     "tmdb": 20594
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-10-08"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-10-08",
+  "genres": [
+    "Family",
+    "Mystery"
+  ],
+  "is_adult": false
 }

@@ -8,7 +8,11 @@
     "wikidata": "Q5915651",
     "imdb": "tt15691244"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 13,
-  "total_episodes": 43
+  "total_episodes": 43,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

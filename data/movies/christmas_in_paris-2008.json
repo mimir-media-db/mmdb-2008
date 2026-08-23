@@ -9,6 +9,12 @@
     "imdb": "tt1198337",
     "tmdb": 295489
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-12-27"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-12-27",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false
 }

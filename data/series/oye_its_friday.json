@@ -9,6 +9,10 @@
     "imdb": "tt1373021",
     "tmdb": 16342
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 15
+  "last_updated": "2026-08-23",
+  "total_episodes": 15,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

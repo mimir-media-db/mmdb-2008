@@ -9,6 +9,10 @@
     "imdb": "tt1369688",
     "tmdb": 670265
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-11-06"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-11-06",
+  "genres": [
+    "Horror"
+  ],
+  "is_adult": false
 }

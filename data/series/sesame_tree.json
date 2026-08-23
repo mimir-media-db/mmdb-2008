@@ -7,7 +7,13 @@
   "external_ids": {
     "wikidata": "Q7456010"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 40
+  "total_episodes": 40,
+  "genres": [
+    "educational television",
+    "children's television series",
+    "television in Ireland"
+  ],
+  "is_adult": false
 }

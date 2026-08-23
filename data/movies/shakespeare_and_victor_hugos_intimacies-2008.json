@@ -9,7 +9,13 @@
     "imdb": "tt1206014",
     "tmdb": 280901
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-02-27",
-  "runtime_minutes": 83
+  "runtime_minutes": 83,
+  "genres": [
+    "Crime",
+    "Documentary",
+    "Thriller"
+  ],
+  "is_adult": false
 }

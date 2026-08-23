@@ -9,7 +9,12 @@
     "imdb": "tt2246070",
     "tmdb": 409816
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-04-30",
-  "runtime_minutes": 40
+  "runtime_minutes": 40,
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "is_adult": false
 }

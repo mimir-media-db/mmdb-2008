@@ -9,6 +9,12 @@
     "imdb": "tt1181849",
     "tmdb": 79451
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-11-02"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-11-02",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false
 }

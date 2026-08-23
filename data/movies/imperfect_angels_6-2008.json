@@ -8,7 +8,13 @@
     "wikidata": "Q92611217",
     "imdb": "tt1623252"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-01-01",
-  "runtime_minutes": 136
+  "runtime_minutes": 136,
+  "genres": [
+    "Adult",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": true
 }

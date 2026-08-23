@@ -9,7 +9,12 @@
     "imdb": "tt1198405",
     "tmdb": 31237
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-10-17",
-  "runtime_minutes": 100
+  "runtime_minutes": 100,
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false
 }

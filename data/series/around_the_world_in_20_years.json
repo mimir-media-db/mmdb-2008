@@ -8,6 +8,10 @@
     "wikidata": "Q4795641",
     "imdb": "tt1346951"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 1
+  "last_updated": "2026-08-23",
+  "total_episodes": 1,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

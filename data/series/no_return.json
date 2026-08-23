@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q6129023"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 2
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "share",
+    "thriller television series"
+  ],
+  "is_adult": false
 }

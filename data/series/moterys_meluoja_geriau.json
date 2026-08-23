@@ -9,6 +9,12 @@
     "imdb": "tt4841390",
     "tmdb": 59804
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 6
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false
 }

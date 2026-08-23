@@ -8,7 +8,13 @@
     "wikidata": "Q6212189",
     "imdb": "tt1381611"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2008-06-12",
-  "runtime_minutes": 10
+  "runtime_minutes": 10,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Short"
+  ],
+  "is_adult": false
 }

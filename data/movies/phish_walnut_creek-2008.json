@@ -9,6 +9,10 @@
     "imdb": "tt1653705",
     "tmdb": 64602
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2008-08-05"
+  "last_updated": "2026-08-23",
+  "release_date": "2008-08-05",
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false
 }

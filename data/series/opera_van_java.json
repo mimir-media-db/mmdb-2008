@@ -8,6 +8,11 @@
     "wikidata": "Q4250990",
     "tmdb": 39832
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 9
+  "last_updated": "2026-08-23",
+  "total_seasons": 9,
+  "genres": [
+    "comedy television program",
+    "comedy television series"
+  ],
+  "is_adult": false
 }
