@@ -17,5 +17,11 @@
     "Drama",
     "Music"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "GB",
+    "JP",
+    "US"
+  ]
 }

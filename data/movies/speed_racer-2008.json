@@ -17,5 +17,11 @@
     "Adventure",
     "Comedy"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "DE",
+    "JP",
+    "US"
+  ]
 }
